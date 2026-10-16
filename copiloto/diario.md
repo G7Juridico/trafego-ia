@@ -142,3 +142,6 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - AD030 defeituoso (picture+hash, erro 1443051): 120253401177240247 (01), 120253401177250247 (02), 120253401177260247 (03). Precisam sair.
 - Teste: `{"status":"DELETED"}` em rascunho no 120253401177240247 → aceito (is_draft true), mas a releitura continua `validation_status: HAS_ERRORS`. Não dá para provar que a publicação ignora o item. Não repetido nos outros 5. Remoção pedida ao usuário no Gerenciador (descartar os 6 itens do rascunho).
 - Checklist que só dá para fechar DEPOIS de publicar: `learning_stage_info.attribution_windows`, `attribution_setting`, `results.indicator`, `ads_get_errors` (só leem objeto vivo).
+- Pedido do usuário: marcar o que não usar com [NÃO USAR] para ele excluir/desativar depois de publicar.
+  - AD032 (3): renomeados `[NÃO USAR] [OUT26] [VEN] [AD032] - Notas ENAM`, status PAUSED, VALIDATED. Publicam pausados.
+  - AD030 com erro (3): renomeados `[NÃO USAR] ... - ERRO`, PAUSED (o 120253401177240247 saiu de DELETED para PAUSED). **Continuam HAS_ERRORS** — pausar não remove o erro de criativo; provável que travem a publicação. Precisam ser descartados no Gerenciador ANTES de publicar.
