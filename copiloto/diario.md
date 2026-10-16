@@ -105,3 +105,24 @@ Todas as outras campanhas com gasto nos 90 dias estão PAUSED. Nenhuma foi tocad
 - Pedido: campanha de venda perpétua no lugar de uma por mês. Entregue só a estrutura, em `estrutura-perpetua.md`. Nada criado no Meta.
 - Decisão proposta: 2 campanhas (FRIO R$1.000/dia, QUENTE R$500/dia), 1 conjunto cada, oferta mensal entra como anúncio. Conta: nem assim chega a 50 conversões/semana declaradas.
 - Desconexão do conector Meta durante a sessão: nada dependia de chamada nova.
+
+## 2026-10-16 — Sessão 1 (cont.): criação da campanha [G7] Vendas 01 Out26 Frio (RASCUNHO)
+Conector em **modo rascunho**: tudo fica no rascunho do Gerenciador; nada publicado. Publicar = `ads_activate_entity` → vai ao ar ATIVO. Não chamar sem ordem explícita.
+
+Criado (rascunho, validado, `active_errors` vazio na releitura draft):
+| Objeto | ID |
+|---|---|
+| Campanha `[G7] - [Vendas] - [01] - [16/10/26] - [Out26] - [Frio]` (OUTCOME_SALES, CBO R$500/dia, LOWEST_COST_WITHOUT_CAP) | 120253401112630247 |
+| Conjunto `01 - BR - 25/65 - Advantage Aberto` (A+A 1, idade como sugestão 25–65, mín. 25 fixo) | 120253401114090247 |
+| Conjunto `02 - BR - 25/65 - Semelhante` (A+A 0, 4 semelhantes ∩ DD) | 120253401116470247 |
+| Conjunto `03 - BR - 25/65 - Advantage Direcionado` (A+A 0, DD) | 120253401116530247 |
+Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d view gravado, publisher_platforms explícito (sem Audience Network), exclusões iguais à campanha 03, location_types frequently_in/home/recent.
+
+### Erros desta etapa
+1. Meu: conjunto 01 criado sem `frequently_in` em location_types. Corrigido com update (draft). Releitura confirma.
+2. `ads_create_creative` com `placement_customizations` (4:5 + 9:16): recusado — "Placement Asset Customization is not enabled for this ad account in Ads MCP yet". Nada criado.
+3. `image_url` apontando para `drive.usercontent.google.com`: recusado — Meta não baixa (robots.txt). Nada criado.
+4. `ads_creative_upload_local_image`: "This tool is new and is being gradually rolled out" — indisponível para a conta.
+→ Anúncios ainda NÃO criados. Caminho: usuário sobe as 35 imagens 4:5 na Biblioteca de mídia da conta; eu pego os hashes com `ads_get_ad_images` e crio criativos + 105 anúncios.
+- `SEE_DETAILS` (CTA da campanha 03) não é aceito pela ferramenta; plano é usar LEARN_MORE ("Saiba mais"), que bate com o texto.
+- 9:16 não poderá ir junto pela API nesta conta; pode ser adicionado depois no Gerenciador, anúncio a anúncio.

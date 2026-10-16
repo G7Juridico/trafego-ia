@@ -23,3 +23,15 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 |---|---|---|
 | Projeto Supabase "G7Juridico" (vazio em 2026-10-16) | `tzkodhijzreojeswybqu` | Supabase `list_projects` |
 | Gateway de pagamento | — desconhecido | — |
+
+## Campanhas criadas pelo copiloto
+| O quê | ID | Estado |
+|---|---|---|
+| Campanha `[G7] - [Vendas] - [01] - [16/10/26] - [Out26] - [Frio]` | `120253401112630247` | rascunho |
+| Conjunto `01 - BR - 25/65 - Advantage Aberto` | `120253401114090247` | rascunho |
+| Conjunto `02 - BR - 25/65 - Semelhante` | `120253401116470247` | rascunho |
+| Conjunto `03 - BR - 25/65 - Advantage Direcionado` | `120253401116530247` | rascunho |
+
+## Padrões de nome (dados pelo usuário)
+- Campanha: `[G7] - [Vendas] - [NN] - [dd/mm/aa] - [MesAA] - [Temperatura]`
+- Conjunto: `NN - BR - idmin/idmax - Descrição`
