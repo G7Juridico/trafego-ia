@@ -87,3 +87,10 @@ Todas as outras campanhas com gasto nos 90 dias estão PAUSED. Nenhuma foi tocad
 - Bloqueado: a política de rede do ambiente nega `drive.google.com` (proxy 403 / DNS não resolve). Não há conector Google Drive instalado.
 - Nada foi lido da pasta. Nenhum criativo foi enviado ao Meta.
 - Lembrete para depois: `ads_creative_upload_media` com URL não aceita link de compartilhamento do Drive (devolve HTML, não o arquivo). Subir criativo exige URL direta do arquivo ou upload local.
+
+## 2026-10-16 — Sessão 1 (cont.): criativos [OUT26] no Drive
+- Conector Google Drive ativo e domínios liberados. Pasta lida e todos os 155 PNG baixados para a pasta temporária (fora do git) e vistos um a um em folhas de contato.
+- Cruzamento com o Meta: AD01–AD028 (menos AD08) já rodam; **AD029–AD063 (35 anúncios novos) ainda não estão na conta.**
+- Detalhes, inventário e problemas em `criativos-out26.md`. O mais urgente: **AD018 com prazo de inscrição vencido (14/10) está ativo.**
+- Nada foi alterado no Meta nem no Drive.
+- Os IDs de arquivo do Drive ficam na lista temporária, não no repositório. Os e-mails dos donos dos arquivos também não entram no git.
