@@ -134,3 +134,11 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - AD030 (1ª tentativa): criativo 1512343514065703 com picture+hash → 3 anúncios rascunho COM ERRO: 120253401177240247, 120253401177250247, 120253401177260247. **Precisam sair do rascunho antes de publicar.** Não apagados ainda (aguardando decisão).
 - Criativos órfãos com o mesmo defeito, sem anúncio: AD031 1651448103175172, AD032 1438534552668036, AD033 1915100626539860, AD034 2480993322306253.
 - Usuário (16/10): **sem anúncios de ENAM Reta Final nesta campanha** → fora: AD032, AD038, AD044, AD050, AD061, AD062, AD063. Ficam 28 ADs (AD029–AD063 menos esses 7) × 3 conjuntos = 84 anúncios.
+
+### Lote final de anúncios (agente, via upload lh3 → image_hash)
+- 28 imagens 1080x1350 subidas, 28 criativos (AD030–AD060 exceto 032*, 038, 044, 050) + AD029 = 30 criativos distintos no rascunho (inclui o AD030 defeituoso).
+- Releitura completa do rascunho (2026-10-16): 1 campanha, 3 conjuntos, 90 anúncios (30 por conjunto). Link único com UTMs, CTA LEARN_MORE, página 1176977359047815, IG 17841404114381646 em todos.
+- *AD032 (Notas ENAM) foi criado antes do aviso do usuário: anúncios 120253401202580247 (01), 120253401202660247 (02), 120253401202740247 (03). Usuário não quer ENAM → precisam sair.
+- AD030 defeituoso (picture+hash, erro 1443051): 120253401177240247 (01), 120253401177250247 (02), 120253401177260247 (03). Precisam sair.
+- Teste: `{"status":"DELETED"}` em rascunho no 120253401177240247 → aceito (is_draft true), mas a releitura continua `validation_status: HAS_ERRORS`. Não dá para provar que a publicação ignora o item. Não repetido nos outros 5. Remoção pedida ao usuário no Gerenciador (descartar os 6 itens do rascunho).
+- Checklist que só dá para fechar DEPOIS de publicar: `learning_stage_info.attribution_windows`, `attribution_setting`, `results.indicator`, `ads_get_errors` (só leem objeto vivo).
