@@ -32,3 +32,9 @@ Pela regra de medição, montar a fonte de venda real (gateway → Supabase) é 
 
 ### Pendência
 - Descobrir de onde vinham as ferramentas `ads_*` e reconectar o mesmo servidor nesta org.
+
+## 2026-10-16 — Sessão 1 (cont.): decisão de conectar via MCP oficial
+- Usuário decidiu: conectar via MCP.
+- MCP oficial da Meta (lançado em 29/04/2026): `https://mcp.facebook.com/ads`, adicionado como conector personalizado no claude.ai, autenticação por OAuth do Facebook escolhendo o portfólio empresarial. Fonte: pesquisa web (vários guias concordam; um guia cita `mcp.meta.com/ads/<business-id>`, não confirmado).
+- Risco conhecido: liberação gradual. Conta fora do rollout responde `is_ads_mcp_enabled: false`.
+- Próximo passo após conectar (em sessão nova): leitura da conta — `ads_get_ad_accounts` (`is_queryable`), datasets, conversões, páginas, IG, públicos, erros. Nada criado.
