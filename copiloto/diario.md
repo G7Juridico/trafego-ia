@@ -145,3 +145,15 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Pedido do usuário: marcar o que não usar com [NÃO USAR] para ele excluir/desativar depois de publicar.
   - AD032 (3): renomeados `[NÃO USAR] [OUT26] [VEN] [AD032] - Notas ENAM`, status PAUSED, VALIDATED. Publicam pausados.
   - AD030 com erro (3): renomeados `[NÃO USAR] ... - ERRO`, PAUSED (o 120253401177240247 saiu de DELETED para PAUSED). **Continuam HAS_ERRORS** — pausar não remove o erro de criativo; provável que travem a publicação. Precisam ser descartados no Gerenciador ANTES de publicar.
+
+### Publicação (feita pelo usuário no Gerenciador, 2026-10-16) — campanha PAUSADA
+- Usuário excluiu os 3 AD030 com ERRO; o rascunho foi publicado. Releitura: rascunho vazio; campanha 120253401112630247 existe no ar com status **PAUSED** (não está gastando).
+- Checklist pós-publicação (leitura live):
+  - 3 conjuntos: `attribution_spec` 7d clique + 1d view = `learning_stage_info.attribution_windows` [7d_click, 1d_view] = `attribution_setting` 1d_view_7d_click. **Os três concordam.**
+  - `publisher_platforms` explícito sem audience_network nos 3 (effective: facebook, instagram, threads).
+  - A+A: 01 = 1, 02 = 0, 03 = 0. Exclusões e semelhantes conferidos ID a ID, iguais à campanha 03.
+  - `promoted_object` pixel 1250040671830251 PURCHASE; `results.indicator` dos anúncios = `actions:offsite_conversion.fb_pixel_purchase`.
+  - `ads_get_errors` na campanha: `[]`.
+  - Anúncios: 28 ADs × 3 conjuntos (CAMPAIGN_PAUSED) + 3 `[NÃO USAR] AD032` (PAUSED).
+- O aviso "Please authenticate your account" visto na sessão 1 não impediu a publicação.
+- Próximo passo: ativar a campanha — só com ordem explícita do usuário nomeando a campanha.
