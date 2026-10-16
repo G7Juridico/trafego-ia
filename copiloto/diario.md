@@ -81,3 +81,9 @@ Todas as outras campanhas com gasto nos 90 dias estão PAUSED. Nenhuma foi tocad
 ### Erros/armadilhas desta sessão
 - `ads_get_dataset_stats`: `start_time` deve ser timestamp Unix em segundos e ≤ 28 dias. Errei o ano no cálculo e levei erro 100. Conferir a conta antes de chamar.
 - `ads_get_errors` no nível da conta estoura o limite de saída (72 mil caracteres). Processar o arquivo salvo com python (armadilha 15) — funcionou.
+
+## 2026-10-16 — Sessão 1 (cont.): pasta de criativos no Google Drive
+- Pedido: ver os criativos da pasta do Drive `1qpuhE_loB0oLHRpY7ysV_g2oGeEbcyBw`.
+- Bloqueado: a política de rede do ambiente nega `drive.google.com` (proxy 403 / DNS não resolve). Não há conector Google Drive instalado.
+- Nada foi lido da pasta. Nenhum criativo foi enviado ao Meta.
+- Lembrete para depois: `ads_creative_upload_media` com URL não aceita link de compartilhamento do Drive (devolve HTML, não o arquivo). Subir criativo exige URL direta do arquivo ou upload local.
