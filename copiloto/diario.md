@@ -126,3 +126,11 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 → Anúncios ainda NÃO criados. Caminho: usuário sobe as 35 imagens 4:5 na Biblioteca de mídia da conta; eu pego os hashes com `ads_get_ad_images` e crio criativos + 105 anúncios.
 - `SEE_DETAILS` (CTA da campanha 03) não é aceito pela ferramenta; plano é usar LEARN_MORE ("Saiba mais"), que bate com o texto.
 - 9:16 não poderá ir junto pela API nesta conta; pode ser adicionado depois no Gerenciador, anúncio a anúncio.
+
+### Continuação — anúncios
+- Imagem do Drive sobe direto no Meta pelo link `https://lh3.googleusercontent.com/d/<ID>` com `ads_creative_upload_media` (URL). O link `drive.usercontent.google.com` é recusado (robots.txt). Arquivo precisa estar compartilhado "qualquer pessoa com o link".
+- **Armadilha nova:** `ads_create_creative` com `image_url` grava `picture` E `image_hash` no link_data → anúncio fica com erro `AD_DRAFT_PUBLISHING / 1443051 ObjectStorySpecRedundant`. Correto: subir a imagem antes (upload_media) e criar o criativo só com `image_hash`.
+- AD029: imagem hash f24606ca5485c5b7b35d368bf7c8bf6b, criativo 1737719787289398, anúncios A 120253401164760247, B 120253401170370247, C 120253401170630247 — sem erro.
+- AD030 (1ª tentativa): criativo 1512343514065703 com picture+hash → 3 anúncios rascunho COM ERRO: 120253401177240247, 120253401177250247, 120253401177260247. **Precisam sair do rascunho antes de publicar.** Não apagados ainda (aguardando decisão).
+- Criativos órfãos com o mesmo defeito, sem anúncio: AD031 1651448103175172, AD032 1438534552668036, AD033 1915100626539860, AD034 2480993322306253.
+- Usuário (16/10): **sem anúncios de ENAM Reta Final nesta campanha** → fora: AD032, AD038, AD044, AD050, AD061, AD062, AD063. Ficam 28 ADs (AD029–AD063 menos esses 7) × 3 conjuntos = 84 anúncios.
