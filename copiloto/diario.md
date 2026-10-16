@@ -1,0 +1,20 @@
+# Diário
+
+## 2026-10-16 — Sessão 1: reconhecimento
+
+**Objetivo:** ler o contrato e descobrir sozinho o que a API entrega da conta G7Jurídico. Nada criado.
+
+### Descobertas
+- **Meta Ads: sem acesso nesta sessão.** Nenhuma ferramenta `ads_*` está carregada; a busca por ferramentas não encontra conector Meta/Facebook. Não é falta de permissão na conta — o conector simplesmente não está conectado a esta sessão. Nenhum dado da conta foi lido, portanto nenhum número da conta é conhecido.
+- **Supabase:** um projeto, `G7Juridico` (`tzkodhijzreojeswybqu`), criado hoje (2026-10-16 08:06 UTC), status ACTIVE_HEALTHY.
+  - Schema `public`: **0 tabelas**. Só existem schemas de sistema (auth 27, storage 8, realtime 3, vault 2, extensions 2).
+  - **0 Edge Functions.**
+  - Conclusão: **não existe hoje fonte de venda real** no banco — nenhuma tabela de pedidos, nenhum webhook de gateway.
+- Repositório `trafego-ia` estava vazio (sem commits). Esta pasta é o primeiro conteúdo.
+- O conector Supabase do plugin (`plugin:supabase:supabase`) falhou ao conectar (proxy 403); o conector `Supabase` principal funcionou e foi o usado.
+
+### Implicação
+Pela regra de medição, montar a fonte de venda real (gateway → Supabase) é prioridade sobre qualquer otimização. Depende de saber qual gateway a G7Jurídico usa.
+
+### Erros / armadilhas desta sessão
+- Nenhum.
