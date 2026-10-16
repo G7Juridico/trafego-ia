@@ -18,3 +18,17 @@ Pela regra de medição, montar a fonte de venda real (gateway → Supabase) é 
 
 ### Erros / armadilhas desta sessão
 - Nenhum.
+
+## 2026-10-16 — Sessão 1 (cont.): conectar Meta Ads
+
+**Pedido:** conectar a conta Meta Ads para subir, otimizar e puxar dados do Gerenciador.
+
+### O que foi verificado
+- Conectores instalados na org com "meta/facebook/ads/instagram": **nenhum**.
+- Catálogo público de conectores: **nenhum expõe as ferramentas `ads_*`** do contrato (`ads_get_ad_accounts`, `ads_activate_entity`, `ads_get_errors`, leitura `draft`/`is_draft`...). Os que aparecem:
+  - Windsor.ai, Supermetrics — **só leitura** de relatório. Servem para puxar dados; não criam nem editam.
+  - Adspirer, AdWhispr — criam e "rodam campanhas de forma autônoma". **Conflita com a regra de segurança 1** (nada é ativado sem pedido explícito) e não expõem rascunho/`is_draft`. Não recomendado como ferramenta de escrita.
+- Hipótese: as ferramentas `ads_*` da conta anterior vinham de um conector personalizado (servidor MCP adicionado por URL), não do catálogo. Não confirmado.
+
+### Pendência
+- Descobrir de onde vinham as ferramentas `ads_*` e reconectar o mesmo servidor nesta org.
