@@ -94,3 +94,9 @@ Todas as outras campanhas com gasto nos 90 dias estão PAUSED. Nenhuma foi tocad
 - Detalhes, inventário e problemas em `criativos-out26.md`. O mais urgente: **AD018 com prazo de inscrição vencido (14/10) está ativo.**
 - Nada foi alterado no Meta nem no Drive.
 - Os IDs de arquivo do Drive ficam na lista temporária, não no repositório. Os e-mails dos donos dos arquivos também não entram no git.
+
+## 2026-10-16 — Sessão 1 (cont.): análise SET/OUT por público e configuração
+- Pedido: qual público/configuração trouxe mais ROAS em vendas em setembro e outubro.
+- Feito só com dado declarado (sem gateway). Tabela e problemas em `analise-set-out-2026.md`.
+- Leitura de config de 13 conjuntos estourou a saída (166 mil caracteres) → processado com python (armadilha 15).
+- Achado principal: compras declaradas com valor de R$18–24 na OUT26-03 — não são venda de curso.
