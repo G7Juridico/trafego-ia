@@ -100,3 +100,8 @@ Todas as outras campanhas com gasto nos 90 dias estão PAUSED. Nenhuma foi tocad
 - Feito só com dado declarado (sem gateway). Tabela e problemas em `analise-set-out-2026.md`.
 - Leitura de config de 13 conjuntos estourou a saída (166 mil caracteres) → processado com python (armadilha 15).
 - Achado principal: compras declaradas com valor de R$18–24 na OUT26-03 — não são venda de curso.
+
+## 2026-10-16 — Sessão 1 (cont.): estrutura perpétua
+- Pedido: campanha de venda perpétua no lugar de uma por mês. Entregue só a estrutura, em `estrutura-perpetua.md`. Nada criado no Meta.
+- Decisão proposta: 2 campanhas (FRIO R$1.000/dia, QUENTE R$500/dia), 1 conjunto cada, oferta mensal entra como anúncio. Conta: nem assim chega a 50 conversões/semana declaradas.
+- Desconexão do conector Meta durante a sessão: nada dependia de chamada nova.
