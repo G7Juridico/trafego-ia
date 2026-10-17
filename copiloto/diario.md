@@ -172,3 +172,7 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   Mesma segmentação, exclusões, pixel, VALUE, atribuição 7d/1d e posicionamentos da campanha 01.
 - Pendente antes dos criativos: parâmetro `uid_mh` no link (parece identificador de sessão/usuário de quem copiou o link — se for, todo clique do anúncio carrega o mesmo uid). Perguntado ao usuário.
 - Alerta dado: público servidor/advocacia pode não ser o ideal para ENAM (exame da magistratura) — usuário pediu mesma estrutura.
+- Usuário aprovou link limpo `https://www.g7juridico.com.br/reta-final-enam-2026` (sem uid_mh) + UTMs.
+- Agente criou 6 uploads (lh3 → hash), 7 criativos por image_hash, 21 anúncios. Releitura do rascunho: 1 campanha, 3 conjuntos, 21 anúncios (7 por conjunto: AD032, 038, 044, 050, 061, 062, 063), link único limpo com UTMs, CTA LEARN_MORE, 0 erros.
+- Criativos: AD032 1118646820754820 · AD038 1140880958478223 · AD044 1099641365812042 · AD050 978736357951773 · AD061 984748830626669 · AD062 3088163501515018 · AD063 1636147037877604.
+- Status: RASCUNHO. Publicação só com o usuário.

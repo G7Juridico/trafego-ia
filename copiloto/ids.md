@@ -35,3 +35,7 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 ## Padrões de nome (dados pelo usuário)
 - Campanha: `[G7] - [Vendas] - [NN] - [dd/mm/aa] - [MesAA] - [Temperatura]`
 - Conjunto: `NN - BR - idmin/idmax - Descrição`
+| Campanha `[G7] - [Vendas] - [02] - [17/10/26] - [Out26] - [Frio]` (Reta Final ENAM) | `120253403431830247` | rascunho |
+| Conjunto `01 - BR - 25/65 - Advantage Aberto` (ENAM) | `120253403446800247` | rascunho |
+| Conjunto `02 - BR - 25/65 - Semelhante` (ENAM) | `120253403448980247` | rascunho |
+| Conjunto `03 - BR - 25/65 - Advantage Direcionado` (ENAM) | `120253403449640247` | rascunho |
