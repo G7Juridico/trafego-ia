@@ -157,3 +157,18 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   - Anúncios: 28 ADs × 3 conjuntos (CAMPAIGN_PAUSED) + 3 `[NÃO USAR] AD032` (PAUSED).
 - O aviso "Please authenticate your account" visto na sessão 1 não impediu a publicação.
 - Próximo passo: ativar a campanha — só com ordem explícita do usuário nomeando a campanha.
+
+## 2026-10-17 — Campanha Reta Final ENAM (RASCUNHO)
+- Pedido: campanha nova no mesmo molde da anterior, Reta Final ENAM, R$500/dia, link https://www.g7juridico.com.br/reta-final-enam-2026?uid_mh=…
+- Criativos de foto ENAM ainda fora de campanhas no ar: AD032, AD038, AD044, AD050, AD061, AD062, AD063 (7). AD07 e AD017 (ENAM) já rodam nas OUT26. AD066 (novo, 16/10) é vídeo .mp4 — fora de campanha de foto.
+- Copy: não existe copy específica de ENAM na conta (AD07 ENAM usa o texto geral de outubro). Plano: mesmo texto da campanha 01.
+- Criado em rascunho, sem erros:
+  | Objeto | ID |
+  |---|---|
+  | Campanha `[G7] - [Vendas] - [02] - [17/10/26] - [Out26] - [Frio]` (OUTCOME_SALES, CBO R$500/dia) | 120253403431830247 |
+  | `01 - BR - 25/65 - Advantage Aberto` | 120253403446800247 |
+  | `02 - BR - 25/65 - Semelhante` | 120253403448980247 |
+  | `03 - BR - 25/65 - Advantage Direcionado` | 120253403449640247 |
+  Mesma segmentação, exclusões, pixel, VALUE, atribuição 7d/1d e posicionamentos da campanha 01.
+- Pendente antes dos criativos: parâmetro `uid_mh` no link (parece identificador de sessão/usuário de quem copiou o link — se for, todo clique do anúncio carrega o mesmo uid). Perguntado ao usuário.
+- Alerta dado: público servidor/advocacia pode não ser o ideal para ENAM (exame da magistratura) — usuário pediu mesma estrutura.
