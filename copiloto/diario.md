@@ -176,3 +176,13 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Agente criou 6 uploads (lh3 → hash), 7 criativos por image_hash, 21 anúncios. Releitura do rascunho: 1 campanha, 3 conjuntos, 21 anúncios (7 por conjunto: AD032, 038, 044, 050, 061, 062, 063), link único limpo com UTMs, CTA LEARN_MORE, 0 erros.
 - Criativos: AD032 1118646820754820 · AD038 1140880958478223 · AD044 1099641365812042 · AD050 978736357951773 · AD061 984748830626669 · AD062 3088163501515018 · AD063 1636147037877604.
 - Status: RASCUNHO. Publicação só com o usuário.
+
+## 2026-10-19 — Troca de texto ENAM: interrompida, campanha 02 encontrada NO AR
+- Pedido do usuário: "Pode trocar pelo texto novo nos 21 anúncios". O plano era criar 7 criativos "ENAM v2" e 21 anúncios novos, e depois renomear os 21 antigos para `[NÃO USAR]` + PAUSED.
+- O container reiniciou e o agente de fundo morreu sem relatório. Na releitura de 19/10 o rascunho estava vazio e a campanha 120253403431830247 estava publicada:
+  - **42 anúncios ACTIVE**: os 21 antigos (texto geral de outubro, IDs 1202534034797…–1202534034866…) e 21 novos (IDs 1202534035004…–1202534035042…).
+  - O passo de renomear e pausar os antigos **não aconteceu**.
+  - Os logs de atividade só mostram "Started delivery" a partir de 17/10 08:22, e nenhum deles mostra quem publicou ou ativou.
+- Gasto declarado (Ads Manager, últimos 28d, parcial): antigos ≈ R$127, novos ≈ R$268. O conjunto 01 Advantage Aberto concentra quase tudo, e os conjuntos 02 e 03 estão em centavos. Compras declaradas: 0. Caixa: sem fonte real de vendas ainda.
+- A leitura do texto dos criativos novos para confirmar a copy v2 falhou com 502. Fica pendente.
+- **Nada no ar foi alterado.** Foi proposto ao usuário pausar os 21 antigos, aguardando confirmação.
