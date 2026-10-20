@@ -39,3 +39,11 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 | Conjunto `01 - BR - 25/65 - Advantage Aberto` (ENAM) | `120253403446800247` | rascunho |
 | Conjunto `02 - BR - 25/65 - Semelhante` (ENAM) | `120253403448980247` | rascunho |
 | Conjunto `03 - BR - 25/65 - Advantage Direcionado` (ENAM) | `120253403449640247` | rascunho |
+
+## Links de destino (conferido em 2026-10-20)
+| Campanha | Link |
+|---|---|
+| [G7] 01 Frio (120253401112630247) | `https://www.g7juridico.com.br/` + UTMs `utm_source=meta&utm_medium=paid&utm_campaign={{campaign.name}}&utm_term={{adset.name}}&utm_content={{ad.name}}&utm_placement={{placement}}` |
+| [G7] 02 Reta Final ENAM (120253403431830247) | `https://www.g7juridico.com.br/reta-final-enam-2026` + as mesmas UTMs |
+| OUT26 01/02/03 (criativos "G7 Jurídico" com 2 imagens) | `https://www.g7juridico.com.br/`. Se há UTM, ela fica em url_tags, que o MCP não lê |
+| OUT26 imagem única, CAD26, ISC26, QUE26 | **não exposto pelo MCP** (`link_url` volta vazio; a prévia não mostra o link). Conferir no Gerenciador |
