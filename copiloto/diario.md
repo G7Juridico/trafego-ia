@@ -186,3 +186,13 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Gasto declarado (Ads Manager, últimos 28d, parcial): antigos ≈ R$127, novos ≈ R$268. O conjunto 01 Advantage Aberto concentra quase tudo, e os conjuntos 02 e 03 estão em centavos. Compras declaradas: 0. Caixa: sem fonte real de vendas ainda.
 - A leitura do texto dos criativos novos para confirmar a copy v2 falhou com 502. Fica pendente.
 - **Nada no ar foi alterado.** Foi proposto ao usuário pausar os 21 antigos, aguardando confirmação.
+
+## 2026-10-21 — Comparativo ontem (20/10, dia cheio) × hoje (21/10, parcial)
+- Mudanças no histórico desde 20/10:
+  - 20/10 09:13 — campanha 02 renomeada no Gerenciador por usuário da conta: "+ [Reta Final Enam]".
+  - 20/10 16:39 — anúncio novo começou a entregar na QUE26: "[QUE26] [CAP] [AD08] - Caixinha de perguntas — Cópia_Group_1".
+  - 21/10 10:07 — Meta atualizou públicos automáticos `asa_auto_custom_audience` (sistema).
+  - Nenhuma mudança de orçamento ou status. Os 21 anúncios antigos da ENAM seguem ativos (pausa ainda não confirmada).
+- 20/10, declarado: gasto R$3.018 (R$2.639 em vendas). Compras: QUENTE 1 (R$47), [G7] 01 4 (**sem valor**), demais 0.
+- 21/10 parcial: gasto R$1.391, 0 compras.
+- CTR do link caiu em quase tudo (OUT02 1,28%→0,75%; [G7] 01 0,72%→0,56%; QUENTE 0,27%→0,22%). Só a ENAM ficou estável (0,77%→0,75%).
