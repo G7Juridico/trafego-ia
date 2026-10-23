@@ -47,3 +47,10 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 | [G7] 02 Reta Final ENAM (120253403431830247) | `https://www.g7juridico.com.br/reta-final-enam-2026` + as mesmas UTMs |
 | OUT26 01/02/03 (criativos "G7 Jurídico" com 2 imagens) | `https://www.g7juridico.com.br/`. Se há UTM, ela fica em url_tags, que o MCP não lê |
 | OUT26 imagem única, CAD26, ISC26, QUE26 | **não exposto pelo MCP** (`link_url` volta vazio; a prévia não mostra o link). Conferir no Gerenciador |
+
+## Campanha [G7] 03 Quente (21/10/26)
+| Objeto | ID |
+|---|---|
+| `[G7] - [Vendas] - [03] - [21/10/26] - [Out26] - [Quente]` (ABO, 28 × R$25/dia) | 120253481075280247 |
+| Conjunto 01 (AD029) / anúncio | 120253481085460247 / 120253481088960247 |
+| Conjuntos 02–28 | ver diario.md, 2026-10-21/23 |
