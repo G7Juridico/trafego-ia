@@ -224,3 +224,13 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Achado: alguns anúncios "AD02 Analista" da OUT26 usam a imagem do AD05 AGU (creative 1633777671487621, hash 979eb2…). A imagem real do AD02 vencedor é o hash ea2b51… (creative 1467523358522622: R$26,8 mil declarados). Foi usada a imagem certa.
 - 18 anúncios (6 por conjunto). Releitura: 22 objetos VALIDATED, 0 erros, link único pg com UTMs.
 - Pendências antes de publicar: (1) pg.g7juridico.com.br com 0 eventos nos dois pixels em 14 dias; (2) texto fala em "condição de outubro" (vence 31/10); (3) domínio bloqueado nesta sessão, oferta da página desconhecida.
+
+## 2026-10-28 — Campanha 04: texto sem prazo (v2) e leitura da pg
+- Pedido do usuário: "deixe se[m] prazo" (texto falava em "condição especial de outubro"). Ele também vai instalar o pixel na pg e liberou o domínio.
+- Imagens conferidas por prévia: AD02, AD05, AD06 e o card de Cartórios do AD012 só falam em "25% OFF + 90 dias", sem data. **AD056 Chat Encerramento tem prazo na arte** ("acabam no final de outubro, é a última chance"), então saiu e entrou o **AD037 Chat Delegado** (ROAS decl. 9,2 em outubro, sem data na arte). O primeiro card (notícia) dos carrosséis AD015 e AD012 não renderizou na prévia e não foi conferido.
+- Texto v2: "Confira a condição especial do G7:" no lugar de "…somente para o mês de outubro". Benefícios iguais.
+- Criativos v2: AD02 1138716851883170 · AD015 39418634537781066 · AD037 1918316755799982 · AD05 1182838744403213 · AD06 1354244273305629 · AD012 974224025758747.
+- 18 anúncios v2 criados: conjunto 01 → 120253595332450247…120253595333190247 · 02 → 120253595336100247…120253595336770247 · 03 → 120253595340230247…120253595340750247.
+- 18 anúncios v1 renomeados `[NÃO USAR] …` + PAUSED (todos is_draft=true).
+- Releitura: 1 campanha (PAUSED), 3 conjuntos, 36 anúncios (por conjunto: 6 novos ACTIVE + 6 [NÃO USAR] PAUSED), 0 erros, 0 anúncios novos com "outubro". Os 3 conjuntos aparecem como NEEDS_VALIDATION (sem erro), por causa da troca dos anúncios; revalidam ao abrir no Gerenciador.
+- Leitura da pg: ver `pagina-pg.md`. Sem pixel; banner diz "durante o mês de outubro".
