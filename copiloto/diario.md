@@ -208,3 +208,19 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Gasto até a pausa (declarado): 22/10 R$417,81 · 1 compra R$3.629,25 · 110 LPV; 23/10 R$98,51 · 0 compras · 30 LPV.
 - Estado atual: campanha PAUSED. Reativar só com ordem explícita do usuário.
 - IDs ad set → ad (n=2..28): 02 120253481109200247→120253481127370247 · 03 120253481127480247→120253481130130247 · 04 120253481127630247→120253481130180247 · 05 120253481127900247→120253481130220247 · 06 120253481128020247→120253481130270247 · 07 120253481142320247→120253481149720247 · 08 120253481142490247→120253481150050247 · 09 120253481142850247→120253481150340247 · 10 120253481143310247→120253481150550247 · 11 120253481143520247→120253481150660247 · 12 120253481143760247→120253481150940247 · 13 120253481180820247→120253481191780247 · 14 120253481183480247→120253481191910247 · 15 120253481185880247→120253481192010247 · 16 120253481186430247→120253481192080247 · 17 120253481186740247→120253481192190247 · 18 120253481186940247→120253481192560247 · 19 120253481203280247→120253481207510247 · 20 120253481203460247→120253481207710247 · 21 120253481203560247→120253481208010247 · 22 120253481203660247→120253481208070247 · 23 120253481203890247→120253481208280247 · 24 120253481230550247→120253481251300247 · 25 120253481231180247→120253481251830247 · 26 120253481232570247→120253481252540247 · 27 120253481235470247→120253481252690247 · 28 120253481237630247→120253481253370247. Conjunto 01 → anúncio 120253481088960247.
+
+## 2026-10-28 — Campanha [G7] 04 Misto → pg.g7juridico.com.br (RASCUNHO, PAUSADA)
+- Pedido: "Re-crie uma campanha com orçamento R$300 por dia para a URL https://pg.g7juridico.com.br/ com os 3 melhores públicos e os melhores criativos de outubro". Estrutura apresentada (plano-g7-vendas-04-pg.md), resposta "Crie essa campanha - mas não ative".
+- Campanha `[G7] - [Vendas] - [04] - [28/10/26] - [Out26] - [Misto]`: **120253595239990247**. OUTCOME_SALES, ABO. Status PAUSED staged no rascunho (antes do update foi conferido que ela NÃO existia no ar; resposta is_draft=true).
+- Conjuntos (R$100/dia cada, pixel Principal PURCHASE, 7d clique + 1d view):
+  | Conjunto | ID | Otimização | A+A | Posicionamentos |
+  |---|---|---|---|---|
+  | 01 - BR - 25/65 - Frio Advantage | 120253595244380247 | OFFSITE_CONVERSIONS | 0 | FB/IG/Messenger/WhatsApp/Threads (sem AN) |
+  | 02 - BR - 25/65 - Engajados + DD | 120253595244500247 | OFFSITE_CONVERSIONS | 0 | IG + Threads |
+  | 03 - BR - 25/65 - Frio Advantage Aberto | 120253595244600247 | VALUE | 1 | FB/IG/Messenger/WhatsApp/Threads (sem AN) |
+- Diferenças em relação aos originais: o 01 original usa o pixel **Backup** e posicionamento automático com Audience Network. Aqui ficou pixel Principal e posicionamentos explícitos sem AN, como estava no plano aprovado e no contrato.
+- Criativos novos (mesma imagem e texto, link `https://pg.g7juridico.com.br/` + UTMs, CTA LEARN_MORE):
+  AD02 Analista 1009146628879236 · AD015 Notícia Delegado PE (carrossel 2 cards) 2568992883603205 · AD056 Chat Encerramento 1051648924571397 · AD05 AGU 1946669673157044 · AD06 Magis/MP 1775384577080000 · AD012 Notícia Cartórios RO (carrossel 2 cards) 1888750388810975.
+- Achado: alguns anúncios "AD02 Analista" da OUT26 usam a imagem do AD05 AGU (creative 1633777671487621, hash 979eb2…). A imagem real do AD02 vencedor é o hash ea2b51… (creative 1467523358522622: R$26,8 mil declarados). Foi usada a imagem certa.
+- 18 anúncios (6 por conjunto). Releitura: 22 objetos VALIDATED, 0 erros, link único pg com UTMs.
+- Pendências antes de publicar: (1) pg.g7juridico.com.br com 0 eventos nos dois pixels em 14 dias; (2) texto fala em "condição de outubro" (vence 31/10); (3) domínio bloqueado nesta sessão, oferta da página desconhecida.
