@@ -51,3 +51,6 @@ AD08 não existe nem no Drive nem no Meta.
 | AD074 Nativo Site Fora do Ar | 27/10 | 4:5, 9:16 | "O site do G7 vai sair do ar… dia 31/10 é o último dia" (serve de 29 a 31/10) |
 
 **Implicação:** as matrículas 2026.2 e a condição de 25% acabam em 31/10. A campanha 04, com texto "sem prazo", passa a vender algo que fecha em 3 dias.
+- AD069 Chat Motion Encerramento (vídeo 9:16, 27,7s, conferido por quadros): conversa no WhatsApp com "Ana - Concursos": "matrículas para 2026 vão encerrar… Acabam neste sábado, 31/10"; 25% OFF + 90 dias + 15% ex-alunos. Serve de 29 a 31/10.
+- AD070 Chat Motion Gialluca (vídeo 9:16, 25,9s): conversa com "Prof. Alexandre Gialluca": "matrículas para todos os cursos 2026.2 vão encerrar. Ficam abertas só até sábado, dia 31/10"; mesmos benefícios. Serve de 29 a 31/10.
+- "[OUT26] [VEN] [API02] - 1:1 Última semana" é um Google Doc (texto de mensagem 1:1 pela API do WhatsApp), em outra pasta. Não é criativo de anúncio.
