@@ -16,3 +16,8 @@
 1. Instalar o pixel Principal 1250040671830251 (o mesmo da otimização da campanha) com PageView, mais ViewContent no clique dos cursos se possível.
 2. Banner diz "durante o mês de outubro": se o desconto seguir depois de 31/10, trocar o banner junto com os anúncios (que agora estão sem prazo).
 3. Opcional: repassar UTMs nos links para o www, para não perder a origem fora do pixel.
+
+## Pixel instalado (conferido em 29/10/2026)
+- `js/pixel.js` carrega o pixel **Principal 1250040671830251** com `PageView` em todas as páginas. Tem também `G7Pixel.lead()`, que dispara `Lead` com `eventID`, deduplicado com a API de Conversões (função `capturar-lead`), e lê os cookies `_fbp`/`_fbc`.
+- Na Meta: primeiro evento de `pg.g7juridico.com.br` em 28/10 por volta das 11h (BRT); **154 PageView** até 29/10 ~09h. Lead vindo da pg: 0 (a vitrine não tem formulário ou ninguém enviou).
+- Item 1 das pendências: **resolvido**. Ainda pendente: banner "durante o mês de outubro".
