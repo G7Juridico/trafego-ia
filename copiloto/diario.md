@@ -234,3 +234,9 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 18 anúncios v1 renomeados `[NÃO USAR] …` + PAUSED (todos is_draft=true).
 - Releitura: 1 campanha (PAUSED), 3 conjuntos, 36 anúncios (por conjunto: 6 novos ACTIVE + 6 [NÃO USAR] PAUSED), 0 erros, 0 anúncios novos com "outubro". Os 3 conjuntos aparecem como NEEDS_VALIDATION (sem erro), por causa da troca dos anúncios; revalidam ao abrir no Gerenciador.
 - Leitura da pg: ver `pagina-pg.md`. Sem pixel; banner diz "durante o mês de outubro".
+
+## 2026-10-29 — Pasta do Drive: 8 criativos novos de encerramento + campanha 04 está NO AR
+- Drive: AD067–AD074 (ver criativos-out26.md). Todos dizem que as matrículas 2026.2 e a condição acabam em **31/10**. AD071/072/073 dizem "hoje é o último dia" (só 31/10). Nenhum está no Meta.
+- Campanha 04 (120253595239990247) encontrada **ACTIVE no ar**: entrega desde 28/10 por volta das 12h (horário do log). Os 36 anúncios estão ACTIVE, incluindo os 18 `[NÃO USAR]` (texto "condição de outubro"), que deveriam estar pausados. O histórico só tem "Started delivery" e não mostra quem publicou. Eu não ativei nada.
+- Gasto declarado da campanha 04 até agora: ≈ R$350 (last_3d R$137,90 na primeira leitura do dia; soma por anúncio ≈ R$352). 1 compra declarada (conjunto 03, [NÃO USAR] AD06).
+- Nada no ar foi alterado. Propostas levadas ao usuário.

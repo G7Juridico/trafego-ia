@@ -37,3 +37,17 @@ AD08 não existe nem no Drive nem no Meta.
 5. Nomes trocados em AD010: arquivo "Promotor ..._01" mostra "Seu sonho é ser juiz?".
 6. Notícias (AD012–AD020) não têm versão 9:16 — em Stories/Reels o Meta adapta o 4:5.
 7. Dois preços para Magistratura/MP: R$3.876,75 (AD06, Combo V + Legislação Penal Especial) e R$3.629,25 (demais). Parecem produtos diferentes — confirmar.
+
+## Novos na pasta (conferido em 29/10/2026), AD067–AD074 — nenhum está no Meta ainda
+| AD | Pasta criada | Formatos | O que diz |
+|---|---|---|---|
+| AD067 Últimos dias | 22/10 | 4:5, 9:16, 1:1, 1200x628 | "Últimos dias para estudar com o G7 em 2026"; faixa "ACABA EM 31/10"; "matrículas dos cursos 2026.2 irão se encerrar em 31/10"; 25% OFF, +90 dias, +15% ex-alunos; foto dos professores |
+| AD068 As matrículas vão fechar | 22/10 | 4:5, 9:16, 1:1, 1200x628 | "As matrículas do G7 para 2026 irão se encerrar"; faixa "ÚLTIMOS DIAS"; 25% OFF |
+| AD069 Chat Motion Encerramento | 27/10 | vídeo .mp4 | (vídeo, não assistido) |
+| AD070 Chat Motion Gialluca | 27/10 | vídeo .mp4 | (vídeo, não assistido) |
+| AD071 Resposta Comentário Último Dia | 27/10 | 4:5, 9:16 | "Somente até HOJE! … se encerram às 23h59" (**só serve no dia 31/10**) |
+| AD072 Nativo Última Chance | 27/10 | 4:5, 9:16 | "HOJE É O ÚLTIMO DIA" (**só 31/10**) |
+| AD073 Nativo Último Dia | 27/10 | 4:5, 9:16 | "Último dia… se encerram HOJE, às 23H59" (**só 31/10**) |
+| AD074 Nativo Site Fora do Ar | 27/10 | 4:5, 9:16 | "O site do G7 vai sair do ar… dia 31/10 é o último dia" (serve de 29 a 31/10) |
+
+**Implicação:** as matrículas 2026.2 e a condição de 25% acabam em 31/10. A campanha 04, com texto "sem prazo", passa a vender algo que fecha em 3 dias.
