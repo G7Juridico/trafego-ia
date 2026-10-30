@@ -240,3 +240,12 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Campanha 04 (120253595239990247) encontrada **ACTIVE no ar**: entrega desde 28/10 por volta das 12h (horário do log). Os 36 anúncios estão ACTIVE, incluindo os 18 `[NÃO USAR]` (texto "condição de outubro"), que deveriam estar pausados. O histórico só tem "Started delivery" e não mostra quem publicou. Eu não ativei nada.
 - Gasto declarado da campanha 04 até agora: ≈ R$350 (last_3d R$137,90 na primeira leitura do dia; soma por anúncio ≈ R$352). 1 compra declarada (conjunto 03, [NÃO USAR] AD06).
 - Nada no ar foi alterado. Propostas levadas ao usuário.
+
+## 2026-10-29/30 — Campanha 04: anúncios de encerramento (rascunho, pausados)
+- Pedido: "Pode montar, mas não ative". Campanha 04 está NO AR; os anúncios novos entram no rascunho dentro dos conjuntos no ar, cada um com PAUSED staged (is_draft=true conferido).
+- Mídia na conta: AD067 hash f25fad70… · AD068 48585401… · AD074 4e4d195e… (4:5) · vídeo AD069 1671422714449022 · vídeo AD070 1617156643215112 · capas 9cf33145… (AD069) e 5c5e66f5… (AD070), 1080x1920.
+- Texto: "As matrículas para os cursos 2026.2 do G7 Jurídico se encerram neste sábado, 31/10…" / título "Matrículas abertas só até 31/10" / LEARN_MORE / link pg + UTMs.
+- Criativos: AD067 2687783531651227 · AD068 1584051306859587 · AD074 1137556895523439 · AD069 v2 28352076041136294 · AD070 v2 3643252812507035.
+- 9 anúncios de imagem OK, PAUSED: conj.01 120253619502690247 / 120253620658960247 / 120253620673370247 · conj.02 120253631574860247 / 120253631575980247 / 120253631612140247 · conj.03 120253631622190247 / 120253631625930247 / 120253631628140247.
+- **Armadilha repetida:** criativos de vídeo com `image_url` como capa → anúncio com erro 1443051 ObjectStorySpecRedundant (image_url + image_hash em video_data). Os 6 anúncios (criativos 966065716576844 e 1852170685776522) vão para `[NÃO USAR] … - ERRO` + PAUSED e **precisam ser excluídos no Gerenciador antes de publicar**. Correção: subir a capa como imagem (upload_media URL) e criar o criativo só com image_hash. Vale para vídeo também.
+- Vídeo v2 testado: conj.01 AD069 120253631827400247, 0 erros, PAUSED (is_draft=true). Outros 5 em criação.

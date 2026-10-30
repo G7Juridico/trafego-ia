@@ -27,3 +27,7 @@ Validado em 2026-10-16 (AD029: imagem 1080x1350 entrou na biblioteca da conta pe
 
 ## Padrão de pasta sugerido
 `[MES] [VEN] [ADxxx] - Nome/` com `... - 1080x1350.png` e `... - 1080x1920.png`. Carrossel: `_01`, `_02` na ordem dos cartões.
+
+## Vídeo (validado em 29/10/2026)
+- Upload: `ads_creative_upload_media` com `media_type=VIDEO` e `media_url=https://drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t` → video_id; aguardar status `ready` (`ads_get_ad_videos`).
+- Capa: subir a imagem `picture` do vídeo como IMAGE (vem em 1080x1920) e usar **só `image_hash`** no criativo. `image_url` na capa gera erro 1443051 ObjectStorySpecRedundant no anúncio.
