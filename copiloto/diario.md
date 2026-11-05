@@ -272,3 +272,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - IDs em ids.md. Pendente no Gerenciador: "Complementos para navegador = Nenhum" (não exposto no MCP).
 - 05/11: rascunho antigo 120253759980420247 (campanha + conjunto + 13 anúncios, nunca publicado) DESCARTADO a pedido do usuário. Fica só a versão publicada/pausada 120253760319570247.
 - 05/11: AD08 (Maratona ENAM, ad 120253760876640247 → criativo 1472675631627864) e AD09 (Vai prestar o ENAM, ad 120253760876680247 → criativo 2602548623578966) com texto próprio do ENAM: título "Maratona gratuita ENAM", descrição "Aulas de 23 a 27/11, com links no Grupo Oficial.", texto principal sobre revisão 23–27/11, véspera 28/11, correção 29/11. Edição publicada nos anúncios (continuam pausados pela campanha, em revisão). Conferido no criativo ao vivo.
+- 05/11: criados públicos [BLACK26] cadastrou (120253761230230247) e visitou página (120253761230320247). Não aplicados em conjunto ainda.

@@ -84,3 +84,8 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 - Anúncios (criativo inline: IG @g7juridico, url_tags com UTMs, link limpo, 26 recursos Advantage+ OFF, CTA só com link):
   AD01 120253760875560247 · AD02 120253760875750247 · AD03 120253760875970247 · AD04 120253760876210247 · AD05 120253760876360247 · AD06 120253760876420247 · AD07 120253760876520247 · AD08 120253760876640247 · AD09 120253760876680247 · AD10 120253760876970247 · AD11 120253760877010247 · AD12 120253760877090247 · AD13 120253760877290247
 - A campanha-rascunho anterior (120253759980420247) foi DESCARTADA em 05/11.
+
+## Públicos Black 2026 (criados 05/11/2026, pixel Principal 1250040671830251, retenção 60 dias)
+- 120253761230230247 — [BLACK26] Se cadastrou na Black 2026 (Lead pg/black 60D): evento Lead + URL contém pg.g7juridico.com.br/black
+- 120253761230320247 — [BLACK26] Visitou página Black 2026 (pg/black 60D): URL contém pg.g7juridico.com.br/black
+- Ainda NÃO adicionados a nenhum conjunto.
