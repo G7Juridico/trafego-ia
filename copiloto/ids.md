@@ -77,3 +77,10 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 | [BLACK26] - [AD11] - Reclame Aqui | 120253760114180247 | 1683597740044568 | 4eaef109fe6fea55d67431f3ed2c03a9 | 06b1ab7c2961ce78f244c089d0e17f4f |
 | [BLACK26] - [AD12] - Caixinha Grupo Oficial | 120253760114350247 | 1122745660755056 | 7caed0b2251395dd8d1758ae4fc12f3a | 0072f29d0184ee0ebd5b9851a6a42b2f |
 | [BLACK26] - [AD13] - Portal de notícias | 120253760114530247 | 1135050025778658 | 2de2626b36f4ace4f2f27ff366f7cf51 | f8100a83fa90e5556e8e1778be80f556 |
+
+## Black 2026 — campanha quente PUBLICADA E PAUSADA (05/11/2026) — versão corrigida
+- Campanha 120253760319570247 "[BLACK26] - [FASE01] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados" · Leads · CBO R$500/dia · status PAUSED (live)
+- Conjunto 120253760845490247 "[BLACK26] - [QUENTE] - Todos os Públicos Personalizados G7" · Lead pixel Principal · 176 públicos personalizados · A+ público off · status PAUSED
+- Anúncios (criativo inline: IG @g7juridico, url_tags com UTMs, link limpo, 26 recursos Advantage+ OFF, CTA só com link):
+  AD01 120253760875560247 · AD02 120253760875750247 · AD03 120253760875970247 · AD04 120253760876210247 · AD05 120253760876360247 · AD06 120253760876420247 · AD07 120253760876520247 · AD08 120253760876640247 · AD09 120253760876680247 · AD10 120253760876970247 · AD11 120253760877010247 · AD12 120253760877090247 · AD13 120253760877290247
+- A campanha-rascunho anterior (120253759980420247) continua só como rascunho, não publicada.

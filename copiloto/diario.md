@@ -265,3 +265,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Nome da campanha no novo padrão [BLACK26] - [FASE01] - [CAPTAÇÃO] - [QUENTE] - ... (nomenclatura-bla26.md).
 - Pendências antes de publicar: fonte do 88% Reclame Aqui (AD11); AD13 formato de portal de notícias; sem exclusão de quem já virou lead BLA26 (público ainda não existe).
 - Correções nos 13 anúncios BLACK26 (rascunho): erro #1815589 (link_title/link_description no CTA) resolvido trocando o criativo por object_story_spec inline; Instagram @g7juridico; UTMs movidas para url_tags; 26 recursos Advantage+ em OPT_OUT. Todos sem erro. Pendente: "Complementos para navegador = Nenhum" no Gerenciador.
+
+## 05/11/2026 — BLACK26 quente publicada PAUSADA
+- Pedido: "campanha nova para público quente corrigindo os erros — publicado mas DESATIVADO".
+- Método seguro: campanha e conjunto marcados PAUSED no rascunho antes de publicar; publicado com publish_as_active=false. Leitura ao vivo: campanha PAUSED, conjunto e 13 anúncios IN_PROCESS (revisão do Meta). Gasto R$0.
+- IDs em ids.md. Pendente no Gerenciador: "Complementos para navegador = Nenhum" (não exposto no MCP).
