@@ -251,3 +251,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Vídeo v2 testado: conj.01 AD069 120253631827400247, 0 erros, PAUSED (is_draft=true). Outros 5 em criação.
 - 30/10: vídeos v2 criados e pausados (conj.01 AD070 120253631850640247 · conj.02 AD069 120253631918710247 / AD070 120253632236100247 · conj.03 AD069 120253632635390247 / AD070 120253632645630247). Ao marcar os 6 anúncios com erro, 3 deram NOT_FOUND.
 - Releitura: rascunho da campanha 04 **vazio** (publicado). No ar: os 15 anúncios de encerramento (9 imagens + 6 vídeos v2) estão **PAUSED**, em revisão/processamento. Os 6 com erro não existem mais (excluídos antes de publicar). Os 36 anteriores (18 sem prazo + 18 `[NÃO USAR]`) seguem ACTIVE. Nada foi ativado por mim.
+
+## 2026-10-30 → 2026-11-05 — Encerramento
+- 30/10, depois do "Pode ativar os 15 e pausar os NÃO USAR": o servidor reiniciou durante a execução. A releitura mostrou os **15 anúncios de encerramento ACTIVE**, mas os **18 `[NÃO USAR]` ainda ACTIVE**: a pausa não chegou a ser aplicada.
+- 05/11: usuário pediu "Cancela tudo aqui - vamos subir uma campanha nova". Tarefa pendente abandonada.
+- Releitura de 05/11 (campanhas ACTIVE, últimos 3 dias): só as de captação seguem no ar (CAD26 R$313,83 · ISC26 R$322,89 · QUE26 R$300,38), mais os dois boosts antigos "Post do Instagram" sem gasto. **Nenhuma campanha de vendas de outubro (OUT26, [G7] 01–04) está ativa.** Não sei quem pausou, porque não consultei o histórico.
