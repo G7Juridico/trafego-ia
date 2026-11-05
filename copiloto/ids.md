@@ -88,4 +88,4 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 ## Públicos Black 2026 (criados 05/11/2026, pixel Principal 1250040671830251, retenção 60 dias)
 - 120253761230230247 — [BLACK26] Se cadastrou na Black 2026 (Lead pg/black 60D): evento Lead + URL contém pg.g7juridico.com.br/black
 - 120253761230320247 — [BLACK26] Visitou página Black 2026 (pg/black 60D): URL contém pg.g7juridico.com.br/black
-- Ainda NÃO adicionados a nenhum conjunto.
+- "Se cadastrou" EXCLUÍDO do conjunto quente 120253760845490247 (05/11). "Visitou" ainda sem uso.
