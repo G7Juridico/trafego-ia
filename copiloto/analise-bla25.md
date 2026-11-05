@@ -44,3 +44,24 @@ Puxado em 05/11/2026, conta 391713394763358, período 01/11–15/12/2025. Venda 
 4. No carrinho, priorizar **engajados IG 365 + cadastrados em LPs** na abertura; Advantage+ frio é secundário.
 5. **Último dia (06/12) ficou sem mídia em 2025**; o plano 2026 espera 12,5% do faturamento nesse dia — reservar verba.
 6. A verba de vendas em 2025 foi R$36 mil; o plano 2026 prevê R$50 mil.
+
+## Criativos de captação (somando cópias do mesmo AD, 05/11/2026)
+| Criativo | Gasto | Leads | % leads | CPL | Conv. LP (lead/LPV) |
+|---|---|---|---|---|---|
+| AD03 Be a bá do Lead | 22.756 | 1.559 | 30% | 14,60 | 24% |
+| AD07 Convite TJSP | 11.533 | 898 | 17% | 12,84 | 36% |
+| AD06 Headline página | 12.270 | 812 | 16% | 15,11 | 18% |
+| AD12 Vídeo Novelino | 9.278 | 674 | 13% | 13,77 | 23% |
+| AD01 Nós esperamos | 2.845 | 332 | 6% | **8,57** | 42% |
+| AD05 Está estudando? Então aguarde | 3.167 | 190 | 4% | 16,67 | 13% |
+| AD11 Vai fazer a prova do MPDFT? | 1.629 | 185 | 4% | **8,81** | 66% |
+| AD13 Vai fazer a prova do MPPR? | 2.379 | 168 | 3% | 14,16 | 28% |
+| AD02 Está chegando a oportunidade | 2.518 | 162 | 3% | 15,54 | 26% |
+| AD04 Black Fraude | 840 | 59 | 1% | 14,24 | 27% |
+| AD08 Vai fazer a prova do TJSP? | 871 | 54 | 1% | 16,13 | 48% |
+| AD12 Vai fazer a prova do MPES? | 673 | 52 | 1% | 12,94 | 51% |
+
+- 4 criativos (AD03, AD07, AD06, AD12 vídeo) = 76% dos leads e 79% do gasto, todos com CPL 13–15.
+- Únicos abaixo da meta BLA26 (R$8–9): AD01 "Nós esperamos" e AD11 "prova do MPDFT" — receberam pouca verba.
+- Criativos por concurso (TJSP, MPDFT, MPPR, MPES) convertem a página 2× melhor que os genéricos.
+- Mesmo criativo varia muito por conjunto: AD06 teve CPL 12 no quente e 43 no ADV+ frio.
