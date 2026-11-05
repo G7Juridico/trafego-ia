@@ -65,3 +65,18 @@ Puxado em 05/11/2026, conta 391713394763358, período 01/11–15/12/2025. Venda 
 - Únicos abaixo da meta BLA26 (R$8–9): AD01 "Nós esperamos" e AD11 "prova do MPDFT" — receberam pouca verba.
 - Criativos por concurso (TJSP, MPDFT, MPPR, MPES) convertem a página 2× melhor que os genéricos.
 - Mesmo criativo varia muito por conjunto: AD06 teve CPL 12 no quente e 43 no ADV+ frio.
+
+## Captação por posicionamento (quente + frio somados, 10/11–01/12/2025)
+| Posicionamento | Gasto | Leads | % leads | CPL | Obs. |
+|---|---|---|---|---|---|
+| Instagram Feed | 35.094 | 2.615 | 51% | 13,42 | |
+| Instagram Stories | 19.266 | 1.606 | 31% | **12,00** | mais barato |
+| Instagram Reels | 5.189 | 340 | 7% | 15,26 | |
+| Facebook Feed | 4.548 | 286 | 6% | 15,90 | |
+| Audience Network | 4.214 | 197 | 4% | 21,39 | CTR 12–37% (clique acidental), só 3,7% das visitas viraram lead; só no quente |
+| Facebook Reels | 1.088 | 55 | 1% | 19,78 | |
+| Facebook Stories | 731 | 16 | — | 45,69 | |
+| Facebook Reels overlay | 410 | 10 | — | 41,05 | |
+| Messenger | 122 | 1 | — | 122 | |
+- Instagram = 89% dos leads. Stories (9:16) teve o menor CPL.
+- Lição BLA26: tirar Audience Network/Messenger/FB Stories/overlay; usar arte 9:16 nos stories/reels.
