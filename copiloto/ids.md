@@ -54,3 +54,26 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 | `[G7] - [Vendas] - [03] - [21/10/26] - [Out26] - [Quente]` (ABO, 28 × R$25/dia) | 120253481075280247 |
 | Conjunto 01 (AD029) / anúncio | 120253481085460247 / 120253481088960247 |
 | Conjuntos 02–28 | ver diario.md, 2026-10-21/23 |
+
+## Black 2026 — [BLACK26] - [FASE01] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados (RASCUNHO, 05/11/2026)
+- Campanha 120253759980420247 · Leads · CBO R$500/dia
+- Conjunto 120253759985340247 "[BLA26] 01 - Todos os Públicos Personalizados G7" · Conversão Lead (pixel 1250040671830251) · BR 18+ · 176 públicos personalizados ativos (sem semelhantes) · Advantage+ público DESLIGADO (só públicos personalizados) · posicionamentos automáticos
+- Lista dos 176 IDs: scratchpad bla26_aud_ids.txt (não versionado; reproduzível pela listagem de públicos)
+- Link: https://pg.g7juridico.com.br/black?utm_source=MetaAds&utm_campaign={{campaign.name}}&utm_medium={{adset.name}}&utm_content={{ad.name}}&utm_term={{placement}}&campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}
+- Título "Black 10 anos G7" · Descrição "Entre para o Grupo Oficial" · CTA Saiba mais
+
+| Anúncio | ad_id | creative_id | hash 4:5 (usado) | hash 9:16 (não usado) |
+|---|---|---|---|---|
+| [BLACK26] - [AD01] - Nós já dissemos sim | 120253760112360247 | 1832002721474793 | 9036553ae04087220c1189f91ddbd17c | 666d87b5e8b9651e1ae59b478a58dae2 |
+| [BLACK26] - [AD02] - O que esperar | 120253760112690247 | 971989902199513 | 35ec3fde48b3141e44efcd8033825bb4 | 723c12ff7f3c05c6548390a12c66e86c |
+| [BLACK26] - [AD03] - A noite mais importante | 120253760112750247 | 2625148794614768 | dffaadf41b8818510911f1270117d4e1 | f5f8137da457c653d774dcfbc01cd0a5 |
+| [BLACK26] - [AD04] - O que mudou no G7 | 120253760112780247 | 4546926822254337 | bceaab475be5d2156d50ffca975c65f4 | 8ebd2f717b0eee6eb87a3e585cab6279 |
+| [BLACK26] - [AD05] - 90.000 alunos | 120253760113010247 | 1097732746359217 | 90575b262fd1c13276d4a54f297c7151 | af24dc2af4b32a5f1ebc7a218e503cd0 |
+| [BLACK26] - [AD06] - Você conhecerá | 120253760113060247 | 1809616160259473 | 256bb85e139c2472f510a7d84a30e586 | d90272d13b439273d31f9681265588fd |
+| [BLACK26] - [AD07] - Motivos | 120253760113210247 | 1681250313581973 | 9e5697503e80fa4872dad3bbe19a7d54 | e9f3a932720c3ef1a0b03f3b592c83ae |
+| [BLACK26] - [AD08] - Maratona ENAM | 120253760113630247 | 2515862758901558 | 96af39ec3ad291b621aa9c0d34877516 | 06e2ec5422f0914d805a66923e9822c4 |
+| [BLACK26] - [AD09] - Vai prestar o ENAM | 120253760113750247 | 1596887561700307 | 9907004c562c63c0a7d34de5586cc17f | 104878b38a8770dd4e19dde7c69dca37 |
+| [BLACK26] - [AD10] - Programação | 120253760114010247 | 1111618914985178 | 36e1ef21af89378663fcdadc7396d1b9 | b7bd1e93eee7b22d6fbaf769c5d186e6 |
+| [BLACK26] - [AD11] - Reclame Aqui | 120253760114180247 | 1683597740044568 | 4eaef109fe6fea55d67431f3ed2c03a9 | 06b1ab7c2961ce78f244c089d0e17f4f |
+| [BLACK26] - [AD12] - Caixinha Grupo Oficial | 120253760114350247 | 1122745660755056 | 7caed0b2251395dd8d1758ae4fc12f3a | 0072f29d0184ee0ebd5b9851a6a42b2f |
+| [BLACK26] - [AD13] - Portal de notícias | 120253760114530247 | 1135050025778658 | 2de2626b36f4ace4f2f27ff366f7cf51 | f8100a83fa90e5556e8e1778be80f556 |

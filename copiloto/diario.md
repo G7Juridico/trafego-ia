@@ -256,3 +256,11 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 30/10, depois do "Pode ativar os 15 e pausar os NÃO USAR": o servidor reiniciou durante a execução. A releitura mostrou os **15 anúncios de encerramento ACTIVE**, mas os **18 `[NÃO USAR]` ainda ACTIVE**: a pausa não chegou a ser aplicada.
 - 05/11: usuário pediu "Cancela tudo aqui - vamos subir uma campanha nova". Tarefa pendente abandonada.
 - Releitura de 05/11 (campanhas ACTIVE, últimos 3 dias): só as de captação seguem no ar (CAD26 R$313,83 · ISC26 R$322,89 · QUE26 R$300,38), mais os dois boosts antigos "Post do Instagram" sem gasto. **Nenhuma campanha de vendas de outubro (OUT26, [G7] 01–04) está ativa.** Não sei quem pausou, porque não consultei o histórico.
+
+## 05/11/2026 — Black 2026: campanha de captação quente montada (rascunho)
+- Pedido: campanha Black G7 2026 com todos os públicos personalizados e os 13 criativos em 1 conjunto; orçamento escolhido R$500/dia.
+- Criado em RASCUNHO (nada publicado/ativado): campanha 120253759980420247, conjunto 120253759985340247, 13 anúncios (IDs em ids.md). Nenhum erro de validação.
+- Públicos: 176 públicos personalizados com entrega ativa (listas, site/pixel, engajamento, vídeo). Semelhantes e públicos inativos ficaram de fora. Advantage+ público desligado para entregar só nesses públicos.
+- Criativos: versão clara 4:5 de cada AD (AD05 = 90.000 alunos número; AD12 = caixinha grupo oficial). Personalização por posicionamento (9:16 em stories/reels) é bloqueada para a conta via MCP → 9:16 subidos mas não usados; dá para trocar no Gerenciador.
+- Nome da campanha no novo padrão [BLACK26] - [FASE01] - [CAPTAÇÃO] - [QUENTE] - ... (nomenclatura-bla26.md).
+- Pendências antes de publicar: fonte do 88% Reclame Aqui (AD11); AD13 formato de portal de notícias; sem exclusão de quem já virou lead BLA26 (público ainda não existe).
