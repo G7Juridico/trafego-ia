@@ -83,4 +83,4 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 - Conjunto 120253760845490247 "[BLACK26] - [QUENTE] - Todos os Públicos Personalizados G7" · Lead pixel Principal · 176 públicos personalizados · A+ público off · status PAUSED
 - Anúncios (criativo inline: IG @g7juridico, url_tags com UTMs, link limpo, 26 recursos Advantage+ OFF, CTA só com link):
   AD01 120253760875560247 · AD02 120253760875750247 · AD03 120253760875970247 · AD04 120253760876210247 · AD05 120253760876360247 · AD06 120253760876420247 · AD07 120253760876520247 · AD08 120253760876640247 · AD09 120253760876680247 · AD10 120253760876970247 · AD11 120253760877010247 · AD12 120253760877090247 · AD13 120253760877290247
-- A campanha-rascunho anterior (120253759980420247) continua só como rascunho, não publicada.
+- A campanha-rascunho anterior (120253759980420247) foi DESCARTADA em 05/11.

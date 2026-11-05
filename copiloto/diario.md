@@ -270,3 +270,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Pedido: "campanha nova para público quente corrigindo os erros — publicado mas DESATIVADO".
 - Método seguro: campanha e conjunto marcados PAUSED no rascunho antes de publicar; publicado com publish_as_active=false. Leitura ao vivo: campanha PAUSED, conjunto e 13 anúncios IN_PROCESS (revisão do Meta). Gasto R$0.
 - IDs em ids.md. Pendente no Gerenciador: "Complementos para navegador = Nenhum" (não exposto no MCP).
+- 05/11: rascunho antigo 120253759980420247 (campanha + conjunto + 13 anúncios, nunca publicado) DESCARTADO a pedido do usuário. Fica só a versão publicada/pausada 120253760319570247.
