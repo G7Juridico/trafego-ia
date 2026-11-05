@@ -17,3 +17,4 @@ Todo anúncio sai SEMPRE com Página G7 Jurídico (1176977359047815) **e** Insta
 - Todas as otimizações Advantage+ de criativo/texto **desligadas** (inclui geração de texto por IA).
 - Complementos para navegador = **Nenhum** (não configurável via MCP; conferir no Gerenciador).
 - Título/descrição só em link_data (name/description). Nunca em call_to_action.value (erro #1815589 — o ads_create_creative do MCP coloca lá; usar object_story_spec inline).
+- Arte por posicionamento: o ads_create_creative com placement_customizations é bloqueado na conta, mas FUNCIONA via ads_update_entity/ads_create_ad com creative.asset_feed_spec (images com adlabels, optimization_type "PLACEMENT", asset_customization_rules: feed→4:5, story/reels→9:16).
