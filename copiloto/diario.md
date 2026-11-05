@@ -264,3 +264,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Criativos: versão clara 4:5 de cada AD (AD05 = 90.000 alunos número; AD12 = caixinha grupo oficial). Personalização por posicionamento (9:16 em stories/reels) é bloqueada para a conta via MCP → 9:16 subidos mas não usados; dá para trocar no Gerenciador.
 - Nome da campanha no novo padrão [BLACK26] - [FASE01] - [CAPTAÇÃO] - [QUENTE] - ... (nomenclatura-bla26.md).
 - Pendências antes de publicar: fonte do 88% Reclame Aqui (AD11); AD13 formato de portal de notícias; sem exclusão de quem já virou lead BLA26 (público ainda não existe).
+- Correções nos 13 anúncios BLACK26 (rascunho): erro #1815589 (link_title/link_description no CTA) resolvido trocando o criativo por object_story_spec inline; Instagram @g7juridico; UTMs movidas para url_tags; 26 recursos Advantage+ em OPT_OUT. Todos sem erro. Pendente: "Complementos para navegador = Nenhum" no Gerenciador.
