@@ -80,3 +80,20 @@ Puxado em 05/11/2026, conta 391713394763358, período 01/11–15/12/2025. Venda 
 | Messenger | 122 | 1 | — | 122 | |
 - Instagram = 89% dos leads. Stories (9:16) teve o menor CPL.
 - Lição BLA26: tirar Audience Network/Messenger/FB Stories/overlay; usar arte 9:16 nos stories/reels.
+
+## Públicos frios BLA25 (composição lida dos conjuntos, 06/11/2026)
+**Captação**
+| Conjunto | Gasto | Leads | CPL | Públicos |
+|---|---|---|---|---|
+| 04 SEMELHANTES BASE (23–55) | 14.750 | 1.114 | 13,24 | LAL 1% Base clientes 2024-2; LAL LP Black Friday 2025; LAL LP AG Black Friday 2025; LAL Base Clientes 2025/1; LAL Pg Obrigado ENAM 2025.2 (excl. LP AG Black) |
+| 03 SEMELHANTES GERAL (23–55) | 9.410 | 699 | 13,46 | LAL SITE 90D; LAL LP SAJ 2024.2; LAL LP Aulão Véspera ENAM II; LAL 2% Purchase 90D; LAL AddToCart 60D; LAL Purchase pixel Backup |
+| 05 ADV PLUS (interesses Direito/Concurso/Estratégia/Juiz federal, A+ on) | 3.387 | 80 | 42,34 | — |
+**Vendas**
+| Conjunto | Gasto | Compras | CPA | ROAS |
+|---|---|---|---|---|
+| 01 ADVANTAGE+ 50% (Advogado/Legislação/Concurso, A+ on) | 11.280 | 182 | 61,98 | 40,5 |
+| 01 ADVANTAGE+ 40% | 3.729 | 57 | 65,43 | 36,5 |
+| 04 SEMELHANTES BASE 50% (LAL compradores/clientes) | 264 | 5 | 52,72 | 43,0 |
+| 04 SEMELHANTES BASE 40% | 711 | 6 | 118,53 | 15,5 |
+| 03 SEMELHANTE LEADS LANÇAMENTO 50% (LAL leads Black/ENAM) | 951 | 10 | 95,15 | 23,3 |
+- Vários semelhantes de 2025 hoje estão INATIVOS (ex.: Base Clientes 2025/1, Base g7 clientes 2024-2). Equivalentes ativos 2026: LAL Base de Clientes 2026.1, LAL Base de Leads 2026.1, LAL Leads G7 Base completa, LAL Purchase pixel Backup, LAL Cadastraram PG Lançamento 2026.
