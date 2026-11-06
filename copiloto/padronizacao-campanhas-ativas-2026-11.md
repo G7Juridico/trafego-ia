@@ -14,8 +14,8 @@ Status: PROPOSTA (nada renomeado). Padrão espelha o da Black 2026.
 | [QUE26] [CAP] - 100 questões | [QUE26] - [PERENE] - [01] - [CAPTAÇÃO] - [FRIO] - 100 Questões |
 | [CAD26] [CAP] - Caderno de Atualizações | [CAD26] - [PERENE] - [01] - [CAPTAÇÃO] - [FRIO] - Caderno de Atualizações |
 | [ISC26] [CAP] [AUTO] - Desafio | [ISC26] - [PERENE] - [01] - [CAPTAÇÃO] - [MISTO] - Desafio |
-| Post do Instagram: A Black do G7 está chegando e,... | [BLACK26] - [IMPULSO] - [01] - [PERFIL] - [FRIO] - Post Black está chegando |
-| Post do Instagram: O Tribunal de Justiça de Mato... | [INST26] - [IMPULSO] - [01] - [PERFIL] - [FRIO] - Post TJMT |
+| Post do Instagram: A Black do G7… | NÃO RENOMEAR (impulsionamento, regra do usuário) |
+| Post do Instagram: O Tribunal… | NÃO RENOMEAR (impulsionamento, regra do usuário) |
 
 ## Conjuntos
 | Campanha | Atual | Proposto |

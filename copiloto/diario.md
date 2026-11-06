@@ -298,3 +298,5 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 06/11: usuário pediu renomear SÓ as campanhas antigas ativas. Publicados no ar (status mantido ACTIVE): QUE26/CAD26/ISC26 → padrão [CÓDIGO] - [PERENE] - [01] - [CAPTAÇÃO] - [TEMP] - Descrição; posts impulsionados → [BLACK26]/[INST26] - [IMPULSO] - [01] - [PERFIL] - [FRIO] - ...
 - Ficaram EM RASCUNHO (não publicados): renomes de 11 conjuntos e ~33 anúncios dessas campanhas (iniciados antes do usuário restringir). Aguardando decisão: descartar.
 - Posts impulsionados: conjuntos encerrados em 17/11/2025 (não entregam).
+- 06/11: descartado rascunho do conjunto do post impulsionado (travava "Publicar" no Gerenciador). Nomes originais das 2 campanhas de post impulsionado restaurados e publicados (status mantido).
+- REGRA do usuário: campanhas de impulsionamento (criadas no Instagram) NÃO entram em renomeação.
