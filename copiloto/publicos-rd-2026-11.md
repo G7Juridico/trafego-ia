@@ -54,3 +54,18 @@
 | Blacks anteriores | 11.087 | "1.000" (provisório) | a confirmar |
 | ENAM | 14.847 | "1.000" (provisório) | a confirmar |
 | Carrinho abandonado | 2.508 | "1.000" (provisório) | a confirmar |
+
+## Semelhantes 1% BR criados em 06/11/2026 (frio, padrão [FRIO] - [SEMELHANTE 1% BR] - ...)
+| Origem | Origem ID | Semelhante ID |
+|---|---|---|
+| Lista RD Base completa | 120253765428130247 | 120253774168240247 |
+| Lista RD Clientes | 120253765428250247 | 120253774168360247 |
+| Lista RD Engajados | 120253765428290247 | 120253774168670247 |
+| Lista RD Leads 2026 | 120253765428330247 | 120253774169050247 |
+| Lista RD Blacks anteriores | 120253765428340247 | 120253774169810247 |
+| Lista RD ENAM | 120253765428500247 | 120253774170220247 |
+| Lista RD Carrinho abandonado | 120253765428570247 | 120253774170720247 |
+| Lista RD Clicou WhatsApp | 120253765428610247 | 120253774171570247 |
+| Pixel Cadastrou pág. Black 2026 (60D) | 120253761230230247 | 120253774171810247 |
+| Pixel Visitou pág. Black 2026 (60D) | 120253761230320247 | 120253774172790247 |
+Obs.: semelhante é montado de forma assíncrona; conferir tamanho antes de usar. Semelhante não pode ser renomeado pela ferramenta (só no Gerenciador).
