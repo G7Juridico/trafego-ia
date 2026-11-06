@@ -295,3 +295,6 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 06/11: criados 10 semelhantes 1% BR (8 listas RD + 2 pixel Black26). IDs em publicos-rd-2026-11.md. Nada ativado.
 - 06/11: campanha [03] FRIO Semelhantes 1% criada (10 conjuntos, 130 anúncios) e publicada pausada.
 - 06/11 11:19–11:22 (horário da conta): campanha [03] FRIO e seus 10 conjuntos foram ATIVADOS pelo usuário no Gerenciador (Power Editor). Publicação conferida: 10 conjuntos e 130 anúncios no ar.
+- 06/11: usuário pediu renomear SÓ as campanhas antigas ativas. Publicados no ar (status mantido ACTIVE): QUE26/CAD26/ISC26 → padrão [CÓDIGO] - [PERENE] - [01] - [CAPTAÇÃO] - [TEMP] - Descrição; posts impulsionados → [BLACK26]/[INST26] - [IMPULSO] - [01] - [PERFIL] - [FRIO] - ...
+- Ficaram EM RASCUNHO (não publicados): renomes de 11 conjuntos e ~33 anúncios dessas campanhas (iniciados antes do usuário restringir). Aguardando decisão: descartar.
+- Posts impulsionados: conjuntos encerrados em 17/11/2025 (não entregam).
