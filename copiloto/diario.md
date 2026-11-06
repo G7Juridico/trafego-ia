@@ -294,3 +294,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 06/11: criados 8 conjuntos na [02] (um por lista RD, nome "02 - [QUENTE] - Lista X") com os 13 criativos cada = 104 anúncios; publicados com publish_as_active=false (tudo pausado). IDs em ids.md.
 - 06/11: criados 10 semelhantes 1% BR (8 listas RD + 2 pixel Black26). IDs em publicos-rd-2026-11.md. Nada ativado.
 - 06/11: campanha [03] FRIO Semelhantes 1% criada (10 conjuntos, 130 anúncios) e publicada pausada.
+- 06/11 11:19–11:22 (horário da conta): campanha [03] FRIO e seus 10 conjuntos foram ATIVADOS pelo usuário no Gerenciador (Power Editor). Publicação conferida: 10 conjuntos e 130 anúncios no ar.
