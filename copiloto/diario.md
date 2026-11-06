@@ -290,3 +290,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Criada e publicada PAUSADA: [BLACK26] - [FASE01] - [02] - [CAPTAÇÃO] - [QUENTE] - Listas RD, R$500/dia CBO, 8 listas RD, exclusão cadastrados Black26, mesmos 13 criativos da [01] por creative_id.
 - Padrão de nome com ordem numérica após a fase adotado; [01] renomeada.
 - Atenção: [01] encontrada ATIVA com R$750/dia (mudança no Gerenciador às 9:48). As 8 listas RD também estão dentro da [01] → sobreposição se a [02] for ligada.
+- Decisão do usuário (06/11): manter as 8 listas RD também dentro da [01]; não remover. Sobreposição [01]×[02] aceita conscientemente.
