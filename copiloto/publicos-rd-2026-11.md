@@ -29,3 +29,16 @@
 - Há só tags manuais antigas (2021–2023) do tipo "abriu/não abriu e-mail X" — desatualizadas.
 - Melhor sinal disponível: **Lead Scoring – Interesse** (13.560 com nota > 0), que no RD sobe com interações (e-mail, páginas, conversões).
 - Para aberturas/cliques recentes: criar no RD uma **segmentação** "abriu (ou clicou) qualquer e-mail nos últimos 30/60/90 dias" e exportar.
+
+## Públicos criados no Meta (06/11/2026) — ainda VAZIOS, aguardando upload da lista
+| Público | ID |
+|---|---|
+| [RD 2026-11] 01 Base completa (consentimento) | 120253765428130247 |
+| [RD 2026-11] 02 Clientes | 120253765428250247 |
+| [RD 2026-11] 03 Engajados | 120253765428290247 |
+| [RD 2026-11] 04 Leads 2026 | 120253765428330247 |
+| [RD 2026-11] 05 Blacks anteriores | 120253765428340247 |
+| [RD 2026-11] 06 ENAM | 120253765428500247 |
+| [RD 2026-11] 07 Carrinho abandonado | 120253765428570247 |
+| [RD 2026-11] 08 Clicou no WhatsApp | 120253765428610247 |
+- O envio das listas pela ferramenta do MCP passa os dados linha a linha pela conversa: inviável para ~200 mil linhas. Upload via Gerenciador (arquivos _plano.csv) ou via API direta com token.
