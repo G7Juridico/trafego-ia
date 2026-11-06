@@ -278,3 +278,10 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 05/11: arte por posicionamento aplicada nos 13 anúncios da campanha quente via asset_feed_spec (optimization_type PLACEMENT + asset_customization_rules): 4:5 em Feed IG/FB, 9:16 em Stories/Reels IG e Reels FB. Edição publicada sem ativar (campanha segue pausada); anúncios voltaram a IN_PROCESS/revisão. Novos creative_ids: AD01 2126281944668030, AD02 1464614189100638, AD03 4523491204573748, AD04 39679468945031216, AD05 1005147528541437, AD06 1887211242868498, AD07 1141673868276966, AD08 2064622977550610 (ENAM), AD09 1411012367682113 (ENAM), AD10 1670302494729887, AD11 1616410633563076, AD12 1138125941918518, AD13 1391694152773013.
 - 06/11: usuário vai subir as 8 listas RD (_plano.csv) pelo Gerenciador (opção A). Aguardando aviso dele para conferir tamanhos/correspondência e criar semelhantes 1% de Clientes e Engajados.
 - 06/11: listas RD recebidas pelo Meta (8 públicos em 'Updating'/processando; tamanho ainda indisponível). Descrições explicativas gravadas nos 8 públicos. Nova checagem agendada para ~1h.
+
+## 2026-11-06 — Padronização de públicos com temperatura (pausada)
+- Padrão adotado: `[TEMPERATURA] - [FONTE] - [SEGMENTO] - O que é - Janela/Data`; descrição começa com `TEMP: Quente/Morno/Frio.`
+- Classificação dos 601 públicos: 56 QUENTE, 130 MORNO, 6 ARQUIVO (inativos), 409 FRIO (semelhantes; renomear manual no Gerenciador — a ferramenta bloqueia lookalike).
+- Aplicados até agora: 14 de 192 editáveis (os 10 já padronizados + 4 listas: Alunos 50%, Analista 2025, Black Alunos 2024, Black Ex-alunos 2024). Restante pausado a pedido do usuário para subir campanhas.
+- Rótulos do Meta (Clientes / Públicos engajados / Outros): o campo `audience_labels` da ferramenta está quebrado (espera lista, aceita só texto). Rotular manualmente no Gerenciador.
+- Plano de renomeação (sem PII) no scratchpad: temp_plan.json; retomar do índice 14.
