@@ -42,3 +42,15 @@
 | [RD 2026-11] 07 Carrinho abandonado | 120253765428570247 |
 | [RD 2026-11] 08 Clicou no WhatsApp | 120253765428610247 |
 - O envio das listas pela ferramenta do MCP passa os dados linha a linha pela conversa: inviável para ~200 mil linhas. Upload via Gerenciador (arquivos _plano.csv) ou via API direta com token.
+
+## Tamanho após processamento (06/11/2026 ~04:50 UTC)
+| Público | Enviados | Tamanho no Meta | Correspondência |
+|---|---|---|---|
+| Base completa | 75.685 | 53.400–62.800 | 71–83% |
+| Engajados | 36.711 | 26.300–30.900 | 72–84% |
+| Leads 2026 | 25.904 | 18.700–22.000 | 72–85% |
+| Clicou WhatsApp | 13.271 | 9.300–10.900 | 70–82% |
+| Clientes | 13.179 | "1.000" (provisório) | a confirmar |
+| Blacks anteriores | 11.087 | "1.000" (provisório) | a confirmar |
+| ENAM | 14.847 | "1.000" (provisório) | a confirmar |
+| Carrinho abandonado | 2.508 | "1.000" (provisório) | a confirmar |
