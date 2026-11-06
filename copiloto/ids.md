@@ -89,3 +89,11 @@ O login do conector dá acesso a mais 25 contas de outros negócios (Espansione,
 - 120253761230230247 — [BLACK26] Se cadastrou na Black 2026 (Lead pg/black 60D): evento Lead + URL contém pg.g7juridico.com.br/black
 - 120253761230320247 — [BLACK26] Visitou página Black 2026 (pg/black 60D): URL contém pg.g7juridico.com.br/black
 - "Se cadastrou" EXCLUÍDO do conjunto quente 120253760845490247 (05/11). "Visitou" ainda sem uso.
+
+## Black 2026 — [02] Quente Listas RD — PUBLICADA E PAUSADA (06/11/2026)
+- Campanha 120253773461420247 "[BLACK26] - [FASE01] - [02] - [CAPTAÇÃO] - [QUENTE] - Listas RD" · Leads · CBO R$500/dia · PAUSED
+- Conjunto 120253773465330247 "[QUENTE] - Listas RD (8 públicos) - Exc. Cadastrados Black26" · Lead pixel 1250040671830251 · 8 listas RD (1202537654281/2/2/3/3/5/5/6…) · exclui 120253761230230247 · A+ público off · IG stream/story/reels + FB feed/reels · 25-65 BR · PAUSED
+- Anúncios (mesmos creative IDs da [01]): AD01 120253773481940247 (cr 2249069179001903) · AD02 120253773482250247 · AD03 120253773482410247 · AD04 120253773482490247 · AD05 120253773482550247 · AD06 120253773482620247 · AD07 120253773482680247 · AD08 120253773482740247 · AD09 120253773482910247 · AD10 120253773483120247 · AD11 120253773483190247 · AD12 120253773483500247 · AD13 120253773483710247
+- Correção: creative atual do AD01 da [01] é 2249069179001903 (o 2126281944668030 registrado antes estava desatualizado e tinha variações de texto por IA).
+- [01] renomeada para "[BLACK26] - [FASE01] - [01] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados".
+- Observado em 06/11: a [01] está ATIVA com R$750/dia (alteração feita no Gerenciador às 9:48, antes do copiloto mexer; o copiloto só trocou o nome às 10:16). Gasto hoje até a leitura: R$410,08.

@@ -4,7 +4,7 @@ Definido pelo usuário em 05/11/2026. Usar SEMPRE nas campanhas:
 
 `[BLACK26] - [FASE0X] - [ETAPA] - [TEMPERATURA] - Descrição`
 
-Exemplo: `[BLACK26] - [FASE01] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados`
+Exemplo: `[BLACK26] - [FASE01] - [01] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados` — o número de ordem `[NN]` vem logo após a fase (regra do usuário, 06/11/2026).
 
 (Substitui o padrão antigo `[BLA26] [CAP] [QUENTE] - ...`.)
 

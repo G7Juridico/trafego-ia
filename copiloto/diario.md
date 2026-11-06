@@ -285,3 +285,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Aplicados até agora: 14 de 192 editáveis (os 10 já padronizados + 4 listas: Alunos 50%, Analista 2025, Black Alunos 2024, Black Ex-alunos 2024). Restante pausado a pedido do usuário para subir campanhas.
 - Rótulos do Meta (Clientes / Públicos engajados / Outros): o campo `audience_labels` da ferramenta está quebrado (espera lista, aceita só texto). Rotular manualmente no Gerenciador.
 - Plano de renomeação (sem PII) no scratchpad: temp_plan.json; retomar do índice 14.
+
+## 2026-11-06 — Campanha [02] Quente Listas RD
+- Criada e publicada PAUSADA: [BLACK26] - [FASE01] - [02] - [CAPTAÇÃO] - [QUENTE] - Listas RD, R$500/dia CBO, 8 listas RD, exclusão cadastrados Black26, mesmos 13 criativos da [01] por creative_id.
+- Padrão de nome com ordem numérica após a fase adotado; [01] renomeada.
+- Atenção: [01] encontrada ATIVA com R$750/dia (mudança no Gerenciador às 9:48). As 8 listas RD também estão dentro da [01] → sobreposição se a [02] for ligada.
