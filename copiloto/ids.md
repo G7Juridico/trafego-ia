@@ -153,3 +153,16 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - (existente) 23857741862410246 Seguidores IG
 - Conjuntos (exc. Cadastrou Black26, A+ off, mesmos posicionamentos): 120253825634430247 Msg · 120253825634600247 Salvou · 120253825634660247 Visitou · 120253825635050247 Interagiu post · 120253825635150247 Interagiu perfil · 120253825635260247 Seguidores
 - Reels 50% NÃO criado (precisa escolher vídeos).
+
+## Públicos Facebook + Site criados (09/11/2026)
+- 120253826169100247 [QUENTE] [FACEBOOK] Enviou mensagem 90D (page_messaged)
+- 120253826169290247 [QUENTE] [FACEBOOK] Interagiu com post ou anúncio 30D (page_post_interaction)
+- 120253826169320247 [QUENTE] [FACEBOOK] Visitou página 30D (page_visited)
+- 120253826169340247 [MORNO] [FACEBOOK] Interagiu com página 60D (page_engaged)
+- 120253826169880247 [QUENTE] [PIXEL] [BLACK26] Visitou Black e NÃO cadastrou 30D
+- 120253826169940247 [QUENTE] [PIXEL] [BLACK26] Rolou 75% da página Black 30D
+- 120253826169960247 [QUENTE] [PIXEL] [BLACK26] Visitou Black 2+ vezes 30D
+- 120253826169970247 [QUENTE] [PIXEL] [CHECKOUT] Iniciou checkout sem comprar 30D
+- 120253826170260247 [QUENTE] [PIXEL] [BOLSA] Aplicou para Bolsa G7 60D
+- 120253826170320247 [MORNO] [PIXEL] [SITE] Top 25% tempo no site 30D
+- Existente reaproveitável: 23849633070450246 Seguidores/curtidores da Página

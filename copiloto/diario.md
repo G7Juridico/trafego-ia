@@ -302,3 +302,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - REGRA do usuário: campanhas de impulsionamento (criadas no Instagram) NÃO entram em renomeação.
 - 06/11: rascunhos de renomeação de conjuntos/anúncios (QUE26/CAD26/ISC26) descartados pelo usuário no Gerenciador. Rascunho limpo (conferido). No ar: só os nomes novos das 3 campanhas.
 - 09/11: campanha [04] Engajamento Instagram publicada e conferida: campanha + 6 conjuntos PAUSED, 78 anúncios no ar (ADSET_PAUSED). R$250/dia.
+- 09/11: usuário ativou a [04] Engajamento Instagram. Criados 10 públicos (4 Facebook + 6 site), IDs em ids.md.
