@@ -142,7 +142,7 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - 03 - [FRIO] - Semelhante 1% Visitou Pág. Black 2026 · conjunto 120253774308440247
   - anúncios: [AD01] 120253774334120247 · [AD02] 120253774334380247 · [AD03] 120253774334570247 · [AD04] 120253774334710247 · [AD05] 120253774334950247 · [AD06] 120253774335360247 · [AD07] 120253774335550247 · [AD08] 120253774335640247 · [AD09] 120253774335710247 · [AD10] 120253774335820247 · [AD11] 120253774335940247 · [AD12] 120253774336120247 · [AD13] 120253774336230247
 
-## [04] Quente Engajamento Instagram (09/11/2026) — em montagem, nasce PAUSADA
+## [04] Quente Engajamento Instagram (09/11/2026) — PUBLICADA E PAUSADA (6 conjuntos, 78 anúncios conferidos no ar)
 - Campanha 120253825630120247 "[BLACK26] - [FASE01] - [04] - [CAPTAÇÃO] - [QUENTE] - Engajamento Instagram" · Leads · CBO R$250/dia
 - Públicos IG criados (fonte ig_business 17841404114381646):
   - 120253825628440247 [QUENTE] Enviou mensagem 90D
