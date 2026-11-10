@@ -111,3 +111,5 @@ Janela da campanha: 7 dias após clique + 1 dia após visualização.
 - Funções do Supabase: só `capturar-lead` envia à Meta (1 Lead por cadastro). `sincronizar-meta` só lê números; `webhook-pedidos` só grava pedidos. Descartadas.
 - Candidatas restantes: TruConversion (script 64595 na /black e na /black/obrigado, gatilhos nas etapas grupo e concurso — mesmo volume do Lead extra), Clint, ManyChat, n8n. Não confirmado.
 - Como identificar: Gerenciador de Eventos → Lead → detalhes/parâmetros. O nosso Lead tem content_name "Black G7 Especial 10 Anos" (servidor) / content_category "site-pg" (navegador); evento com outros parâmetros ou outra integração = fonte extra.
+- TruConversion descartado (usuário: só mapa de calor e gravação, sem integração Meta).
+- Principal suspeita agora: **Clint**. Recebe cada lead da Black 2× via webhook (cadastro + concurso), com url_funil da pg. Lead extra no servidor ≈ envios à Clint (05/11 PST: 308 cadastros + 222 concurso + 308 nosso CAPI = 838 × 841 Lead servidor no pixel). Conferir na Clint se há integração/automação de API de Conversões da Meta enviando Lead para o pixel 1250040671830251.
