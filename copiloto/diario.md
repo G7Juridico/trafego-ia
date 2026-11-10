@@ -315,3 +315,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 10/11: diferença Gerenciador × UTM explicada (visualização 1d + clique sem UTM por sessionStorage). Desduplicação da /black ok; suspeita de 2ª fonte de Lead no servidor (integração RD). Detalhe no raio-x de 10/11.
 - 10/11: RD descartada como fonte do Lead extra (integração desconectada). Suspeita agora: TruConversion/Clint/ManyChat/n8n; conferir no Gerenciador de Eventos.
 - 10/11: TruConversion descartado. Suspeita principal do Lead extra: Clint (integração Meta/CAPI).
+- 10/11: pedido de auditoria somente leitura no n8n (eventos para o pixel) em pedido-revisao-n8n-pixel.md.
