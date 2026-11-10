@@ -303,3 +303,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 06/11: rascunhos de renomeação de conjuntos/anúncios (QUE26/CAD26/ISC26) descartados pelo usuário no Gerenciador. Rascunho limpo (conferido). No ar: só os nomes novos das 3 campanhas.
 - 09/11: campanha [04] Engajamento Instagram publicada e conferida: campanha + 6 conjuntos PAUSED, 78 anúncios no ar (ADSET_PAUSED). R$250/dia.
 - 09/11: usuário ativou a [04] Engajamento Instagram. Criados 10 públicos (4 Facebook + 6 site), IDs em ids.md.
+
+## 2026-11-10 — [05] copy Black nos anúncios ENAM
+- Pedido do usuário: nos anúncios ENAM da [05] usar a copy "Nós já dissemos sim ao presente… Toque em SAIBA MAIS e entre agora mesmo 🩶".
+- Trocado o criativo de 6 anúncios: AD14, AD15, AD21 Claro/Escuro (imagem 4:5 + 9:16) e AD25 Claro/Escuro (vídeo). Título "Black 10 anos G7", descrição "Entre para o Grupo Oficial", link e UTMs iguais, otimizações Advantage+ de criativo desligadas.
+- Publicados com publish_as_active=false. Conferido ao vivo: 6 anúncios com creative novo, em revisão (IN_PROCESS); conjunto 120253838140490247 segue PAUSED; rascunho vazio. Nada ativado, nada gastando.

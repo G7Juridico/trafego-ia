@@ -172,4 +172,11 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - Conjunto 120253838140490247 "05 - [QUENTE] - Todos os Públicos Personalizados G7" · mesma segmentação da [01] (176 públicos, exc. Cadastrou Black26, A+ off, 25-65, IG stream/story/reels + FB feed/reels)
 - 25 anúncios: AD14-18 (imagem 4:5+9:16), AD19/21/22/23/24 Claro e Escuro (imagem), AD20/25/26/27/28 Claro e Escuro (vídeo 9:16).
 - Copy provisória (usuário não enviou textos): ENAM (AD14, AD15, AD21, AD25) = copy do AD08; demais = copy do AD01.
+- 10/11: anúncios ENAM trocados para a copy Black ("Nós já dissemos sim ao presente…") a pedido do usuário. Título "Black 10 anos G7", descrição "Entre para o Grupo Oficial". Publicados sem ativar (conjunto segue PAUSED). Novos creative_ids:
+  - AD14 Edital Maratona ENAM — ad 120253838234490247 · creative 1796425354958726
+  - AD15 Diário Oficial Maratona ENAM — ad 120253838246040247 · creative 2347712532686103
+  - AD21 Chat Maratona ENAM Claro — ad 120253838284710247 · creative 29258282350480140
+  - AD21 Chat Maratona ENAM Escuro — ad 120253838284970247 · creative 1000757316403038
+  - AD25 Chat Motion Maratona ENAM Claro (vídeo) — ad 120253838228660247 · creative 1581343344009313
+  - AD25 Chat Motion Maratona ENAM Escuro (vídeo) — ad 120253838228740247 · creative 2636870620069394
 - Fonte: Drive 1FVSAEPunN_fhxqr0j7p1AAHw2d5lTu33. Spec: scratchpad/spec_05.json
