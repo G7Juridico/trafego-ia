@@ -167,7 +167,7 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - 120253826170320247 [MORNO] [PIXEL] [SITE] Top 25% tempo no site 30D
 - Existente reaproveitável: 23849633070450246 Seguidores/curtidores da Página
 
-## [05] Quente Públicos Personalizados — Criativos AD14-AD28 (10/11/2026) — em montagem, nasce PAUSADA
+## [05] Quente Públicos Personalizados — Criativos AD14-AD28 (10/11/2026) — publicada PAUSADA
 - Campanha 120253838129080247 "[BLACK26] - [FASE01] - [05] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados - Criativos AD14-AD28" · Leads · CBO R$1.250/dia (igual à [01] hoje)
 - Conjunto 120253838140490247 "05 - [QUENTE] - Todos os Públicos Personalizados G7" · mesma segmentação da [01] (176 públicos, exc. Cadastrou Black26, A+ off, 25-65, IG stream/story/reels + FB feed/reels)
 - 25 anúncios: AD14-18 (imagem 4:5+9:16), AD19/21/22/23/24 Claro e Escuro (imagem), AD20/25/26/27/28 Claro e Escuro (vídeo 9:16).
