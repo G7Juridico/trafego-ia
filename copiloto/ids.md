@@ -168,7 +168,7 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - Existente reaproveitável: 23849633070450246 Seguidores/curtidores da Página
 
 ## [05] Quente Públicos Personalizados — Criativos AD14-AD28 (10/11/2026) — publicada PAUSADA
-- Campanha 120253838129080247 "[BLACK26] - [FASE01] - [05] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados - Criativos AD14-AD28" · Leads · CBO R$1.250/dia (igual à [01] hoje)
+- Campanha 120253838129080247 "[BLACK26] - [FASE01] - [05] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados - Criativos AD14-AD28" · Leads · CBO R$500/dia (ATIVA desde 10/11; nasceu com R$1.250)
 - Conjunto 120253838140490247 "05 - [QUENTE] - Todos os Públicos Personalizados G7" · mesma segmentação da [01] (176 públicos, exc. Cadastrou Black26, A+ off, 25-65, IG stream/story/reels + FB feed/reels)
 - 25 anúncios: AD14-18 (imagem 4:5+9:16), AD19/21/22/23/24 Claro e Escuro (imagem), AD20/25/26/27/28 Claro e Escuro (vídeo 9:16).
 - Copy provisória (usuário não enviou textos): ENAM (AD14, AD15, AD21, AD25) = copy do AD08; demais = copy do AD01.
