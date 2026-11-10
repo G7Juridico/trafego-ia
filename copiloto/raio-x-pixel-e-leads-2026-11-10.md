@@ -82,3 +82,26 @@ Diferença ~igual nas 3 campanhas principais (63–66%) → a proporção serve 
 | WhatsApp | 59 |
 | Outros | 6 |
 | **Total** | **2.469** |
+
+## 3. Por que 917 × 588 — conta fechada (06–10/11)
+
+Janela da campanha: 7 dias após clique + 1 dia após visualização.
+
+| Campanha | Gerenciador | Clique 7d | Visualização 1d | UTM (linhas) | UTM (únicos) |
+|---|---|---|---|---|---|
+| [01] | 918 | 760 | 158 | 604 | 588 |
+| [02] | 771 | 626 | 145 | 504 | 497 |
+| [03] | 226 | 193 | 33 | 142 | 140 |
+| [04] | 8 | 6 | 2 | 6 | 6 |
+| Total | 1.923 | 1.585 | 338 | 1.256 | 1.231 |
+
+- **Visualização (338)**: viu o anúncio, não clicou, cadastrou em até 1 dia. Nunca tem UTM.
+- **Clique sem UTM (1.585 − 1.256 = 329)**: 310 leads da /black chegaram sem UTM da Meta mas com cookie _fbc (clicaram num anúncio antes). Motivo: `rastreio.js` guarda as UTMs em `sessionStorage`, que some ao fechar a aba ou o navegador do Instagram; a pessoa volta depois por e-mail RD, ManyChat, WhatsApp, link da bio → a UTM fica com a última origem, o _fbc (90 dias) continua → Meta credita ao anúncio.
+- **Repetidos (25)**: mesma pessoa cadastrada 2×; Meta e UTM contam 2, únicos contam 1.
+
+## 4. Desduplicação
+
+- Implementação da /black está correta: navegador `fbq('track','Lead',…,{eventID})` e servidor (`capturar-lead`) com o mesmo `event_id` e mesmo nome de evento; `autoConfig` desligado (sem Lead automático extra); 1 envio CAPI por lead (meta_status ok, event_id único, sem reenvio).
+- Prova no Gerenciador: os leads de clique (1.585) ≈ UTM (1.256) + clique sem UTM (310). Se houvesse Lead duplicado sendo atribuído, o Gerenciador estaria bem acima disso.
+- **Mas há uma 2ª fonte mandando Lead pelo servidor.** Lead servidor por dia ≈ 2,2–2,7× os cadastros reais, e bate com cadastros + conversões enviadas à RD (05/11: 308 leads + 308 RD + 222 RD concurso = 838 × 841 no pixel). Suspeita forte: integração da RD Station com a API de Conversões da Meta, enviando um Lead por conversão (cadastro e concurso) com ID próprio → não deduplica com o nosso. Hoje esses eventos não estão inflando o Gerenciador (conta acima fecha), mas poluem o pixel (Lead "fantasma" para otimização e públicos de Lead).
+- Conferir no Gerenciador de Eventos → pixel → Lead → aba de fontes/integrações e "desduplicação". Se aparecer RD Station: desligar o envio de Lead da RD para este pixel (ou mudar para evento personalizado, ex. "RD Conversao").
