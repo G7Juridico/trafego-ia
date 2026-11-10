@@ -313,3 +313,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 10/11: usuário revisou e ATIVOU a [05] no Gerenciador. Conferido ao vivo: campanha ACTIVE com orçamento R$500/dia (alterado pelo usuário; antes R$1.250), 24 anúncios ACTIVE e 1 em revisão (AD22 Chat Nova Área do Aluno Escuro, IN_PROCESS).
 - 10/11: raio-x do pixel + comparativo leads UTM × Gerenciador em raio-x-pixel-e-leads-2026-11-10.md (real = 65% do declarado; CPL real Black R$8,91 × R$5,71 declarado).
 - 10/11: diferença Gerenciador × UTM explicada (visualização 1d + clique sem UTM por sessionStorage). Desduplicação da /black ok; suspeita de 2ª fonte de Lead no servidor (integração RD). Detalhe no raio-x de 10/11.
+- 10/11: RD descartada como fonte do Lead extra (integração desconectada). Suspeita agora: TruConversion/Clint/ManyChat/n8n; conferir no Gerenciador de Eventos.

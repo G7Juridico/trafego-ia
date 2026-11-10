@@ -105,3 +105,9 @@ Janela da campanha: 7 dias após clique + 1 dia após visualização.
 - Prova no Gerenciador: os leads de clique (1.585) ≈ UTM (1.256) + clique sem UTM (310). Se houvesse Lead duplicado sendo atribuído, o Gerenciador estaria bem acima disso.
 - **Mas há uma 2ª fonte mandando Lead pelo servidor.** Lead servidor por dia ≈ 2,2–2,7× os cadastros reais, e bate com cadastros + conversões enviadas à RD (05/11: 308 leads + 308 RD + 222 RD concurso = 838 × 841 no pixel). Suspeita forte: integração da RD Station com a API de Conversões da Meta, enviando um Lead por conversão (cadastro e concurso) com ID próprio → não deduplica com o nosso. Hoje esses eventos não estão inflando o Gerenciador (conta acima fecha), mas poluem o pixel (Lead "fantasma" para otimização e públicos de Lead).
 - Conferir no Gerenciador de Eventos → pixel → Lead → aba de fontes/integrações e "desduplicação". Se aparecer RD Station: desligar o envio de Lead da RD para este pixel (ou mudar para evento personalizado, ex. "RD Conversao").
+
+### Atualização 10/11 — fonte do Lead extra
+- RD Station: integração "Eventos do Facebook Ads" está **desconectada** (print do usuário) → RD descartada.
+- Funções do Supabase: só `capturar-lead` envia à Meta (1 Lead por cadastro). `sincronizar-meta` só lê números; `webhook-pedidos` só grava pedidos. Descartadas.
+- Candidatas restantes: TruConversion (script 64595 na /black e na /black/obrigado, gatilhos nas etapas grupo e concurso — mesmo volume do Lead extra), Clint, ManyChat, n8n. Não confirmado.
+- Como identificar: Gerenciador de Eventos → Lead → detalhes/parâmetros. O nosso Lead tem content_name "Black G7 Especial 10 Anos" (servidor) / content_category "site-pg" (navegador); evento com outros parâmetros ou outra integração = fonte extra.
