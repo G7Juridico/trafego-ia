@@ -322,3 +322,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 12/11: usuário escolheu A. 225 anúncios AD14–AD28 da [02] publicados ativos. Conferido ao vivo: 225 no ar (224 em processamento, 1 em revisão), rascunho vazio. Orçamento da [02] mantido em R$1.250/dia.
 - 12/11: CPL real por conjunto de todas as campanhas Black em cpl-real-conjuntos-black26-2026-11-12.md.
 - 12/11: criada a [06] Listas RD com criativos AD29–AD36 (16 anúncios), R$500/dia, conjunto igual ao da [02] (A+ público e expansão desligados). Publicada PAUSADA a pedido do usuário. AD34 não existe; AD37–AD41 ficaram de fora.
+- 12/11: AD41 ChatGPT Maratona ENAM adicionado na [06] (copy Black), campanha segue PAUSADA.

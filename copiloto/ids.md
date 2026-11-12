@@ -447,3 +447,4 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - [BLACK26] - [AD33] - Desde 2016 Trinca Escuro — 120253874122430247
   - [BLACK26] - [AD35] - Capítulo 1 — 120253874140880247
   - [BLACK26] - [AD36] - Capítulo 2 — 120253874141400247
+  - [BLACK26] - [AD41] - ChatGPT Maratona ENAM — 120253874445040247 (adicionado 12/11, imagem única 4:5 + 9:16)
