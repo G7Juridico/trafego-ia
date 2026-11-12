@@ -180,3 +180,249 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - AD25 Chat Motion Maratona ENAM Claro (vídeo) — ad 120253838228660247 · creative 1581343344009313
   - AD25 Chat Motion Maratona ENAM Escuro (vídeo) — ad 120253838228740247 · creative 2636870620069394
 - Fonte: Drive 1FVSAEPunN_fhxqr0j7p1AAHw2d5lTu33. Spec: scratchpad/spec_05.json
+
+## [02] — criativos AD14–AD28 adicionados (12/11/2026) — EM RASCUNHO, ainda não publicados
+- 225 anúncios = 25 criativos × 9 conjuntos, reaproveitando os creative_id da [05] (ENAM com copy Black). Status no rascunho: ATIVO (publicar = começa a rodar).
+
+### 02 - [QUENTE] - Lista Clicou WhatsApp (120253773614690247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872933690247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872938020247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872938600247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872939450247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872940360247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872940450247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872940710247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872940910247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872941010247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872944250247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872944690247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872944920247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872945480247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872950090247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872950240247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872950640247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872950770247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872952690247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872952820247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872952850247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872952880247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872955140247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872955280247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872955380247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872955910247
+
+### 02 - [QUENTE] - Lista Carrinho Abandonado (120253773614410247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872965560247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872968050247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872969490247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872970470247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872972330247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872973690247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872975570247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872977730247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872978840247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872979860247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872982470247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872984980247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872986210247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872987260247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872989360247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872990770247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872992160247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872993750247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872994590247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872995320247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872996710247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872997120247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872998520247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872998960247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253873000430247
+
+### 02 - [QUENTE] - Lista ENAM (120253773614080247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872966550247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872968040247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872968940247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872969970247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872974930247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872975160247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872977740247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872977960247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872979430247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872979780247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872982510247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872982710247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872985090247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872985590247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872987660247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872988290247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872992590247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872993480247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872994640247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872994750247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872996690247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872996790247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872997450247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872997780247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872998750247
+
+### 02 - [QUENTE] - Lista Blacks Anteriores (120253773613810247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872933310247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872937770247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872938100247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872938590247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872939520247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872940400247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872940540247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872940940247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872940990247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872944810247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872945030247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872945560247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872945800247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872950750247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872950950247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872951030247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872951350247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872952950247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872953390247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872953510247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872953960247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872956020247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872956120247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872956370247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872956700247
+
+### 02 - [QUENTE] - Lista Leads 2026 (120253773613640247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872967120247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872968680247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872969940247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872971080247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872973210247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872975100247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872976670247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872978850247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872979790247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872982330247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872983330247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872985210247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872986650247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872988220247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872990460247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872991950247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872993730247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872994570247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872995460247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872996980247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872998040247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872998680247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872999220247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253873001090247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253873001710247
+
+### 02 - [QUENTE] - Lista Engajados (120253773613490247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872965570247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872969390247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872969570247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872969850247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872975070247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872975170247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872975650247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872984650247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872985060247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872985460247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872988080247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872988540247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872989410247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872992560247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872993450247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872993570247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872995510247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872996170247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872996680247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872998050247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872998430247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872998530247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253873000440247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253873000980247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253873001060247
+
+### 02 - [QUENTE] - Lista Clientes (120253773613390247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872935530247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872938840247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872939470247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872940380247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872940490247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872940900247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872944270247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872944740247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872945010247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872945780247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872945900247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872966520247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872968060247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872969550247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872970930247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872973200247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872975130247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872976730247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872978720247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872979550247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872981650247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872982850247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872985080247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872986510247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872988050247
+
+### 02 - [QUENTE] - Lista Base de Leads (120253773613320247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872966970247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872968130247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872969670247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872970690247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872972650247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872975120247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872976640247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872978890247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872979880247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872982580247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872984560247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872986260247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872987280247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872990100247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872991720247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872993230247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872994460247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872994930247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872996700247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872997130247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872997770247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872998620247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872999080247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253873001040247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253873001700247
+
+### 01 - [QUENTE] - Listas RD (8 públicos) - Exc. Cadastrados Black26 (120253773465330247)
+- [BLACK26] - [AD14] - Edital Maratona ENAM — 120253872965400247
+- [BLACK26] - [AD15] - Diário Oficial Maratona ENAM — 120253872967520247
+- [BLACK26] - [AD16] - Diário Oficial Aprovados — 120253872968610247
+- [BLACK26] - [AD17] - Edital Cronograma Black — 120253872969790247
+- [BLACK26] - [AD18] - Caderno de Prova — 120253872970980247
+- [BLACK26] - [AD19] - Chat Black Claro — 120253872973090247
+- [BLACK26] - [AD19] - Chat Black Escuro — 120253872975060247
+- [BLACK26] - [AD20] - Chat Motion Black Claro — 120253872976330247
+- [BLACK26] - [AD20] - Chat Motion Black Escuro — 120253872978120247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Claro — 120253872979240247
+- [BLACK26] - [AD21] - Chat Maratona ENAM Escuro — 120253872981090247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Claro — 120253872982530247
+- [BLACK26] - [AD22] - Chat Nova Área do Aluno Escuro — 120253872983890247
+- [BLACK26] - [AD23] - Chat Black Geral Claro — 120253872985750247
+- [BLACK26] - [AD23] - Chat Black Geral Escuro — 120253872987080247
+- [BLACK26] - [AD24] - Chat Esperar Claro — 120253872988550247
+- [BLACK26] - [AD24] - Chat Esperar Escuro — 120253872990700247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Claro — 120253872992550247
+- [BLACK26] - [AD25] - Chat Motion Maratona ENAM Escuro — 120253872994380247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Claro — 120253872994900247
+- [BLACK26] - [AD26] - Chat Motion Nova Área Escuro — 120253872996470247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Claro — 120253872997060247
+- [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872997470247
+- [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872998440247
+- [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872998690247
