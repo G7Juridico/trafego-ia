@@ -320,3 +320,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 12/11: lista criativos CPL real × frequência em criativos-cpl-frequencia-2026-11-12.md (nenhum anúncio com freq > 5).
 - 12/11: 225 anúncios novos (AD14–AD28 × 9 conjuntos) staged em RASCUNHO na [02], conferidos (25 por conjunto, criativos certos, sem erro). Status staged ATIVO. Aguardando usuário: publicar ativo ou pausar antes.
 - 12/11: usuário escolheu A. 225 anúncios AD14–AD28 da [02] publicados ativos. Conferido ao vivo: 225 no ar (224 em processamento, 1 em revisão), rascunho vazio. Orçamento da [02] mantido em R$1.250/dia.
+- 12/11: CPL real por conjunto de todas as campanhas Black em cpl-real-conjuntos-black26-2026-11-12.md.
