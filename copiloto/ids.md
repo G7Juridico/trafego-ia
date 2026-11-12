@@ -181,7 +181,7 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - AD25 Chat Motion Maratona ENAM Escuro (vídeo) — ad 120253838228740247 · creative 2636870620069394
 - Fonte: Drive 1FVSAEPunN_fhxqr0j7p1AAHw2d5lTu33. Spec: scratchpad/spec_05.json
 
-## [02] — criativos AD14–AD28 adicionados (12/11/2026) — EM RASCUNHO, ainda não publicados
+## [02] — criativos AD14–AD28 adicionados (12/11/2026) — PUBLICADOS ATIVOS (opção A do usuário)
 - 225 anúncios = 25 criativos × 9 conjuntos, reaproveitando os creative_id da [05] (ENAM com copy Black). Status no rascunho: ATIVO (publicar = começa a rodar).
 
 ### 02 - [QUENTE] - Lista Clicou WhatsApp (120253773614690247)
