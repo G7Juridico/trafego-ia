@@ -427,7 +427,7 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872998440247
 - [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872998690247
 
-## [06] Quente Listas RD — Criativos AD29–AD36 (12/11/2026) — publicada PAUSADA
+## [06] Quente Listas RD — Criativos AD29–AD36 (12/11/2026) — ATIVA (usuário ativou 12/11 ~14:34 BRT)
 - Campanha 120253873981460247 "[BLACK26] - [FASE01] - [06] - [CAPTAÇÃO] - [QUENTE] - Listas RD - Criativos AD29-AD36" · Leads · CBO R$500/dia · menor custo
 - Conjunto 120253873984250247 "06 - [QUENTE] - Listas RD (8 públicos) - Exc. Cadastrados Black26" · cópia do conjunto 120253773465330247 da [02]: 8 listas RD, exc. Cadastrou Black26, 25-65, BR, IG stream/story/reels + FB feed/reels, pixel Lead, 7d clique/1d view/1d EV, A+ público OFF, expansão OFF
 - 16 anúncios (copy Black, título "Black 10 anos G7", desc. "Entre para o Grupo Oficial", A+ criativo OFF). Vídeos: AD35 1674783153995019, AD36 1557728322779264.
