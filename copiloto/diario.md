@@ -328,3 +328,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 12/11: criada a [07] (conjunto igual à [01], 176 públicos) com os 21 criativos da [06], R$500/dia, publicada PAUSADA. Atenção: [01], [05] e [07] disputam os mesmos 176 públicos.
 - 12/11 (tarde): CPL real por conjunto atualizado (cpl-real-conjuntos-black26-2026-11-12b.md) com sugestão de pausar 5 conjuntos. Nada pausado — aguardando usuário.
 - 12/11: tabela completa conjuntos Gerenciador × real em conjuntos-ger-x-real-2026-11-12.md.
+- 12/11: análise de posicionamentos por campanha + viabilidade WhatsApp Status em posicionamentos-black26-2026-11-12.md. Obs.: [07] já apresentava gasto (ativada pelo usuário).
