@@ -327,3 +327,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 12/11: [06] e seu conjunto foram ATIVADOS pelo usuário (Power Editor, ~14:34 BRT) antes de eu adicionar AD41 e AD37–AD40. Por isso esses 5 anúncios entraram já ativos (AD41 aprovado e rodando; AD37–AD40 em revisão). [06] com 21 anúncios.
 - 12/11: criada a [07] (conjunto igual à [01], 176 públicos) com os 21 criativos da [06], R$500/dia, publicada PAUSADA. Atenção: [01], [05] e [07] disputam os mesmos 176 públicos.
 - 12/11 (tarde): CPL real por conjunto atualizado (cpl-real-conjuntos-black26-2026-11-12b.md) com sugestão de pausar 5 conjuntos. Nada pausado — aguardando usuário.
+- 12/11: tabela completa conjuntos Gerenciador × real em conjuntos-ger-x-real-2026-11-12.md.
