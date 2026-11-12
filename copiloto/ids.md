@@ -452,3 +452,29 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - [BLACK26] - [AD38] - Google Data da Black — 120253874556360247 (12/11)
   - [BLACK26] - [AD39] - ChatGPT Esperar a Black — 120253874562660247 (12/11)
   - [BLACK26] - [AD40] - ChatGPT Black de 10 Anos — 120253874566740247 (12/11)
+
+## [07] Quente Públicos Personalizados — Criativos AD29–AD41 (12/11/2026) — publicada PAUSADA
+- Campanha 120253874676570247 "[BLACK26] - [FASE01] - [07] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados - Criativos AD29-AD41" · Leads · CBO R$500/dia · menor custo
+- Conjunto 120253874680490247 "07 - [QUENTE] - Todos os Públicos Personalizados G7" · cópia do conjunto 120253760845490247 da [01]: 176 públicos, exc. Cadastrou Black26, 25-65, BR, IG stream/story/reels + FB feed/reels, pixel Lead, 7d clique/1d view/1d EV, A+ público OFF, expansão OFF
+- 21 anúncios reaproveitando os creative_id da [06] (copy Black, A+ criativo OFF):
+  - [BLACK26] - [AD29] - 10 anos Claro — 120253874687870247
+  - [BLACK26] - [AD29] - 10 anos Escuro — 120253874689440247
+  - [BLACK26] - [AD30] - Área do aluno Claro — 120253874690470247
+  - [BLACK26] - [AD30] - Área do aluno Escuro — 120253874691090247
+  - [BLACK26] - [AD31] - Melhor oportunidade Claro — 120253874692390247
+  - [BLACK26] - [AD31] - Melhor oportunidade Escuro — 120253874694080247
+  - [BLACK26] - [AD32] - 90 mil alunos Claro — 120253874696030247
+  - [BLACK26] - [AD32] - 90 mil alunos Escuro — 120253874696650247
+  - [BLACK26] - [AD33] - Desde 2016 Mosaico Claro — 120253874689600247
+  - [BLACK26] - [AD33] - Desde 2016 Mosaico Escuro — 120253874690310247
+  - [BLACK26] - [AD33] - Desde 2016 Polaroid Claro — 120253874698350247
+  - [BLACK26] - [AD33] - Desde 2016 Polaroid Escuro — 120253874703800247
+  - [BLACK26] - [AD33] - Desde 2016 Trinca Claro — 120253874706670247
+  - [BLACK26] - [AD33] - Desde 2016 Trinca Escuro — 120253874687670247
+  - [BLACK26] - [AD35] - Capítulo 1 — 120253874690790247
+  - [BLACK26] - [AD36] - Capítulo 2 — 120253874691150247
+  - [BLACK26] - [AD37] - Google Maratona ENAM — 120253874692740247
+  - [BLACK26] - [AD38] - Google Data da Black — 120253874694170247
+  - [BLACK26] - [AD39] - ChatGPT Esperar a Black — 120253874696060247
+  - [BLACK26] - [AD40] - ChatGPT Black de 10 Anos — 120253874696750247
+  - [BLACK26] - [AD41] - ChatGPT Maratona ENAM — 120253874698770247
