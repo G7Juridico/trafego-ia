@@ -317,3 +317,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 10/11: TruConversion descartado. Suspeita principal do Lead extra: Clint (integração Meta/CAPI).
 - 10/11: pedido de auditoria somente leitura no n8n (eventos para o pixel) em pedido-revisao-n8n-pixel.md.
 - 12/11: análise da alta do CPL Black (11–12/11) em analise-cpl-black26-2026-11-12.md. Causa: CTR caindo (1,39%→0,65%) por saturação dos públicos quentes ([02] freq 7,2) + gasto dobrado no mesmo público + [01]×[05] disputando. Mudanças de 11/11 no log: [05] R$500→750, 6 conjuntos [03] e 4 conjuntos [04] pausados (Gabriel). Recomendações propostas, nada aplicado.
+- 12/11: lista criativos CPL real × frequência em criativos-cpl-frequencia-2026-11-12.md (nenhum anúncio com freq > 5).
