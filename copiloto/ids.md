@@ -448,3 +448,7 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - [BLACK26] - [AD35] - Capítulo 1 — 120253874140880247
   - [BLACK26] - [AD36] - Capítulo 2 — 120253874141400247
   - [BLACK26] - [AD41] - ChatGPT Maratona ENAM — 120253874445040247 (adicionado 12/11, imagem única 4:5 + 9:16)
+  - [BLACK26] - [AD37] - Google Maratona ENAM — 120253874548430247 (12/11)
+  - [BLACK26] - [AD38] - Google Data da Black — 120253874556360247 (12/11)
+  - [BLACK26] - [AD39] - ChatGPT Esperar a Black — 120253874562660247 (12/11)
+  - [BLACK26] - [AD40] - ChatGPT Black de 10 Anos — 120253874566740247 (12/11)
