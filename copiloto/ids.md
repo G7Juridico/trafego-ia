@@ -426,3 +426,24 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - [BLACK26] - [AD27] - Chat Motion Black Geral Escuro — 120253872997470247
 - [BLACK26] - [AD28] - Chat Motion Esperar Claro — 120253872998440247
 - [BLACK26] - [AD28] - Chat Motion Esperar Escuro — 120253872998690247
+
+## [06] Quente Listas RD — Criativos AD29–AD36 (12/11/2026) — publicada PAUSADA
+- Campanha 120253873981460247 "[BLACK26] - [FASE01] - [06] - [CAPTAÇÃO] - [QUENTE] - Listas RD - Criativos AD29-AD36" · Leads · CBO R$500/dia · menor custo
+- Conjunto 120253873984250247 "06 - [QUENTE] - Listas RD (8 públicos) - Exc. Cadastrados Black26" · cópia do conjunto 120253773465330247 da [02]: 8 listas RD, exc. Cadastrou Black26, 25-65, BR, IG stream/story/reels + FB feed/reels, pixel Lead, 7d clique/1d view/1d EV, A+ público OFF, expansão OFF
+- 16 anúncios (copy Black, título "Black 10 anos G7", desc. "Entre para o Grupo Oficial", A+ criativo OFF). Vídeos: AD35 1674783153995019, AD36 1557728322779264.
+  - [BLACK26] - [AD29] - 10 anos Claro — 120253874097000247
+  - [BLACK26] - [AD29] - 10 anos Escuro — 120253874120890247
+  - [BLACK26] - [AD30] - Área do aluno Claro — 120253874121180247
+  - [BLACK26] - [AD30] - Área do aluno Escuro — 120253874121560247
+  - [BLACK26] - [AD31] - Melhor oportunidade Claro — 120253874121800247
+  - [BLACK26] - [AD31] - Melhor oportunidade Escuro — 120253874122150247
+  - [BLACK26] - [AD32] - 90 mil alunos Claro — 120253874123000247
+  - [BLACK26] - [AD32] - 90 mil alunos Escuro — 120253874097660247
+  - [BLACK26] - [AD33] - Desde 2016 Mosaico Claro — 120253874123010247
+  - [BLACK26] - [AD33] - Desde 2016 Mosaico Escuro — 120253874123550247
+  - [BLACK26] - [AD33] - Desde 2016 Polaroid Claro — 120253874121730247
+  - [BLACK26] - [AD33] - Desde 2016 Polaroid Escuro — 120253874121970247
+  - [BLACK26] - [AD33] - Desde 2016 Trinca Claro — 120253874122220247
+  - [BLACK26] - [AD33] - Desde 2016 Trinca Escuro — 120253874122430247
+  - [BLACK26] - [AD35] - Capítulo 1 — 120253874140880247
+  - [BLACK26] - [AD36] - Capítulo 2 — 120253874141400247
