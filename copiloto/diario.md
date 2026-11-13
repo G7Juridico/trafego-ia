@@ -338,3 +338,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 13/11: REGRA DO USUÁRIO — quanto mais tempo o lead conhece o G7, melhor. Métrica-guia: custo por lead que conhece há +1 ano (custo-lead-qualificado-2026-11-13.md).
 - 13/11: usuário pediu redistribuição para ~R$ 2.800/dia. Proposta em redistribuicao-orcamento-2800-2026-11-13.md (aguardando confirmação).
 - 13/11: APLICADO (usuário: "pode aplicar"): [02] 1.250→1.000; [01] 750→500; [05] 750→500; [06] 500→400; [07] 500→400; [03] campanha PAUSADA. Total Black R$ 2.800/dia. Conferido ao vivo.
+- 13/11: análise de anúncios com CPL real estourado (anuncios-cpl-estourado-2026-11-13.md). Proposta de pausar 5 anúncios, aguardando confirmação.
