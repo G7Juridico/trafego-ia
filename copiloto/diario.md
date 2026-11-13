@@ -331,3 +331,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 12/11: análise de posicionamentos por campanha + viabilidade WhatsApp Status em posicionamentos-black26-2026-11-12.md. Obs.: [07] já apresentava gasto (ativada pelo usuário).
 - 13/11: AD42 e AD43 adicionados na [06] e [07] (4 anúncios, em revisão; campanhas ativas). Raio-x do dia 12/11 em raio-x-black26-2026-11-12.md. [04] encontrada PAUSADA (pelo usuário).
 - 13/11: a pedido do usuário — [01] orçamento R$1.250 → R$750/dia (publicado, conferido ao vivo); pausados [02] Lista Carrinho Abandonado (120253773614410247), [03] Semelhante Leads 2026 (120253774307660247) e [03] Semelhante Visitou Pág. Black (120253774308440247), conferidos PAUSED. Pendente: quando a [07] estabilizar, passar verba da [01] para ela.
+- 13/11: CPL real por conjunto atualizado em cpl-real-conjuntos-black26-2026-11-13.md.
