@@ -336,3 +336,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 13/11: a pedido do usuário, removido o mínimo de R$50/dia de [02] Lista Base de Leads e Lista Engajados (conferido: sem mínimo). Mínimos na [02] agora: Clientes 200, Clicou WhatsApp 200, Listas RD 350, Blacks Anteriores 50, ENAM 50, Leads 2026 50 = R$900 de R$1.250.
 - 13/11: perfil 'conhece o G7' dos semelhantes Clientes e Base Completa em perfil-semelhantes-clientes-base-2026-11-13.md.
 - 13/11: REGRA DO USUÁRIO — quanto mais tempo o lead conhece o G7, melhor. Métrica-guia: custo por lead que conhece há +1 ano (custo-lead-qualificado-2026-11-13.md).
+- 13/11: usuário pediu redistribuição para ~R$ 2.800/dia. Proposta em redistribuicao-orcamento-2800-2026-11-13.md (aguardando confirmação).
