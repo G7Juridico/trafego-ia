@@ -19,7 +19,7 @@ Critério: CPL real > R$ 12 e gasto ≥ R$ 80 no período. "+1 ano" = conhecem o
 
 Leitura: os 4 maiores gastos da [01] (AD12, AD09, AD08, AD04) consumiram R$ 3.035 em 3 dias com CPL real de R$ 14–29. Eram os campeões da campanha no começo (AD09 e AD12 ainda têm CPL total de R$ 8–9), mas saturaram. [05] AD18 (R$ 8,37) e AD24 (R$ 8,35) e [02] Listas RD AD12 (R$ 9,85) seguem bons.
 
-Proposta (NADA APLICADO): pausar 4, 7, 5, 8 e 10 (piores sem perder volume relevante). Os grandes da [01] (1, 2, 3) dependem de decisão sobre a [01] inteira: com AD04/AD13 pausados, a verba fica nos 3, que são os menos ruins da campanha. [06]/[07] AD36: só 1 dia, esperar 14/11.
+APLICADO 13/11: pausados 4, 7, 5, 8 e 10 (piores sem perder volume relevante). Os grandes da [01] (1, 2, 3) dependem de decisão sobre a [01] inteira: com AD04/AD13 pausados, a verba fica nos 3, que são os menos ruins da campanha. [06]/[07] AD36: só 1 dia, esperar 14/11.
 
 ## Métricas dos 5 anúncios propostos para pausa (10–12/11 | período todo)
 
