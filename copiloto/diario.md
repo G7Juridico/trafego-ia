@@ -334,3 +334,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 13/11: CPL real por conjunto atualizado em cpl-real-conjuntos-black26-2026-11-13.md.
 - 13/11: a pedido do usuário, mínimo de gasto diário por conjunto na [02] (CBO R$1.250): Lista Clientes R$200, Lista Clicou WhatsApp R$200, Listas RD (8 públicos) R$350. Publicado e conferido. Acompanhar frequência (Clientes e Clicou WhatsApp ~5 mil pessoas, freq. 3,2) e CPL real por 2 dias.
 - 13/11: a pedido do usuário, removido o mínimo de R$50/dia de [02] Lista Base de Leads e Lista Engajados (conferido: sem mínimo). Mínimos na [02] agora: Clientes 200, Clicou WhatsApp 200, Listas RD 350, Blacks Anteriores 50, ENAM 50, Leads 2026 50 = R$900 de R$1.250.
+- 13/11: perfil 'conhece o G7' dos semelhantes Clientes e Base Completa em perfil-semelhantes-clientes-base-2026-11-13.md.
