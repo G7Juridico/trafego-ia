@@ -53,3 +53,6 @@ Fonte: briefing do usuário na sessão de 2026-10-16. Vale para todas as sessõe
 - [ ] `ads_get_errors` vazio na campanha
 - [ ] contagem de conjuntos e anúncios batendo com o plano
 - [ ] tudo em rascunho ou pausado
+
+## Qualidade de lead (13/11/2026)
+- Quanto mais tempo o lead conhece o G7, melhor. Avaliar públicos pelo custo por lead que conhece o G7 há +1 ano, além do CPL real.
