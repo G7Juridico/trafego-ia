@@ -343,3 +343,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 13/11 08h30: CPL real por conjunto atualizado (cpl-real-conjuntos-black26-2026-11-13b.md). As mudanças registradas como '13/11' acima foram feitas na noite de 12/11 (horário de Brasília).
 - 13/11 08h30: CPL real por anúncio ativo (cpl-real-anuncios-black26-2026-11-13.md).
 - 13/11 ~15h15: leads de hoje por campanha (leads-hoje-2026-11-13.md). CPL real do dia R$ 14,69 (parcial).
+- 13/11 ~15h: raio-x de performance (raio-x-performance-black26-2026-11-13.md).
