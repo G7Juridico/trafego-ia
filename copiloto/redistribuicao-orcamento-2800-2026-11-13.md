@@ -1,7 +1,7 @@
 # Proposta — redistribuição para R$ 2.800/dia (Black26) — 13/11/2026
 
 Critério: CPL real + custo por lead que conhece o G7 há +1 ano (custo-lead-qualificado-2026-11-13.md).
-Perenes (CAD26, ISC26, QUE26, R$ 100 cada) fora da conta. NADA APLICADO.
+Perenes (CAD26, ISC26, QUE26, R$ 100 cada) fora da conta. APLICADO em 13/11 (confirmado na leitura ao vivo).
 
 | Campanha | Hoje | Proposta | Custo lead +1 ano | Motivo |
 |---|---|---|---|---|
