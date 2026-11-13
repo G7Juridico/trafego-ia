@@ -478,3 +478,8 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
   - [BLACK26] - [AD39] - ChatGPT Esperar a Black — 120253874696060247
   - [BLACK26] - [AD40] - ChatGPT Black de 10 Anos — 120253874696750247
   - [BLACK26] - [AD41] - ChatGPT Maratona ENAM — 120253874698770247
+
+## AD42 / AD43 (13/11/2026) — adicionados na [06] e [07] (ativas; entram após revisão)
+- [06] conjunto 120253873984250247: [BLACK26] - [AD42] - Comentário Maratona ENAM — 120253881065150247 · [BLACK26] - [AD43] - Comentário Black 10 anos — 120253881067010247
+- [07] conjunto 120253874680490247: [BLACK26] - [AD42] - Comentário Maratona ENAM — 120253881068940247 · [BLACK26] - [AD43] - Comentário Black 10 anos — 120253881069510247
+- Imagens 4:5/9:16, copy Black, A+ criativo OFF.
