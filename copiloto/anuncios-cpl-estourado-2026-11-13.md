@@ -20,3 +20,15 @@ Critério: CPL real > R$ 12 e gasto ≥ R$ 80 no período. "+1 ano" = conhecem o
 Leitura: os 4 maiores gastos da [01] (AD12, AD09, AD08, AD04) consumiram R$ 3.035 em 3 dias com CPL real de R$ 14–29. Eram os campeões da campanha no começo (AD09 e AD12 ainda têm CPL total de R$ 8–9), mas saturaram. [05] AD18 (R$ 8,37) e AD24 (R$ 8,35) e [02] Listas RD AD12 (R$ 9,85) seguem bons.
 
 Proposta (NADA APLICADO): pausar 4, 7, 5, 8 e 10 (piores sem perder volume relevante). Os grandes da [01] (1, 2, 3) dependem de decisão sobre a [01] inteira: com AD04/AD13 pausados, a verba fica nos 3, que são os menos ruins da campanha. [06]/[07] AD36: só 1 dia, esperar 14/11.
+
+## Métricas dos 5 anúncios propostos para pausa (10–12/11 | período todo)
+
+| Anúncio | Gasto | Impr. | Alcance | Freq. | CPM | Cliques no link | CTR saída | Custo/clique | Visitas pág. | Leads Ger. | CPL Ger. | Leads reais | CPL real | Lead real/visita |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [01] AD04 O que mudou no G7 | 373 \| 974 | 20.411 \| 59.384 | 15.690 \| 33.506 | 1,30 \| 1,77 | 18,29 \| 16,40 | 239 \| 828 | 1,17% \| 1,39% | 1,56 \| 1,18 | 221 \| 781 | 24 \| 127 | 15,56 \| 7,67 | 13 \| 65 | 28,67 \| 14,97 | 5,9% \| 8,3% |
+| [01] AD13 Portal de notícias | 187 \| 689 | 10.633 \| 47.271 | 9.105 \| 30.722 | 1,17 \| 1,54 | 17,54 \| 14,57 | 97 \| 510 | 0,91% \| 1,08% | 1,92 \| 1,35 | 99 \| 514 | 17 \| 106 | 10,97 \| 6,50 | 8 \| 61 | 23,31 \| 11,29 | 8,1% \| 11,9% |
+| [05] AD17 Edital Cronograma Black | 297 \| 297 | 14.944 | 10.166 | 1,47 | 19,85 | 103 | 0,69% | 2,88 | 97 | 34 | 8,73 | 20 | 14,83 | 20,6% |
+| [02] Leads 2026 AD08 Maratona ENAM | 146 \| 229 | 5.116 \| 8.093 | 3.496 \| 4.678 | 1,46 \| 1,73 | 28,54 \| 28,25 | 37 \| 65 | 0,72% \| 0,80% | 3,95 \| 3,52 | 33 \| 59 | 11 \| 30 | 13,27 \| 7,62 | 8 \| 22 | 18,25 \| 10,39 | 24,2% \| 37,3% |
+| [02] Base de Leads AD04 O que mudou no G7 | 88 \| 285 | 4.369 \| 13.164 | 3.826 \| 9.223 | 1,14 \| 1,43 | 20,13 \| 21,68 | 46 \| 203 | 1,05% \| 1,54% | 1,91 \| 1,41 | 44 \| 202 | 12 \| 51 | 7,33 \| 5,60 | 6 \| 19 | 14,66 \| 15,02 | 13,6% \| 9,4% |
+
+Leitura: frequência baixa (1,1–1,5) — não é cansaço do anúncio. AD04 e AD13: clique barato, mas quase ninguém se cadastra na página (6–14%, média da Black ~30%). AD17 e AD08: CTR baixo (0,7%) e clique caro (R$ 2,88–3,95).
