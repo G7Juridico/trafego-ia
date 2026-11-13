@@ -28,3 +28,20 @@ Alcance/frequência = todo o período. Demais métricas = 12 e 13/11 (13 parcial
 - Pausar [02] Lista Engajados.
 - Passar verba da [01] para a [05] (mesmo público, criativo melhor) em vez da [07].
 - Na [06]/[07], pausar AD29/AD35/AD36 e manter AD31.
+
+## Versão com quantidade de leads +1 ano (12–13/11)
+| Público | Gasto | Leads reais (todos) | Leads que conhecem +1 ano | CPL real | Custo por lead +1 ano |
+|---|---|---|---|---|---|
+| [05] Todos Públ. Personalizados | 1.151,35 | 102 | 20 | 11,29 | 57,57 |
+| [02] Base de Leads | 383,58 | 33 | 11 | 11,62 | 34,87 |
+| [02] Listas RD (8) | 382,93 | 32 | 12 | 11,97 | 31,91 |
+| [02] Clientes | 172,37 | 14 | 5 | 12,31 | 34,47 |
+| [02] Clicou WhatsApp | 189,54 | 14 | 7 | 13,54 | 27,08 |
+| [02] ENAM | 83,39 | 6 | 2 | 13,90 | 41,70 |
+| [02] Leads 2026 | 95,69 | 6 | 0 | 15,95 | – |
+| [01] Todos Públ. Personalizados | 1.576,82 | 87 | 23 | 18,12 | 68,56 |
+| [02] Blacks Anteriores | 111,55 | 6 | 2 | 18,59 | 55,78 |
+| [07] Todos Públ. Personalizados | 513,92 | 27 | 10 | 19,03 | 51,39 |
+| [06] Listas RD (8) | 572,17 | 27 | 12 | 21,19 | 47,68 |
+| [02] Engajados | 109,63 | 1 | 0 | 109,63 | – |
+Obs.: só cerca de metade responde a pergunta; a contagem +1 ano é mínima (quem não respondeu não entra).
