@@ -341,3 +341,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 13/11: análise de anúncios com CPL real estourado (anuncios-cpl-estourado-2026-11-13.md). Proposta de pausar 5 anúncios, aguardando confirmação.
 - 13/11: PAUSADOS (usuário: "pode pausar os 5 anúncios"): [01] AD04 120253760876210247; [01] AD13 120253760877290247; [05] AD17 120253838246370247; [02] Leads 2026 AD08 120253773696680247; [02] Base de Leads AD04 120253773670910247. Conferido ao vivo (status PAUSED).
 - 13/11 08h30: CPL real por conjunto atualizado (cpl-real-conjuntos-black26-2026-11-13b.md). As mudanças registradas como '13/11' acima foram feitas na noite de 12/11 (horário de Brasília).
+- 13/11 08h30: CPL real por anúncio ativo (cpl-real-anuncios-black26-2026-11-13.md).
