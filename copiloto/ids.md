@@ -483,3 +483,12 @@ Mesma config do conjunto combinado (pixel Lead, exclusão cadastrados Black26, A
 - [06] conjunto 120253873984250247: [BLACK26] - [AD42] - Comentário Maratona ENAM — 120253881065150247 · [BLACK26] - [AD43] - Comentário Black 10 anos — 120253881067010247
 - [07] conjunto 120253874680490247: [BLACK26] - [AD42] - Comentário Maratona ENAM — 120253881068940247 · [BLACK26] - [AD43] - Comentário Black 10 anos — 120253881069510247
 - Imagens 4:5/9:16, copy Black, A+ criativo OFF.
+
+## [08] ABO Top 5 Criativos (criada 16/11/2026, publicada PAUSADA)
+Campanha 120253935836590247 — [BLACK26] - [FASE01] - [08] - [CAPTAÇÃO] - [QUENTE] - ABO Top 5 Criativos (OUTCOME_LEADS, ABO, sem orçamento de campanha)
+Conjuntos (R$ 25/dia cada; config = [05]: Lead pixel 1250040671830251, 176 públicos personalizados, exc. Cadastrou Black 60D, 25–65, FB feed/reels + IG feed/stories/reels, Advantage+ público off, 7d clique/1d view/1d EV):
+- 01 AD12 — conjunto 120253935845310247 — anúncio 120253935893830247 (criativo 1138125941918518)
+- 02 AD14 — conjunto 120253935857090247 — anúncio 120253935894250247 (criativo 1763180304753240)
+- 03 AD10 — conjunto 120253935886740247 — anúncio 120253935895030247 (criativo 1670302494729887)
+- 04 AD09 — conjunto 120253935886870247 — anúncio 120253935895930247 (criativo 1411012367682113)
+- 05 AD11 — conjunto 120253935887200247 — anúncio 120253935896190247 (criativo 1616410633563076)
