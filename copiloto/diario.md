@@ -353,3 +353,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11: PAUSADOS na [02] (usuário: "pode pausar os 8 anúncios"): Listas RD AD08 120253773482740247, AD04 120253773482490247, AD13 120253773483710247, AD18 120253872970980247; Blacks Anteriores AD15 120253872937770247; Leads 2026 AD15 120253872968680247; Base de Leads AD15 120253872968130247; Clicou WhatsApp AD08 120253773696450247. Conferido ao vivo (PAUSED).
 - 16/11: CPL real por anúncio da [03] (pausada) (cpl-real-anuncios-campanha03-2026-11-16.md).
 - 16/11: CPL real por anúncio da [05] (cpl-real-anuncios-campanha05-2026-11-16.md).
+- 16/11: PAUSADO (usuário: "pode pausar o AD15"): [05] AD15 Diário Oficial Maratona ENAM 120253838246040247. Status PAUSED conferido (em processamento).
