@@ -349,3 +349,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11 10h15: CPL real por campanha (cpl-real-campanhas-2026-11-16.md).
 - 16/11: CPL real por anúncio da [01] (cpl-real-anuncios-campanha01-2026-11-16.md).
 - 16/11: PAUSADO (usuário: "pode pausar o AD08"): [01] AD08 Maratona ENAM 120253760876640247. Status PAUSED conferido (em processamento). AD09 segue ativo.
+- 16/11: CPL real por anúncio da [02] (cpl-real-anuncios-campanha02-2026-11-16.md).
