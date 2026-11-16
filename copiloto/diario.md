@@ -347,3 +347,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 13/11 ~15h: raio-x dos públicos (raio-x-publicos-black26-2026-11-13.md). Sugestões aguardando confirmação.
 - 16/11: sugestões para baixar CPL dos quentes (sugestoes-cpl-quente-2026-11-16.md). Aguardando confirmação.
 - 16/11 10h15: CPL real por campanha (cpl-real-campanhas-2026-11-16.md).
+- 16/11: CPL real por anúncio da [01] (cpl-real-anuncios-campanha01-2026-11-16.md).
