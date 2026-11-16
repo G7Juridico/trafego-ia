@@ -361,3 +361,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11: top 3 públicos quentes (top3-publicos-quentes-2026-11-16.md).
 - 16/11: top 15 criativos (top15-criativos-black26-2026-11-16.md).
 - 16/11: CRIADA [08] ABO Top 5 Criativos (AD12, AD14, AD10, AD09, AD11), 5 conjuntos × R$ 25/dia, mesma config da [05], criativos reaproveitados. Publicada PAUSADA (campanha e conjuntos pausados; conferido ao vivo). Aguarda ativação do usuário.
+- 16/11: [08] +23 conjuntos (06–28), 1 anúncio cada, criativos da [06]/[07] (AD29–AD43, opção B: todos os 23, inclusive os 5 pausados nas outras campanhas). R$ 25/dia cada → [08] total R$ 700/dia. Publicação PAUSADA enviada; sem erros.
