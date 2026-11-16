@@ -356,3 +356,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11: PAUSADO (usuário: "pode pausar o AD15"): [05] AD15 Diário Oficial Maratona ENAM 120253838246040247. Status PAUSED conferido (em processamento).
 - 16/11: CPL real por anúncio da [06] (cpl-real-anuncios-campanha06-2026-11-16.md).
 - 16/11: PAUSADOS na [06] (usuário: "pode pausar os 4 anúncios"): AD36 Capítulo 2 120253874141400247; AD35 Capítulo 1 120253874140880247; AD29 10 anos Escuro 120253874120890247; AD37 Google Maratona ENAM 120253874548430247. Conferido ao vivo (PAUSED).
+- 16/11: CPL real por anúncio da [07] (cpl-real-anuncios-campanha07-2026-11-16.md).
