@@ -368,3 +368,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11: ATIVADOS (usuário: "Pode ativar esses anúncios") os 10 conjuntos 29–38 da [08] (AD34 Claro/Escuro, AD44–AD51), R$ 25/dia cada. Conferido ao vivo: os 10 ACTIVE/ACTIVE. Anúncios em análise da Meta. [08] passa a R$ 950/dia; gasto Black ~R$ 3.750/dia.
 - 16/11 16h35: CPL real por campanha atualizado (cpl-real-campanhas-2026-11-16-tarde.md).
 - 16/11: proposta de estrutura nova p/ CPL real R$ 8 (proposta-estrutura-cpl8-2026-11-16.md). Não aplicada.
+- 16/11: modelos de mensagem WhatsApp API para a Black (modelos-whatsapp-black-2026-11-16.md).
