@@ -375,3 +375,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 17/11 09h44: resultado dos novos criativos AD34, AD44–AD51 na [08] (novos-criativos-08-2026-11-17.md).
 - 17/11: base RD (87.574) filtrada sem cadastrados Black26 + top 5.000 quentes (rd-top5000-quentes-2026-11-17.md; listas com PII só no scratchpad).
 - 17/11: versão WhatsApp do top 5.000 (números normalizados 55+DDD+9 dígitos; PII só no scratchpad).
+- 17/11: cruzamento alunos_14_11_2026 × RD (cruzamento-alunos-rd-2026-11-17.md).
