@@ -371,3 +371,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11: modelos de mensagem WhatsApp API para a Black (modelos-whatsapp-black-2026-11-16.md).
 - 16/11 18h22: CPL real por campanha do dia (cpl-real-campanhas-hoje-2026-11-16-18h.md).
 - 16/11 20h02: CPL real por campanha do dia (cpl-real-campanhas-hoje-2026-11-16-20h.md).
+- 17/11 08h23: CPL real por campanha (16/11 fechado + 17/11 parcial) (cpl-real-campanhas-2026-11-17-08h.md).
