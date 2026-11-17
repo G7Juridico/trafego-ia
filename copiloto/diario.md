@@ -372,3 +372,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 16/11 18h22: CPL real por campanha do dia (cpl-real-campanhas-hoje-2026-11-16-18h.md).
 - 16/11 20h02: CPL real por campanha do dia (cpl-real-campanhas-hoje-2026-11-16-20h.md).
 - 17/11 08h23: CPL real por campanha (16/11 fechado + 17/11 parcial) (cpl-real-campanhas-2026-11-17-08h.md).
+- 17/11 09h44: resultado dos novos criativos AD34, AD44–AD51 na [08] (novos-criativos-08-2026-11-17.md).
