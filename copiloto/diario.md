@@ -376,3 +376,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 17/11: base RD (87.574) filtrada sem cadastrados Black26 + top 5.000 quentes (rd-top5000-quentes-2026-11-17.md; listas com PII só no scratchpad).
 - 17/11: versão WhatsApp do top 5.000 (números normalizados 55+DDD+9 dígitos; PII só no scratchpad).
 - 17/11: cruzamento alunos_14_11_2026 × RD (cruzamento-alunos-rd-2026-11-17.md).
+- 17/11: diferença de contagem Black26 explicada: dashboard conta linhas do formulário (4.997, com 530 recadastros), RD conta contatos únicos (4.467 e-mails únicos no banco às 15h13); 854 dos cadastrados Black26 no RD com e-mail indisponível (710 contatos antigos; 151 base legal Recusado; 11 domínios com erro de digitação).
