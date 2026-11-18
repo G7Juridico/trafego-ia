@@ -1,0 +1,215 @@
+<title>Raio-X Campanhas Black26</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Relatório de decisão: resumo e veredito no topo, uma ficha por campanha abaixo */
+:root{--bg:#f6f5f1;--surface:#ffffff;--fg:#1d1c19;--muted:#6b675d;--line:#e2dfd6;--accent:#8a6a1f;
+--ok:#1f7a4d;--ok-bg:#e3f2e9;--warn:#946200;--warn-bg:#fbf0d6;--bad:#b3261e;--bad-bg:#f9e1de;--neutral-bg:#ecebe6;
+--display:"Fraunces",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#151410;--surface:#1f1d18;--fg:#ece9e0;--muted:#a19c8f;--line:#35322a;--accent:#d8b45a;
+--ok:#6fd19b;--ok-bg:#16301f;--warn:#e9bf55;--warn-bg:#352a10;--bad:#ff8a80;--bad-bg:#3a1916;--neutral-bg:#2a2822;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#151410;--surface:#1f1d18;--fg:#ece9e0;--muted:#a19c8f;--line:#35322a;--accent:#d8b45a;
+--ok:#6fd19b;--ok-bg:#16301f;--warn:#e9bf55;--warn-bg:#352a10;--bad:#ff8a80;--bad-bg:#3a1916;--neutral-bg:#2a2822;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1120px;margin:0 auto;padding-block:32px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:28px}
+h1{font-family:var(--display);font-size:clamp(28px,4vw,40px);line-height:1.1;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-size:22px;margin:0 0 12px}
+h3{font-size:17px;margin:0} h4{margin:0 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.lead{color:var(--muted);max-width:70ch;margin:8px 0 0}
+.num,td.num{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.totals{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.totals div{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;gap:2px}
+.totals span,.kpis span{font-size:12px;color:var(--muted)} .totals b{font-size:22px;font-variant-numeric:tabular-nums}
+.totals em,.kpis em{font-style:normal;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.tw{overflow-x:auto;min-width:0}
+table{border-collapse:collapse;width:100%;font-size:14px} th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{font-size:12px;color:var(--muted);font-weight:500;white-space:nowrap} th.num{text-align:right}
+.sum{background:var(--surface);border:1px solid var(--line);border-radius:8px}
+td.camp b{display:block} td.camp span{font-size:12px;color:var(--muted)}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;white-space:nowrap}
+.pill.keep{background:var(--ok-bg);color:var(--ok)} .pill.up{background:var(--ok-bg);color:var(--ok);outline:1px solid var(--ok)}
+.pill.cut{background:var(--warn-bg);color:var(--warn)} .pill.off{background:var(--bad-bg);color:var(--bad)} .pill.paused{background:var(--neutral-bg);color:var(--muted)}
+.t-ok{color:var(--ok)} .t-warn{color:var(--warn)} .t-bad{color:var(--bad)}
+.chart{display:grid;gap:8px;max-width:640px} .hb{display:grid;grid-template-columns:44px 1fr 90px;align-items:center;gap:10px;font-variant-numeric:tabular-nums}
+.hb-l{font-family:var(--mono);font-size:13px} .hb-t{background:var(--neutral-bg);height:18px;border-radius:3px;position:relative;overflow:hidden}
+.hb-f{position:absolute;inset:0 auto 0 0;border-radius:3px} .hb-f.ok{background:var(--ok)} .hb-f.warn{background:var(--warn)} .hb-f.bad{background:var(--bad)}
+.hb-v{text-align:right;font-size:14px}
+.legend{font-size:12px;color:var(--muted)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:18px;display:grid;gap:14px;min-width:0}
+.card header{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap}
+.full{margin:2px 0 0;font-family:var(--mono);font-size:11px;color:var(--muted);word-break:break-word}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
+.kpis div{display:grid;gap:1px;border-left:2px solid var(--line);padding-left:10px} .kpis b{font-variant-numeric:tabular-nums;font-size:17px}
+.u4{margin:0;font-size:13px;background:var(--neutral-bg);padding:8px 12px;border-radius:6px}
+.why ul{margin:0;padding-left:18px;display:grid;gap:4px} .bud{margin:8px 0 0;font-size:14px}
+details summary{cursor:pointer;font-size:13px;color:var(--accent);font-weight:500} details summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+table.daily{font-size:13px;margin-top:8px}
+.notes{font-size:13px;color:var(--muted);display:grid;gap:6px;max-width:80ch} .notes p{margin:0}
+.plan{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.plan div{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.plan b{font-size:20px;font-variant-numeric:tabular-nums}
+</style>
+<div class="wrap">
+<header><div class="eyebrow">Black 10 anos G7 · Meta Ads · dados até 17/11, ~22h</div>
+<h1>Raio-X das campanhas Black26</h1>
+<p class="lead">CPL real contando pessoas (cada e-mail uma vez), duplicados por cadastro e a decisão para cada campanha. A comparação usa os últimos 4 dias (14 a 17/11), quando todas as campanhas ativas já rodavam, exceto a [08] (desde 16/11).</p></header>
+
+<section class="totals">
+<div><span>Gasto Black26</span><b>R$ 34.998</b><em>06 a 17/11</em></div>
+<div><span>Leads no Gerenciador</span><b>4.352</b><em>R$ 8,04 por lead</em></div>
+<div><span>Envios do formulário</span><b>2.919</b><em>Gerenciador conta 49% a mais</em></div>
+<div><span>Pessoas (soma das campanhas)</span><b>2.778</b><em>R$ 12,60 por pessoa</em></div>
+<div><span>Conhecem o G7 há +1 ano</span><b>925</b><em>R$ 37,84 cada</em></div>
+</section>
+
+<section><h2>Decisão por campanha</h2>
+<div class="tw sum"><table><thead><tr><th>Campanha</th><th>Decisão</th><th class="num">Gasto 14–17/11</th><th class="num">Pessoas</th><th class="num">CPL pessoas</th><th class="num">CPL novos na Black</th><th class="num">% +1 ano</th><th class="num">Custo +1 ano</th><th class="num">Conv. página</th><th class="num">Orçamento/dia</th></tr></thead><tbody><tr><td class="camp"><b>[05]</b><span>Públicos Personalizados · AD14–AD28</span></td>
+<td><span class="pill up">Manter e receber verba</span></td>
+<td class="num">R$ 1.961,84</td><td class="num">174</td>
+<td class="num"><b class="t-ok">R$ 11,27</b></td><td class="num">R$ 12,82</td>
+<td class="num">26%</td><td class="num">R$ 42,65</td><td class="num">24%</td>
+<td class="num">R$ 500 → <b>R$ 800</b></td></tr><tr><td class="camp"><b>[01]</b><span>Públicos Personalizados</span></td>
+<td><span class="pill keep">Manter</span></td>
+<td class="num">R$ 1.902,18</td><td class="num">153</td>
+<td class="num"><b class="t-warn">R$ 12,43</b></td><td class="num">R$ 15,34</td>
+<td class="num">31%</td><td class="num">R$ 39,63</td><td class="num">28%</td>
+<td class="num">R$ 500 → <b>R$ 500</b></td></tr><tr><td class="camp"><b>[02]</b><span>Listas RD</span></td>
+<td><span class="pill cut">Manter com corte</span></td>
+<td class="num">R$ 3.879,17</td><td class="num">209</td>
+<td class="num"><b class="t-bad">R$ 18,56</b></td><td class="num">R$ 21,20</td>
+<td class="num">37%</td><td class="num">R$ 49,73</td><td class="num">21%</td>
+<td class="num">R$ 1.000 → <b>R$ 800</b></td></tr><tr><td class="camp"><b>[08]</b><span>ABO Top Criativos</span></td>
+<td><span class="pill cut">Reduzir</span></td>
+<td class="num">R$ 1.269,61</td><td class="num">81</td>
+<td class="num"><b class="t-bad">R$ 15,67</b></td><td class="num">R$ 34,31</td>
+<td class="num">21%</td><td class="num">R$ 74,68</td><td class="num">21%</td>
+<td class="num">R$ 950 → <b>R$ 500</b></td></tr><tr><td class="camp"><b>[06]</b><span>Listas RD · AD29–AD36</span></td>
+<td><span class="pill off">Desativar</span></td>
+<td class="num">R$ 1.536,40</td><td class="num">83</td>
+<td class="num"><b class="t-bad">R$ 18,51</b></td><td class="num">R$ 23,64</td>
+<td class="num">35%</td><td class="num">R$ 52,98</td><td class="num">17%</td>
+<td class="num">R$ 400 → <b>R$ 0</b></td></tr><tr><td class="camp"><b>[07]</b><span>Públicos Personalizados · AD29–AD41</span></td>
+<td><span class="pill off">Desativar</span></td>
+<td class="num">R$ 1.550,77</td><td class="num">79</td>
+<td class="num"><b class="t-bad">R$ 19,63</b></td><td class="num">R$ 23,86</td>
+<td class="num">35%</td><td class="num">R$ 55,38</td><td class="num">13%</td>
+<td class="num">R$ 400 → <b>R$ 0</b></td></tr><tr><td class="camp"><b>[03]</b><span>Semelhantes 1% (frio)</span></td>
+<td><span class="pill paused">Manter pausada</span></td>
+<td class="num"><small>período</small> R$ 3.274,80</td><td class="num">195</td>
+<td class="num"><b class="t-bad">R$ 16,79</b></td><td class="num">R$ 17,15</td>
+<td class="num">24%</td><td class="num">R$ 69,68</td><td class="num">16%</td>
+<td class="num">– → <b>R$ 0</b></td></tr><tr><td class="camp"><b>[04]</b><span>Engajamento Instagram</span></td>
+<td><span class="pill paused">Manter pausada</span></td>
+<td class="num"><small>período</small> R$ 695,02</td><td class="num">28</td>
+<td class="num"><b class="t-bad">R$ 24,82</b></td><td class="num">R$ 34,75</td>
+<td class="num">14%</td><td class="num">R$ 173,75</td><td class="num">12%</td>
+<td class="num">– → <b>R$ 0</b></td></tr></tbody></table></div>
+<p class="legend">CPL pessoas: verde abaixo de R$ 12, amarelo de R$ 12 a R$ 15, vermelho acima de R$ 15. Campanhas pausadas mostram o período em que rodaram.</p></section>
+
+<section><h2>CPL por pessoa · últimos 4 dias</h2><div class="chart"><div class="hb"><span class="hb-l">[05]</span><span class="hb-t"><span class="hb-f ok" style="width:51.2%"></span></span><span class="hb-v">R$ 11,27</span></div><div class="hb"><span class="hb-l">[01]</span><span class="hb-t"><span class="hb-f warn" style="width:56.5%"></span></span><span class="hb-v">R$ 12,43</span></div><div class="hb"><span class="hb-l">[08]</span><span class="hb-t"><span class="hb-f bad" style="width:71.2%"></span></span><span class="hb-v">R$ 15,67</span></div><div class="hb"><span class="hb-l">[06]</span><span class="hb-t"><span class="hb-f bad" style="width:84.1%"></span></span><span class="hb-v">R$ 18,51</span></div><div class="hb"><span class="hb-l">[02]</span><span class="hb-t"><span class="hb-f bad" style="width:84.4%"></span></span><span class="hb-v">R$ 18,56</span></div><div class="hb"><span class="hb-l">[07]</span><span class="hb-t"><span class="hb-f bad" style="width:89.2%"></span></span><span class="hb-v">R$ 19,63</span></div></div></section>
+
+<section><h2>Como fica o orçamento</h2><div class="plan">
+<div><span class="legend">Hoje</span><br><b>R$ 3.750/dia</b><br><span class="legend">[01] 500 · [02] 1.000 · [05] 500 · [06] 400 · [07] 400 · [08] 950</span></div>
+<div><span class="legend">Proposta</span><br><b>R$ 2.600/dia</b><br><span class="legend">[01] 500 · [02] 800 · [05] 800 · [08] 500 · [06] e [07] pausadas</span></div>
+<div><span class="legend">Folga até a meta de R$ 2.800/dia</span><br><b>R$ 200/dia</b><br><span class="legend">Liberar para [05] e [01] se o CPL por pessoa ficar abaixo de R$ 13 por 2 dias.</span></div>
+</div></section>
+
+<section style="display:grid;gap:16px"><h2>Ficha de cada campanha</h2><section class="card" id="c05"><header><div><h3>[05] Públicos Personalizados · AD14–AD28</h3><p class="full">[BLACK26] - [FASE01] - [05] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados - Criativos AD14-AD28</p></div><span class="pill up">Manter e receber verba</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 4.138</b></div>
+<div><span>Leads Gerenciador</span><b>535</b><em>R$ 7,73</em></div>
+<div><span>Envios do formulário</span><b>393</b><em>Ger. +36%</em></div>
+<div><span>Pessoas únicas</span><b>377</b><em class="t-ok">R$ 10,98</em></div>
+<div><span>Duplicados</span><b>16</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>50</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>327</b><em>R$ 12,65</em></div>
+<div><span>+1 ano</span><b>113 <small>(30%)</small></b><em>R$ 36,62</em></div>
+</div><p class="u4">Últimos 4 dias (14–17/11): R$ 1.961,84 · 174 pessoas · <b>R$ 11,27</b> por pessoa · 88% novas na Black · +1 ano R$ 42,65 · CPM R$ 16,77 · conversão da página 24%</p><div class="why"><h4>Por quê</h4><ul><li>Menor CPL por pessoa nos últimos 4 dias (R$ 11,27) e o CPM mais barato das ativas (R$ 16,77).</li><li>Estável desde que começou: R$ 10,98 no período e R$ 11,27 nos últimos 4 dias.</li><li>Ponto fraco: só 26% das pessoas conhecem o G7 há +1 ano, contra 31% na [01] e 37% na [02].</li><li>Recebe parte da verba da [06] e da [07]. Subir aos poucos (+R$ 300) para não sair do aprendizado.</li></ul><p class="bud">Orçamento: R$ 500 → <b>R$ 800</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>10/11</td><td class='num'>207,79</td><td class='num'>15,59</td><td class='num'>28</td><td class='num'>26</td><td class='num'>26</td><td class='num'>0</td><td class='num'>24</td><td class='num'><b class='t-ok'>R$ 7,99</b></td><td class='num'>23%</td><td class='num'>13</td></tr><tr><td>11/11</td><td class='num'>622,12</td><td class='num'>17,31</td><td class='num'>108</td><td class='num'>71</td><td class='num'>71</td><td class='num'>0</td><td class='num'>59</td><td class='num'><b class='t-ok'>R$ 8,76</b></td><td class='num'>24%</td><td class='num'>31</td></tr><tr><td>12/11</td><td class='num'>841,73</td><td class='num'>19,46</td><td class='num'>90</td><td class='num'>72</td><td class='num'>70</td><td class='num'>2</td><td class='num'>56</td><td class='num'><b class='t-warn'>R$ 12,02</b></td><td class='num'>24%</td><td class='num'>14</td></tr><tr><td>13/11</td><td class='num'>504,69</td><td class='num'>19,05</td><td class='num'>58</td><td class='num'>42</td><td class='num'>42</td><td class='num'>0</td><td class='num'>35</td><td class='num'><b class='t-warn'>R$ 12,02</b></td><td class='num'>22%</td><td class='num'>9</td></tr><tr><td>14/11</td><td class='num'>482,64</td><td class='num'>15,98</td><td class='num'>69</td><td class='num'>50</td><td class='num'>48</td><td class='num'>2</td><td class='num'>44</td><td class='num'><b class='t-ok'>R$ 10,05</b></td><td class='num'>23%</td><td class='num'>7</td></tr><tr><td>15/11</td><td class='num'>527,08</td><td class='num'>15,06</td><td class='num'>67</td><td class='num'>50</td><td class='num'>47</td><td class='num'>3</td><td class='num'>40</td><td class='num'><b class='t-ok'>R$ 11,21</b></td><td class='num'>24%</td><td class='num'>14</td></tr><tr><td>16/11</td><td class='num'>533,23</td><td class='num'>18,62</td><td class='num'>73</td><td class='num'>48</td><td class='num'>47</td><td class='num'>1</td><td class='num'>41</td><td class='num'><b class='t-ok'>R$ 11,35</b></td><td class='num'>24%</td><td class='num'>15</td></tr><tr><td>17/11</td><td class='num'>418,89</td><td class='num'>18,13</td><td class='num'>42</td><td class='num'>34</td><td class='num'>34</td><td class='num'>0</td><td class='num'>28</td><td class='num'><b class='t-warn'>R$ 12,32</b></td><td class='num'>27%</td><td class='num'>10</td></tr></tbody></table></div></details></section><section class="card" id="c01"><header><div><h3>[01] Públicos Personalizados</h3><p class="full">[BLACK26] - [FASE01] - [01] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados</p></div><span class="pill keep">Manter</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 9.766</b></div>
+<div><span>Leads Gerenciador</span><b>1.442</b><em>R$ 6,77</em></div>
+<div><span>Envios do formulário</span><b>967</b><em>Ger. +49%</em></div>
+<div><span>Pessoas únicas</span><b>923</b><em class="t-ok">R$ 10,58</em></div>
+<div><span>Duplicados</span><b>44</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>45</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>878</b><em>R$ 11,12</em></div>
+<div><span>+1 ano</span><b>258 <small>(28%)</small></b><em>R$ 37,85</em></div>
+</div><p class="u4">Últimos 4 dias (14–17/11): R$ 1.902,18 · 153 pessoas · <b>R$ 12,43</b> por pessoa · 81% novas na Black · +1 ano R$ 39,63 · CPM R$ 24,93 · conversão da página 28%</p><div class="why"><h4>Por quê</h4><ul><li>Segundo menor CPL por pessoa nos últimos 4 dias (R$ 12,43) e o lead de +1 ano mais barato da Black (R$ 39,63).</li><li>Melhorou quando o orçamento caiu de R$ 1.000 para R$ 500: a conversão da página foi de 19% para 28%.</li><li>Não escalar: com R$ 1.000/dia (09–12/11) o CPL por pessoa subiu para R$ 14–18.</li><li>Gatilho: reduzir se o CPL por pessoa passar de R$ 15 por 2 dias ou o +1 ano passar de R$ 50.</li></ul><p class="bud">Orçamento: R$ 500 → <b>R$ 500</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>06/11</td><td class='num'>932,38</td><td class='num'>20,34</td><td class='num'>412</td><td class='num'>276</td><td class='num'>267</td><td class='num'>9</td><td class='num'>265</td><td class='num'><b class='t-ok'>R$ 3,49</b></td><td class='num'>39%</td><td class='num'>38</td></tr><tr><td>07/11</td><td class='num'>1.109,83</td><td class='num'>15,97</td><td class='num'>185</td><td class='num'>131</td><td class='num'>128</td><td class='num'>3</td><td class='num'>122</td><td class='num'><b class='t-ok'>R$ 8,67</b></td><td class='num'>19%</td><td class='num'>45</td></tr><tr><td>08/11</td><td class='num'>784,41</td><td class='num'>13,69</td><td class='num'>89</td><td class='num'>52</td><td class='num'>48</td><td class='num'>4</td><td class='num'>46</td><td class='num'><b class='t-bad'>R$ 16,34</b></td><td class='num'>12%</td><td class='num'>20</td></tr><tr><td>09/11</td><td class='num'>1.045,45</td><td class='num'>14,97</td><td class='num'>171</td><td class='num'>106</td><td class='num'>106</td><td class='num'>0</td><td class='num'>102</td><td class='num'><b class='t-ok'>R$ 9,86</b></td><td class='num'>22%</td><td class='num'>37</td></tr><tr><td>10/11</td><td class='num'>1.169,06</td><td class='num'>16,36</td><td class='num'>136</td><td class='num'>82</td><td class='num'>82</td><td class='num'>0</td><td class='num'>75</td><td class='num'><b class='t-warn'>R$ 14,26</b></td><td class='num'>18%</td><td class='num'>26</td></tr><tr><td>11/11</td><td class='num'>1.058,48</td><td class='num'>18,72</td><td class='num'>92</td><td class='num'>60</td><td class='num'>59</td><td class='num'>1</td><td class='num'>55</td><td class='num'><b class='t-bad'>R$ 17,94</b></td><td class='num'>18%</td><td class='num'>20</td></tr><tr><td>12/11</td><td class='num'>1.279,35</td><td class='num'>22,42</td><td class='num'>113</td><td class='num'>75</td><td class='num'>73</td><td class='num'>2</td><td class='num'>67</td><td class='num'><b class='t-bad'>R$ 17,53</b></td><td class='num'>17%</td><td class='num'>19</td></tr><tr><td>13/11</td><td class='num'>484,61</td><td class='num'>26,24</td><td class='num'>39</td><td class='num'>25</td><td class='num'>25</td><td class='num'>0</td><td class='num'>22</td><td class='num'><b class='t-bad'>R$ 19,38</b></td><td class='num'>20%</td><td class='num'>6</td></tr><tr><td>14/11</td><td class='num'>498,43</td><td class='num'>23,84</td><td class='num'>62</td><td class='num'>50</td><td class='num'>45</td><td class='num'>5</td><td class='num'>30</td><td class='num'><b class='t-ok'>R$ 11,08</b></td><td class='num'>28%</td><td class='num'>11</td></tr><tr><td>15/11</td><td class='num'>495,77</td><td class='num'>25,79</td><td class='num'>53</td><td class='num'>40</td><td class='num'>39</td><td class='num'>1</td><td class='num'>35</td><td class='num'><b class='t-warn'>R$ 12,71</b></td><td class='num'>27%</td><td class='num'>15</td></tr><tr><td>16/11</td><td class='num'>472,66</td><td class='num'>25,18</td><td class='num'>51</td><td class='num'>36</td><td class='num'>36</td><td class='num'>0</td><td class='num'>31</td><td class='num'><b class='t-warn'>R$ 13,13</b></td><td class='num'>26%</td><td class='num'>10</td></tr><tr><td>17/11</td><td class='num'>435,32</td><td class='num'>25,02</td><td class='num'>39</td><td class='num'>34</td><td class='num'>34</td><td class='num'>0</td><td class='num'>28</td><td class='num'><b class='t-warn'>R$ 12,80</b></td><td class='num'>35%</td><td class='num'>12</td></tr></tbody></table></div></details></section><section class="card" id="c02"><header><div><h3>[02] Listas RD</h3><p class="full">[BLACK26] - [FASE01] - [02] - [CAPTAÇÃO] - [QUENTE] - Listas RD</p></div><span class="pill cut">Manter com corte</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 11.375</b></div>
+<div><span>Leads Gerenciador</span><b>1.535</b><em>R$ 7,41</em></div>
+<div><span>Envios do formulário</span><b>1.006</b><em>Ger. +53%</em></div>
+<div><span>Pessoas únicas</span><b>944</b><em class="t-warn">R$ 12,05</em></div>
+<div><span>Duplicados</span><b>62</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>47</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>897</b><em>R$ 12,68</em></div>
+<div><span>+1 ano</span><b>400 <small>(42%)</small></b><em>R$ 28,44</em></div>
+</div><p class="u4">Últimos 4 dias (14–17/11): R$ 3.879,17 · 209 pessoas · <b>R$ 18,56</b> por pessoa · 88% novas na Black · +1 ano R$ 49,73 · CPM R$ 24,83 · conversão da página 21%</p><div class="why"><h4>Por quê</h4><ul><li>Campanha que mais traz o lead que você mais quer: 400 pessoas de +1 ano (42%), a R$ 28,44 cada no período.</li><li>Mas piorou muito: CPL por pessoa de R$ 12,05 no período para R$ 18,56 nos últimos 4 dias.</li><li>Maior diferença entre Gerenciador e cadastros reais: 63% a mais nos últimos 4 dias.</li><li>Cortar R$ 200 tirando os conjuntos mais fracos (Leads 2026 e Engajados), sem mexer em Listas RD, Blacks Anteriores, ENAM e Clientes.</li></ul><p class="bud">Orçamento: R$ 1.000 → <b>R$ 800</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>06/11</td><td class='num'>267,53</td><td class='num'>25,33</td><td class='num'>95</td><td class='num'>58</td><td class='num'>58</td><td class='num'>0</td><td class='num'>58</td><td class='num'><b class='t-ok'>R$ 4,61</b></td><td class='num'>35%</td><td class='num'>22</td></tr><tr><td>07/11</td><td class='num'>1.006,46</td><td class='num'>24,14</td><td class='num'>180</td><td class='num'>114</td><td class='num'>111</td><td class='num'>3</td><td class='num'>101</td><td class='num'><b class='t-ok'>R$ 9,07</b></td><td class='num'>21%</td><td class='num'>50</td></tr><tr><td>08/11</td><td class='num'>864,50</td><td class='num'>20,49</td><td class='num'>182</td><td class='num'>129</td><td class='num'>126</td><td class='num'>3</td><td class='num'>114</td><td class='num'><b class='t-ok'>R$ 6,86</b></td><td class='num'>28%</td><td class='num'>62</td></tr><tr><td>09/11</td><td class='num'>1.090,39</td><td class='num'>21,90</td><td class='num'>220</td><td class='num'>133</td><td class='num'>133</td><td class='num'>0</td><td class='num'>124</td><td class='num'><b class='t-ok'>R$ 8,20</b></td><td class='num'>30%</td><td class='num'>51</td></tr><tr><td>10/11</td><td class='num'>1.170,49</td><td class='num'>23,09</td><td class='num'>175</td><td class='num'>128</td><td class='num'>126</td><td class='num'>2</td><td class='num'>119</td><td class='num'><b class='t-ok'>R$ 9,29</b></td><td class='num'>31%</td><td class='num'>51</td></tr><tr><td>11/11</td><td class='num'>1.029,50</td><td class='num'>24,14</td><td class='num'>116</td><td class='num'>69</td><td class='num'>67</td><td class='num'>2</td><td class='num'>59</td><td class='num'><b class='t-bad'>R$ 15,37</b></td><td class='num'>22%</td><td class='num'>27</td></tr><tr><td>12/11</td><td class='num'>1.016,83</td><td class='num'>25,94</td><td class='num'>110</td><td class='num'>81</td><td class='num'>81</td><td class='num'>0</td><td class='num'>71</td><td class='num'><b class='t-warn'>R$ 12,55</b></td><td class='num'>27%</td><td class='num'>28</td></tr><tr><td>13/11</td><td class='num'>1.049,65</td><td class='num'>27,19</td><td class='num'>100</td><td class='num'>75</td><td class='num'>72</td><td class='num'>3</td><td class='num'>68</td><td class='num'><b class='t-warn'>R$ 14,58</b></td><td class='num'>27%</td><td class='num'>34</td></tr><tr><td>14/11</td><td class='num'>938,23</td><td class='num'>23,87</td><td class='num'>93</td><td class='num'>63</td><td class='num'>59</td><td class='num'>4</td><td class='num'>53</td><td class='num'><b class='t-bad'>R$ 15,90</b></td><td class='num'>21%</td><td class='num'>19</td></tr><tr><td>15/11</td><td class='num'>1.053,73</td><td class='num'>24,21</td><td class='num'>70</td><td class='num'>53</td><td class='num'>51</td><td class='num'>2</td><td class='num'>45</td><td class='num'><b class='t-bad'>R$ 20,66</b></td><td class='num'>18%</td><td class='num'>19</td></tr><tr><td>16/11</td><td class='num'>1.020,98</td><td class='num'>26,31</td><td class='num'>115</td><td class='num'>53</td><td class='num'>53</td><td class='num'>0</td><td class='num'>44</td><td class='num'><b class='t-bad'>R$ 19,26</b></td><td class='num'>21%</td><td class='num'>20</td></tr><tr><td>17/11</td><td class='num'>866,23</td><td class='num'>25,06</td><td class='num'>79</td><td class='num'>50</td><td class='num'>50</td><td class='num'>0</td><td class='num'>41</td><td class='num'><b class='t-bad'>R$ 17,32</b></td><td class='num'>29%</td><td class='num'>20</td></tr></tbody></table></div></details></section><section class="card" id="c08"><header><div><h3>[08] ABO Top Criativos</h3><p class="full">[BLACK26] - [FASE01] - [08] - [CAPTAÇÃO] - [QUENTE] - ABO Top 5 Criativos</p></div><span class="pill cut">Reduzir</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 1.270</b></div>
+<div><span>Leads Gerenciador</span><b>106</b><em>R$ 11,98</em></div>
+<div><span>Envios do formulário</span><b>82</b><em>Ger. +29%</em></div>
+<div><span>Pessoas únicas</span><b>81</b><em class="t-bad">R$ 15,67</em></div>
+<div><span>Duplicados</span><b>1</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>44</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>37</b><em>R$ 34,31</em></div>
+<div><span>+1 ano</span><b>17 <small>(21%)</small></b><em>R$ 74,68</em></div>
+</div><div class="why"><h4>Por quê</h4><ul><li>Está pagando por quem já é cadastrado: só 37 das 81 pessoas (46%) eram novas na Black. O CPL por pessoa nova é R$ 34,31.</li><li>Lead de +1 ano a R$ 74,68, o mais caro das ativas.</li><li>Os criativos novos (AD47, AD46, AD51) foram bem; o problema é o público &quot;Todos os Públicos&quot;, que já foi muito trabalhado.</li><li>Manter só os conjuntos dos melhores criativos e levar os vencedores para [05] e [02].</li></ul><p class="bud">Orçamento: R$ 950 → <b>R$ 500</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>16/11</td><td class='num'>521,85</td><td class='num'>23,75</td><td class='num'>47</td><td class='num'>35</td><td class='num'>35</td><td class='num'>0</td><td class='num'>14</td><td class='num'><b class='t-warn'>R$ 14,91</b></td><td class='num'>21%</td><td class='num'>7</td></tr><tr><td>17/11</td><td class='num'>747,76</td><td class='num'>21,34</td><td class='num'>59</td><td class='num'>47</td><td class='num'>47</td><td class='num'>0</td><td class='num'>23</td><td class='num'><b class='t-bad'>R$ 15,91</b></td><td class='num'>22%</td><td class='num'>10</td></tr></tbody></table></div></details></section><section class="card" id="c06"><header><div><h3>[06] Listas RD · AD29–AD36</h3><p class="full">[BLACK26] - [FASE01] - [06] - [CAPTAÇÃO] - [QUENTE] - Listas RD - Criativos AD29-AD36</p></div><span class="pill off">Desativar</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 2.277</b></div>
+<div><span>Leads Gerenciador</span><b>198</b><em>R$ 11,50</em></div>
+<div><span>Envios do formulário</span><b>120</b><em>Ger. +65%</em></div>
+<div><span>Pessoas únicas</span><b>115</b><em class="t-bad">R$ 19,80</em></div>
+<div><span>Duplicados</span><b>5</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>19</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>96</b><em>R$ 23,72</em></div>
+<div><span>+1 ano</span><b>44 <small>(38%)</small></b><em>R$ 51,75</em></div>
+</div><p class="u4">Últimos 4 dias (14–17/11): R$ 1.536,40 · 83 pessoas · <b>R$ 18,51</b> por pessoa · 78% novas na Black · +1 ano R$ 52,98 · CPM R$ 27,20 · conversão da página 17%</p><div class="why"><h4>Por quê</h4><ul><li>CPL por pessoa de R$ 18,51 nos últimos 4 dias e R$ 19,80 no período: 75% mais caro que a [05].</li><li>Pior conversão de página entre as ativas que usam listas (17%) e CPM mais alto da conta (R$ 27,20).</li><li>Disputa as mesmas Listas RD com a [02], encarecendo o leilão das duas.</li></ul><p class="bud">Orçamento: R$ 400 → <b>R$ 0</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>12/11</td><td class='num'>330,78</td><td class='num'>32,48</td><td class='num'>15</td><td class='num'>10</td><td class='num'>10</td><td class='num'>0</td><td class='num'>9</td><td class='num'><b class='t-bad'>R$ 33,08</b></td><td class='num'>8%</td><td class='num'>4</td></tr><tr><td>13/11</td><td class='num'>410,02</td><td class='num'>28,14</td><td class='num'>40</td><td class='num'>25</td><td class='num'>24</td><td class='num'>1</td><td class='num'>22</td><td class='num'><b class='t-bad'>R$ 17,08</b></td><td class='num'>13%</td><td class='num'>11</td></tr><tr><td>14/11</td><td class='num'>386,25</td><td class='num'>27,21</td><td class='num'>38</td><td class='num'>29</td><td class='num'>28</td><td class='num'>1</td><td class='num'>22</td><td class='num'><b class='t-warn'>R$ 13,79</b></td><td class='num'>17%</td><td class='num'>13</td></tr><tr><td>15/11</td><td class='num'>373,11</td><td class='num'>28,00</td><td class='num'>35</td><td class='num'>20</td><td class='num'>20</td><td class='num'>0</td><td class='num'>17</td><td class='num'><b class='t-bad'>R$ 18,66</b></td><td class='num'>14%</td><td class='num'>6</td></tr><tr><td>16/11</td><td class='num'>436,33</td><td class='num'>28,36</td><td class='num'>41</td><td class='num'>16</td><td class='num'>15</td><td class='num'>1</td><td class='num'>13</td><td class='num'><b class='t-bad'>R$ 29,09</b></td><td class='num'>14%</td><td class='num'>6</td></tr><tr><td>17/11</td><td class='num'>340,71</td><td class='num'>25,10</td><td class='num'>29</td><td class='num'>20</td><td class='num'>20</td><td class='num'>0</td><td class='num'>13</td><td class='num'><b class='t-bad'>R$ 17,04</b></td><td class='num'>29%</td><td class='num'>4</td></tr></tbody></table></div></details></section><section class="card" id="c07"><header><div><h3>[07] Públicos Personalizados · AD29–AD41</h3><p class="full">[BLACK26] - [FASE01] - [07] - [CAPTAÇÃO] - [QUENTE] - Públicos Personalizados - Criativos AD29-AD41</p></div><span class="pill off">Desativar</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 2.203</b></div>
+<div><span>Leads Gerenciador</span><b>181</b><em>R$ 12,17</em></div>
+<div><span>Envios do formulário</span><b>124</b><em>Ger. +46%</em></div>
+<div><span>Pessoas únicas</span><b>115</b><em class="t-bad">R$ 19,16</em></div>
+<div><span>Duplicados</span><b>9</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>17</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>98</b><em>R$ 22,48</em></div>
+<div><span>+1 ano</span><b>42 <small>(37%)</small></b><em>R$ 52,46</em></div>
+</div><p class="u4">Últimos 4 dias (14–17/11): R$ 1.550,77 · 79 pessoas · <b>R$ 19,63</b> por pessoa · 82% novas na Black · +1 ano R$ 55,38 · CPM R$ 19,60 · conversão da página 13%</p><div class="why"><h4>Por quê</h4><ul><li>Pior CPL por pessoa nos últimos 4 dias (R$ 19,63) e acima de R$ 15 por 2 dias seguidos (regra combinada).</li><li>Conversão da página de 13%, metade da [01] e da [05].</li><li>Anuncia para o mesmo público da [01], [05] e [08]. Pausar deve baratear o CPM das outras.</li></ul><p class="bud">Orçamento: R$ 400 → <b>R$ 0</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>12/11</td><td class='num'>273,94</td><td class='num'>24,30</td><td class='num'>18</td><td class='num'>14</td><td class='num'>14</td><td class='num'>0</td><td class='num'>12</td><td class='num'><b class='t-bad'>R$ 19,57</b></td><td class='num'>10%</td><td class='num'>7</td></tr><tr><td>13/11</td><td class='num'>378,56</td><td class='num'>21,24</td><td class='num'>37</td><td class='num'>26</td><td class='num'>24</td><td class='num'>2</td><td class='num'>21</td><td class='num'><b class='t-bad'>R$ 15,77</b></td><td class='num'>14%</td><td class='num'>7</td></tr><tr><td>14/11</td><td class='num'>402,27</td><td class='num'>18,37</td><td class='num'>34</td><td class='num'>23</td><td class='num'>21</td><td class='num'>2</td><td class='num'>20</td><td class='num'><b class='t-bad'>R$ 19,16</b></td><td class='num'>13%</td><td class='num'>8</td></tr><tr><td>15/11</td><td class='num'>384,32</td><td class='num'>20,36</td><td class='num'>26</td><td class='num'>17</td><td class='num'>15</td><td class='num'>2</td><td class='num'>13</td><td class='num'><b class='t-bad'>R$ 25,62</b></td><td class='num'>9%</td><td class='num'>4</td></tr><tr><td>16/11</td><td class='num'>403,86</td><td class='num'>20,79</td><td class='num'>41</td><td class='num'>26</td><td class='num'>25</td><td class='num'>1</td><td class='num'>20</td><td class='num'><b class='t-bad'>R$ 16,15</b></td><td class='num'>16%</td><td class='num'>8</td></tr><tr><td>17/11</td><td class='num'>360,32</td><td class='num'>19,05</td><td class='num'>25</td><td class='num'>18</td><td class='num'>18</td><td class='num'>0</td><td class='num'>12</td><td class='num'><b class='t-bad'>R$ 20,02</b></td><td class='num'>16%</td><td class='num'>8</td></tr></tbody></table></div></details></section><section class="card" id="c03"><header><div><h3>[03] Semelhantes 1% (frio)</h3><p class="full">[BLACK26] - [FASE01] - [03] - [CAPTAÇÃO] - [FRIO] - Semelhantes 1%</p></div><span class="pill paused">Manter pausada</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 3.275</b></div>
+<div><span>Leads Gerenciador</span><b>306</b><em>R$ 10,70</em></div>
+<div><span>Envios do formulário</span><b>198</b><em>Ger. +55%</em></div>
+<div><span>Pessoas únicas</span><b>195</b><em class="t-bad">R$ 16,79</em></div>
+<div><span>Duplicados</span><b>3</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>4</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>191</b><em>R$ 17,15</em></div>
+<div><span>+1 ano</span><b>47 <small>(24%)</small></b><em>R$ 69,68</em></div>
+</div><div class="why"><h4>Por quê</h4><ul><li>Público frio: R$ 16,79 por pessoa e +1 ano a R$ 69,68. Só 24% conhecem o G7 há +1 ano.</li></ul><p class="bud">Orçamento: – → <b>R$ 0</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>06/11</td><td class='num'>353,19</td><td class='num'>21,32</td><td class='num'>47</td><td class='num'>30</td><td class='num'>29</td><td class='num'>1</td><td class='num'>29</td><td class='num'><b class='t-warn'>R$ 12,18</b></td><td class='num'>22%</td><td class='num'>8</td></tr><tr><td>07/11</td><td class='num'>463,15</td><td class='num'>19,28</td><td class='num'>36</td><td class='num'>17</td><td class='num'>17</td><td class='num'>0</td><td class='num'>17</td><td class='num'><b class='t-bad'>R$ 27,24</b></td><td class='num'>9%</td><td class='num'>6</td></tr><tr><td>08/11</td><td class='num'>620,88</td><td class='num'>17,44</td><td class='num'>62</td><td class='num'>44</td><td class='num'>44</td><td class='num'>0</td><td class='num'>43</td><td class='num'><b class='t-warn'>R$ 14,11</b></td><td class='num'>15%</td><td class='num'>9</td></tr><tr><td>09/11</td><td class='num'>518,30</td><td class='num'>20,34</td><td class='num'>57</td><td class='num'>36</td><td class='num'>36</td><td class='num'>0</td><td class='num'>34</td><td class='num'><b class='t-warn'>R$ 14,40</b></td><td class='num'>18%</td><td class='num'>8</td></tr><tr><td>10/11</td><td class='num'>516,94</td><td class='num'>20,68</td><td class='num'>42</td><td class='num'>28</td><td class='num'>28</td><td class='num'>0</td><td class='num'>28</td><td class='num'><b class='t-bad'>R$ 18,46</b></td><td class='num'>18%</td><td class='num'>6</td></tr><tr><td>11/11</td><td class='num'>405,91</td><td class='num'>23,75</td><td class='num'>26</td><td class='num'>19</td><td class='num'>19</td><td class='num'>0</td><td class='num'>18</td><td class='num'><b class='t-bad'>R$ 21,36</b></td><td class='num'>17%</td><td class='num'>6</td></tr><tr><td>12/11</td><td class='num'>396,43</td><td class='num'>21,38</td><td class='num'>35</td><td class='num'>24</td><td class='num'>23</td><td class='num'>1</td><td class='num'>22</td><td class='num'><b class='t-bad'>R$ 17,24</b></td><td class='num'>19%</td><td class='num'>4</td></tr></tbody></table></div></details></section><section class="card" id="c04"><header><div><h3>[04] Engajamento Instagram</h3><p class="full">[BLACK26] - [FASE01] - [04] - [CAPTAÇÃO] - [QUENTE] - Engajamento Instagram</p></div><span class="pill paused">Manter pausada</span></header>
+<div class="kpis">
+<div><span>Gasto</span><b>R$ 695</b></div>
+<div><span>Leads Gerenciador</span><b>49</b><em>R$ 14,18</em></div>
+<div><span>Envios do formulário</span><b>29</b><em>Ger. +69%</em></div>
+<div><span>Pessoas únicas</span><b>28</b><em class="t-bad">R$ 24,82</em></div>
+<div><span>Duplicados</span><b>1</b><em>mesma pessoa de novo</em></div>
+<div><span>Já cadastrados antes</span><b>8</b><em>por outra origem</em></div>
+<div><span>Novos na Black</span><b>20</b><em>R$ 34,75</em></div>
+<div><span>+1 ano</span><b>4 <small>(14%)</small></b><em>R$ 173,75</em></div>
+</div><div class="why"><h4>Por quê</h4><ul><li>R$ 24,82 por pessoa e +1 ano a R$ 173,75. O pior resultado da Black.</li></ul><p class="bud">Orçamento: – → <b>R$ 0</b> por dia</p></div>
+<details><summary>Dia a dia</summary><div class="tw"><table class="daily"><thead><tr><th>Dia</th><th>Gasto</th><th>CPM</th><th>Leads Ger.</th><th>Envios</th><th>Pessoas</th><th>Dupl.</th><th>Novos</th><th>CPL pessoas</th><th>Conv. pág.</th><th>+1 ano</th></tr></thead><tbody><tr><td>09/11</td><td class='num'>104,40</td><td class='num'>23,29</td><td class='num'>1</td><td class='num'>1</td><td class='num'>1</td><td class='num'>0</td><td class='num'>1</td><td class='num'><b class='t-bad'>R$ 104,40</b></td><td class='num'>3%</td><td class='num'>0</td></tr><tr><td>10/11</td><td class='num'>282,75</td><td class='num'>20,54</td><td class='num'>19</td><td class='num'>12</td><td class='num'>12</td><td class='num'>0</td><td class='num'>7</td><td class='num'><b class='t-bad'>R$ 23,56</b></td><td class='num'>14%</td><td class='num'>2</td></tr><tr><td>11/11</td><td class='num'>227,45</td><td class='num'>18,33</td><td class='num'>22</td><td class='num'>14</td><td class='num'>13</td><td class='num'>1</td><td class='num'>11</td><td class='num'><b class='t-bad'>R$ 17,50</b></td><td class='num'>14%</td><td class='num'>1</td></tr><tr><td>12/11</td><td class='num'>80,42</td><td class='num'>23,96</td><td class='num'>6</td><td class='num'>2</td><td class='num'>2</td><td class='num'>0</td><td class='num'>1</td><td class='num'><b class='t-bad'>R$ 40,21</b></td><td class='num'>10%</td><td class='num'>1</td></tr></tbody></table></div></details></section></section>
+
+<section class="notes"><h2>Como os números foram calculados</h2>
+<p><b>Pessoas</b>: e-mails únicos (em minúsculas) com UTM MetaAds atribuídos à campanha pelo código [NN] da UTM. O total de pessoas no topo é a soma das campanhas; quem se cadastrou por duas campanhas conta nas duas.</p>
+<p><b>Duplicados</b>: envios do formulário da mesma pessoa na mesma campanha, além do primeiro.</p>
+<p><b>Já cadastrados antes</b>: pessoas cujo primeiro cadastro na Black veio de outra origem (outra campanha, orgânico, e-mail ou WhatsApp). <b>Novos na Black</b> são as demais.</p>
+<p><b>+1 ano</b>: responderam "De 1 a 3 anos" ou "Mais de 3 anos" em "Há quanto tempo conhece o G7".</p>
+<p><b>Conversão da página</b>: pessoas ÷ visualizações da página de destino informadas pela Meta. <b>Gasto e leads do Gerenciador</b>: Meta Ads; 17/11 ainda parcial.</p>
+<p>Nenhuma mudança foi aplicada. Pausas e orçamentos dependem da sua confirmação.</p></section>
+</div>

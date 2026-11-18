@@ -380,3 +380,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 18/11: dashboard "cadastros únicos" — tela não está em repositório acessível (G7Juridico/dashboard vazio; acesso ao pagina_vendas bloqueado). Prompt para o outro chat em prompt-dashboard-cadastros-unicos.md.
 - 17/11 21h47: CPL real por campanha do dia (cpl-real-campanhas-2026-11-17-21h.md).
 - 17/11: análise da [01] (CPL pessoas, duplicados, decisão: manter em R$ 500/dia) (analise-campanha01-2026-11-17.md).
+- 17/11 ~22h: raio-x de todas as campanhas em HTML (CPL por pessoa, duplicados, decisão) — https://claude.ai/artifact/33B9uRnE9nh5hz1NUqBQTP (raio-x-campanhas-black26-2026-11-17.html). Proposta: pausar [06] e [07], [02] 1.000→800, [05] 500→800, [08] 950→500, [01] mantém 500. Nada aplicado.
