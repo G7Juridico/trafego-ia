@@ -405,3 +405,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 18/11, usuário: "Já ativei aqui com o evento lead mesmo": o usuário ativou a [10] 120253974118670247 pelo Gerenciador. Conferido ao vivo: campanha ACTIVE e 20 conjuntos ACTIVE de R$ 25/dia cada, otimizando pelo LEAD do pixel 1250040671830251, com link /black-ads. A [09] 120253973746080247 também aparece ACTIVE ao vivo. Black: [01] 500 + [02] 800 + [05] 800 + [08] 725 + [09] 500 + [10] 500 = ~R$ 3.825/dia, se a [09] estiver com os 20 conjuntos ativos.
 - 18/11 09h42: CPL real por campanha de hoje (cpl-real-campanhas-2026-11-18-09h.md). [09] e [10] recém-ativadas, quase sem gasto.
 - 18/11 09h47: CPL real por anúncio ativo da [08], acumulado e hoje (cpl-real-anuncios-campanha08-2026-11-18-09h.md).
+- 18/11 09h50: CPL real geral da Black 26 desde o início, por campanha (cpl-real-geral-black26-2026-11-18.md).
