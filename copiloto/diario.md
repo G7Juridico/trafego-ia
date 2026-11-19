@@ -435,3 +435,9 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Criativo novo 1642905490915724 "[BLACK26] - [AD14] - Edital Maratona ENAM - /black limpo": um texto só (copy padrão Black), título "Black 10 anos G7", descrição "Entre para o Grupo Oficial", link https://pg.g7juridico.com.br/black, SAIBA MAIS, mesmas UTMs, Advantage+ criativo e todas as melhorias automáticas desligadas. Imagem 4x5 (2bc422d0…) como padrão e 9x16 (cc7b143d…) em stories/reels.
 - Trocado e publicado nos anúncios 120253994189410247 ([11]), 120253994226360247 e 120253994232710247 ([12]). Leitura confirmou creative_id novo; status em análise. Campanhas [11], [12], [14] seguem PAUSADAS.
 - AD56–AD59 (Nativo): ainda não estão na conta Meta. Roteiros e artes (1080x1350 e 1080x1920) estão no Drive, revisados, com a copy padrão Black. Nada criado.
+
+## 19/11 — AD56–AD59 (Nativos) subidos e colocados no [11] (pedido: "pode subir os 4 e colocar no 11")
+- Artes baixadas do Drive (1080x1350 e 1080x1920). Envio para a Meta exigiu liberar o host rupload.facebook.com no ambiente "G7 tráfego (trafego-ia)".
+- Criativos limpos (1 texto padrão Black, título "Black 10 anos G7", descrição "Entre para o Grupo Oficial", /black, SAIBA MAIS, UTMs padrão, automáticos OFF, 4x5 padrão + 9x16 em stories/reels).
+- Anúncios criados no conjunto 120253994179060247 do [11] e publicados; leitura confirma creative_id e status em análise. Campanha [11] segue PAUSADA.
+- Obs.: no Drive a arte do AD56 tem nome "Nativo Depoimentos", mas o conteúdo é "Por que deveria esperar?".
