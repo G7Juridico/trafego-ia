@@ -409,3 +409,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 19/11 08h39: CPL real geral da Black 26 desde o início (cpl-real-geral-black26-2026-11-19.md).
 - 19/11 08h45: CPL real das CBOs (ontem, hoje, desde o início) (cpl-real-cbos-2026-11-19.md).
 - 19/11: plano CPL R$ 8 por campanha (plano-cpl8-2026-11-19.md). Nada aplicado; aguardando aprovação.
+- 19/11: análise público × posicionamento × anúncio por custo por pessoa nova desde o início (melhores-publico-posicionamento-anuncio-2026-11-19.md).
