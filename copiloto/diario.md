@@ -425,3 +425,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 19/11 11h03: CPL real das ABOs [08] [09] [10] (cpl-real-abos-2026-11-19.md).
 - 19/11 11h: HTML ABOs por anúncio com CPL de novos por dia e acumulado (abo-anuncios-cpl-novos.html) — https://claude.ai/artifact/A1kvkFEPuLYuvZujeP2xmE
 - 19/11, usuário: "pode pausar, mantém os quatro perto de R$ 10": ABOs — pausar 51 conjuntos com CPL de novos acumulado > R$ 10 (exceto AD45/AD51 [08], AD51/AD47 [10]). Ficam 9 ativos: [08] AD47, AD45, AD51; [09] AD47, AD45; [10] AD09, AD14, AD51, AD47. Lista de ids: scratchpad abo/pausar51.json. Em andamento.
+- 19/11: lista RD "leads-black-g7-2026" (5.026 linhas) tratada para público Meta: 5.024 contatos únicos (2 e-mails inválidos removidos), colunas email/phone/fn/ln/ct/st/country, telefone 55+DDD+9. Arquivo só no scratchpad (PII fora do repo); usuário vai subir manualmente e criar o público para exclusão.
