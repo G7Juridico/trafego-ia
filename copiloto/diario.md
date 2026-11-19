@@ -423,3 +423,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   - [02] publicado e conferido ao vivo: orçamento R$ 600/dia; 12 anúncios novos (AD47/AD45) nos 6 conjuntos ativos: 8 públicos 120253992859250247 / 120253992900120247 · Base de Leads 120253992913360247 / 120253992921730247 · Clientes 120253992927370247 / 120253992931140247 · ENAM 120253992934000247 / 120253992937230247 · Engajados 120253992939770247 / 120253992941950247 · Blacks Anteriores 120253992945340247 / 120253992948610247 (em processamento/análise da Meta). Nenhum rascunho pendente.
   - Resultado "aplicar tudo": Black CBOs [01] 600 + [02] 600 + [05] 800 = R$ 2.000/dia; todos os conjuntos das três só em Instagram feed+stories.
 - 19/11 11h03: CPL real das ABOs [08] [09] [10] (cpl-real-abos-2026-11-19.md).
+- 19/11 11h: HTML ABOs por anúncio com CPL de novos por dia e acumulado (abo-anuncios-cpl-novos.html) — https://claude.ai/artifact/A1kvkFEPuLYuvZujeP2xmE
