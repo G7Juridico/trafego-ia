@@ -407,3 +407,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 18/11 09h47: CPL real por anúncio ativo da [08], acumulado e hoje (cpl-real-anuncios-campanha08-2026-11-18-09h.md).
 - 18/11 09h50: CPL real geral da Black 26 desde o início, por campanha (cpl-real-geral-black26-2026-11-18.md).
 - 19/11 08h39: CPL real geral da Black 26 desde o início (cpl-real-geral-black26-2026-11-19.md).
+- 19/11 08h45: CPL real das CBOs (ontem, hoje, desde o início) (cpl-real-cbos-2026-11-19.md).
