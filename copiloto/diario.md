@@ -446,3 +446,11 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Ativadas as campanhas [11] 120253994170450247 (CBO R$ 900), [12] 120253994217360247 (CBO R$ 500) e [14] 120253994278440247 (ABO, conjunto R$ 100). +R$ 1.500/dia.
 - Leitura confirmou os 22 anúncios das três campanhas com status efetivo ACTIVE (11 no [11], 8 no [12], 3 no [14]).
 - Campanhas antigas ([01], [02], [05], [08], [09], [10]) NÃO foram mexidas — nenhum corte foi pedido. Gasto Black estimado agora ~R$ 3.800/dia.
+
+## 19/11 — Corte de 50% nas antigas (pedido: "pode cortar 50% das antigas") — EM ANDAMENTO
+- Plano: [01] 600→300; [02] 600→300; [05] 800→400; [08] conj. 34/32/38 R$50→25; [09] conj. 01/05 R$25→12,50; [10] conj. 01/02/11/12 R$25→12,50.
+- [02] gasto mínimo dos conjuntos (somava R$450): Listas RD 120253773465330247 350→175, Lista ENAM 120253773614080247 50→25, Lista Blacks Anteriores 120253773613810247 50→25 — STAGED em rascunho (falta publicar).
+- Publicado (PUBLISHING) o gasto mínimo novo dos 3 conjuntos da [02].
+- STAGED: [01] 120253760319570247 daily_budget 30000; [02] 120253773461420247 daily_budget 30000. Falta: [05] 120253838129080247 → 40000, publicar campanhas, e ABOs.
+- STAGED [05] 40000; publicado (PUBLISHING) [01],[02],[05]. Falta: ABOs [08] 3 conj→2500, [09] 2 conj→1250, [10] 4 conj→1250.
+- CONCLUÍDO e confirmado ao vivo: [01] R$300, [02] R$300 (mín. conjuntos 175/25/25), [05] R$400; [08] 32/34/38 R$25 cada; [09] 01/05 R$12,50; [10] 01/02/11/12 R$12,50. Antigas: R$2.300 → R$1.150/dia. Total Black ≈ R$2.650/dia (antigas R$1.150 + Fase 02 R$1.500).
