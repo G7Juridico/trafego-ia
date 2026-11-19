@@ -606,3 +606,5 @@ Criativos trocados em 18/11 para link https://pg.g7juridico.com.br/black-ads (ur
 - Exclusões: cadastrou 60D, visitou Black 60D, lista RD base, lista clientes, alunos
 ### [14] 120253994278440247 — [BLACK26] - [FASE02] - [14] - [CAPTAÇÃO] - [QUENTE] - ABO Remarketing Visitou Black
 - 120253994282860247 "14 - [QUENTE] - Visitou Black e não cadastrou 30D" (120253826169880247; exc. cadastrou) R$ 100: AD45 120253994283190247 · AD51 120253994283810247 · AD47 120253994285520247
+
+- AD14 limpo (/black, 1 texto, automáticos OFF): criativo 1642905490915724, aplicado em 120253994189410247, 120253994226360247, 120253994232710247 (19/11).

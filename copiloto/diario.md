@@ -430,3 +430,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 19/11 12h: HTML CPL real por campanha e por dia, 06/11–19/11 (cpl-real-campanhas-por-dia.html) — https://claude.ai/artifact/WKVzzHCXgcR3Tavqn8matN. Perenes fora (cadastros não chegam no banco).
 - 19/11: diagnóstico + plano Fase 02 para CPL real ~R$ 8 (plano-fase02-cpl8-2026-11-19.md). Achado principal: [02] frequência acumulada 12,2; custo por visita dobrou (R$ 1,80→3,40), conversão da página estável. Nada aplicado.
 - 19/11, usuário: "crie a campanha 11, 12 e 14": criadas e publicadas com a CAMPANHA pausada (conjuntos/anúncios com status ativo, não entregam com campanha pausada). Conferido ao vivo: 3 campanhas PAUSED. IDs em ids.md. Obs.: criativo AD14 (1763180304753240) tem "resumo do site" (website_summary) OPT_IN dentro do criativo.
+
+## 19/11 — Troca do AD14 nas campanhas [11] e [12] (pedido: "pode trocar o AD14")
+- Criativo novo 1642905490915724 "[BLACK26] - [AD14] - Edital Maratona ENAM - /black limpo": um texto só (copy padrão Black), título "Black 10 anos G7", descrição "Entre para o Grupo Oficial", link https://pg.g7juridico.com.br/black, SAIBA MAIS, mesmas UTMs, Advantage+ criativo e todas as melhorias automáticas desligadas. Imagem 4x5 (2bc422d0…) como padrão e 9x16 (cc7b143d…) em stories/reels.
+- Trocado e publicado nos anúncios 120253994189410247 ([11]), 120253994226360247 e 120253994232710247 ([12]). Leitura confirmou creative_id novo; status em análise. Campanhas [11], [12], [14] seguem PAUSADAS.
+- AD56–AD59 (Nativo): ainda não estão na conta Meta. Roteiros e artes (1080x1350 e 1080x1920) estão no Drive, revisados, com a copy padrão Black. Nada criado.
