@@ -35,3 +35,13 @@ CBO = orçamento na campanha: [01] R$ 500, [02] R$ 800, [05] R$ 800 (ativas); [0
 
 Comparação ABO ontem (18/11): [08] 697,91 ÷ 46 = 15,17 · [09] 364,14 ÷ 17 = 21,42 · [10] 480,14 ÷ 21 = 22,86.
 Total CBO soma por campanha (quem veio por duas campanhas conta duas vezes).
+
+## CBO × ABO ativas — CPL real ontem e todo o período (até 19/11 08h39)
+| Tipo | Campanha | Ontem: gasto ÷ pessoas | **CPL real ontem** | Período: gasto ÷ pessoas | **CPL real período** | Desde |
+|---|---|---|---|---|---|---|
+| CBO | [01] | 453,73 ÷ 38 | **11,94** | 10.417,74 ÷ 966 | **10,78** | 05/11 |
+| CBO | [02] | 782,24 ÷ 52 | **15,04** | 12.493,83 ÷ 1.001 | **12,48** | 06/11 |
+| CBO | [05] | 843,89 ÷ 56 | **15,07** | 5.193,04 ÷ 444 | **11,70** | 10/11 |
+| ABO | [08] | 697,91 ÷ 46 | **15,17** | 2.278,39 ÷ 137 | **16,63** | 16/11 |
+| ABO | [09] | 364,14 ÷ 17 | **21,42** | 480,52 ÷ 23 | **20,89** | 18/11 |
+| ABO | [10] | 480,14 ÷ 21 | **22,86** | 670,50 ÷ 32 | **20,95** | 18/11 |
