@@ -454,3 +454,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - STAGED: [01] 120253760319570247 daily_budget 30000; [02] 120253773461420247 daily_budget 30000. Falta: [05] 120253838129080247 → 40000, publicar campanhas, e ABOs.
 - STAGED [05] 40000; publicado (PUBLISHING) [01],[02],[05]. Falta: ABOs [08] 3 conj→2500, [09] 2 conj→1250, [10] 4 conj→1250.
 - CONCLUÍDO e confirmado ao vivo: [01] R$300, [02] R$300 (mín. conjuntos 175/25/25), [05] R$400; [08] 32/34/38 R$25 cada; [09] 01/05 R$12,50; [10] 01/02/11/12 R$12,50. Antigas: R$2.300 → R$1.150/dia. Total Black ≈ R$2.650/dia (antigas R$1.150 + Fase 02 R$1.500).
+
+## 19/11 — Troca de links das perenes (pedido: "pode trocar")
+- [CAD26] 120252356388350247 (10 anúncios), [ISC26] 120252122540150247 (12), [QUE26] 120251872401200247 (27): 49 anúncios ativos / 40 criativos.
+- materiais.g7juridico.com.br/<caminho> → pg.g7juridico.com.br/<mesmo caminho> (caderno-de-atualizacoes-juridicas-cadastro, desafiog7, pdf-questoes/cadastro). Texto, mídia, CTA e UTMs mantidos.
+- Progresso por anúncio em scratchpad/links-perenes/progresso.tsv.
