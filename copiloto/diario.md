@@ -441,3 +441,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Criativos limpos (1 texto padrão Black, título "Black 10 anos G7", descrição "Entre para o Grupo Oficial", /black, SAIBA MAIS, UTMs padrão, automáticos OFF, 4x5 padrão + 9x16 em stories/reels).
 - Anúncios criados no conjunto 120253994179060247 do [11] e publicados; leitura confirma creative_id e status em análise. Campanha [11] segue PAUSADA.
 - Obs.: no Drive a arte do AD56 tem nome "Nativo Depoimentos", mas o conteúdo é "Por que deveria esperar?".
+
+## 19/11 — Ativação da Fase 02 (pedido: "ativar 11, 12 e 14")
+- Ativadas as campanhas [11] 120253994170450247 (CBO R$ 900), [12] 120253994217360247 (CBO R$ 500) e [14] 120253994278440247 (ABO, conjunto R$ 100). +R$ 1.500/dia.
+- Leitura confirmou os 22 anúncios das três campanhas com status efetivo ACTIVE (11 no [11], 8 no [12], 3 no [14]).
+- Campanhas antigas ([01], [02], [05], [08], [09], [10]) NÃO foram mexidas — nenhum corte foi pedido. Gasto Black estimado agora ~R$ 3.800/dia.
