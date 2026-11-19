@@ -424,3 +424,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   - Resultado "aplicar tudo": Black CBOs [01] 600 + [02] 600 + [05] 800 = R$ 2.000/dia; todos os conjuntos das três só em Instagram feed+stories.
 - 19/11 11h03: CPL real das ABOs [08] [09] [10] (cpl-real-abos-2026-11-19.md).
 - 19/11 11h: HTML ABOs por anúncio com CPL de novos por dia e acumulado (abo-anuncios-cpl-novos.html) — https://claude.ai/artifact/A1kvkFEPuLYuvZujeP2xmE
+- 19/11, usuário: "pode pausar, mantém os quatro perto de R$ 10": ABOs — pausar 51 conjuntos com CPL de novos acumulado > R$ 10 (exceto AD45/AD51 [08], AD51/AD47 [10]). Ficam 9 ativos: [08] AD47, AD45, AD51; [09] AD47, AD45; [10] AD09, AD14, AD51, AD47. Lista de ids: scratchpad abo/pausar51.json. Em andamento.
