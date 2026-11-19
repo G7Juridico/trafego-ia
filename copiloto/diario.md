@@ -418,3 +418,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   - FALTA: posicionamento [05]; orçamentos [01] 500→600, [02] 800→600; novos anúncios; publicar rascunhos e conferir.
   - Rascunhos: [02] conjuntos publicados (posicionamento + mínimos); campanha [02] orçamento em rascunho voltou p/ 800 (baixar p/ 600 depois); [01] orçamento 600 e posicionamento em rascunho; [05] posicionamento em rascunho. Novos anúncios (rascunho): [01] AD47 120253992696790247.
   - [01] publicado: orçamento 600, IG feed+stories, novos anúncios AD47 120253992696790247, AD45 120253992704170247, AD21 Claro 120253992708220247, AD24 Claro 120253992722230247 (conferir ao vivo).
+  - [05] publicado: IG feed+stories, novos anúncios AD47 120253992757210247, AD45 120253992772450247, AD12 120253992774230247. FALTA: [02] AD47+AD45 nos 6 conjuntos ativos e orçamento 800→600; conferir tudo ao vivo.
