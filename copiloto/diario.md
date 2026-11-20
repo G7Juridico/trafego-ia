@@ -485,3 +485,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   - AD07 120254000895020247 / cr 1220479977215461
   - AD08 120254000895840247 / cr 2328650924651363
   - Criativo AD03 Escuro 1089520960805983 criado mas sem anúncio.
+- 20/11: [16] ATIVADA (pedido: 'ativar 16'). Campanha ACTIVE; 4 anúncios em análise (PENDING_REVIEW). Black ≈ R$3.050/dia.
