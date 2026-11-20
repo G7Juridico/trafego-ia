@@ -462,3 +462,9 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - CONCLUÍDO (20/11): 48 de 49 anúncios com link novo pg.g7juridico.com.br, verificado ao vivo (novo creative_id + link_url). CAD26 9/9, ISC26 10/11, QUE26 29/29. Nenhum erro; nenhum status/orçamento alterado. Após publicar: 16 do QUE26 em PENDING_REVIEW, demais ACTIVE/IN_PROCESS.
 - NÃO trocado: 120252855066160247 [ISC26] [AD03] - Gabarito (criativo 1676824976746549): a API não devolve a mídia do criativo; recriar sairia sem imagem. Segue ativo no link antigo — trocar à mão no Gerenciador.
 - 9 anúncios ISC26 tinham vários textos (asset_feed_spec): reenviado igual, só o link mudou.
+- [15] campanha 120253999922290247 criada em rascunho, PAUSADA, CBO R$300 (pedido: nova campanha [15], R$300/dia)
+- [15] conjunto 120253999928470247 (rascunho): mesmo público da [11] (185 públicos, exc. Cadastrou Black), IG feed+stories, Lead pixel. Aguardando criativos AD62–AD69 (subagente).
+- [15] anúncios criados (rascunho): AD62 120253999984620247, AD63 120253999984650247
+- [15] AD64 120253999984700247, AD65 120253999984740247
+- [15] AD66 120253999985190247, AD67 120253999985270247
+- [15] AD68 120253999985330247, AD69 120253999985690247. Campanha publicada PAUSADA (confirmado: PAUSED, R$300); 8 anúncios publicados, em análise (IN_PROCESS). Todos → https://pg.g7juridico.com.br/black-v2.

@@ -616,3 +616,17 @@ Criativos trocados em 18/11 para link https://pg.g7juridico.com.br/black-ads (ur
 | AD57 Nativo Depoimentos Black | 120253994512890247 | 1174080925139704 | 6485f0f3c27c994889230c2658beea87 | a3e21efe29c30b7fd1a8c05b832b9688 |
 | AD58 Nativo 5 mil pessoas | 120253994513930247 | 1116993764565245 | b437e867bb1ea7b639f73ff4fabd8830 | 28fec4c1587aa020eacbcf79881445e6 |
 | AD59 Nativo Poucos Dias | 120253994514550247 | 4620997058120922 | 19ba3b8693686ef00a2c531281826df2 | 2537021b4150d91ba0db276de57abd9d |
+
+## [15] Black V2 — /black-v2 (criada 20/11, publicada PAUSADA)
+- Campanha 120253999922290247 "[BLACK26] - [FASE02] - [15] - [CAPTAÇÃO] - [QUENTE] - CBO Black V2 (Públicos Personalizados + Listas)" · CBO R$300 · Leads/pixel Lead
+- Conjunto 120253999928470247 · mesmo público da [11] (185 públicos, exc. 120253761230230247), IG feed+stories, 25–65, BR
+| Anúncio | Ad ID | Criativo |
+|---|---|---|
+| AD62 Nativo 10 Aulas Gratuitas V2 | 120253999984620247 | 1938944707013610 |
+| AD63 Nativo Grandes Nomes V2 | 120253999984650247 | 29746355591638923 |
+| AD64 Nativo Vai Prestar o ENAM? V2 | 120253999984700247 | 2603624896821402 |
+| AD65 Nativo 10 Aulas Gratuitas Claro V2 | 120253999984740247 | 1773224513741310 |
+| AD66 Nativo Programação Maratona V2 | 120253999985190247 | 2026035734752738 |
+| AD67 Nativo Melhor Corpo Docente V2 | 120253999985270247 | 1052106137899921 |
+| AD68 Nativo Revisão Gratuita V2 | 120253999985330247 | 2306236043492315 |
+| AD69 Carrossel Programação V2 (5 cards) | 120253999985690247 | 1873872047080261 |
