@@ -472,3 +472,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 
 ## 20/11 — 'pode aplicar em todas': desligar 'Usar como sugestão' + excluir lista cadastrados Black 26 (120253993366660247) em todos os conjuntos ativos da Black ([01],[02],[05],[08],[09],[10],[11],[12],[14]) — EM ANDAMENTO (subagente; progresso em scratchpad/excl-todas/progresso.tsv)
 - CONCLUÍDO: 21 conjuntos ativos ([01] 1, [02] 6, [05] 1, [08] 3, [09] 2, [10] 4, [11] 1, [12] 2, [14] 1) com targeting_relaxation_types custom_audience=0/lookalike=0 e exclusão + 120253993366660247; nº de públicos inalterado; exclusões anteriores mantidas. Verificado ao vivo; todos ACTIVE. Orçamentos/status/anúncios não alterados.
+- 20/11: [15] 120253999922290247 ativada pelo usuário no Gerenciador (confirmado: 8 anúncios ACTIVE, já entregando). Black ≈ R$2.950/dia com a [15].
