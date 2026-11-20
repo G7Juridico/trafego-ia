@@ -641,3 +641,9 @@ Criativos trocados em 18/11 para link https://pg.g7juridico.com.br/black-ads (ur
 | AD07 Nativo Notificações | 120254000895020247 | 1220479977215461 |
 | AD08 Nativo Sorteios | 120254000895840247 | 2328650924651363 |
 - Criativo AD03 Escuro (sem anúncio): 1089520960805983
+
+### AD60/AD61 na [11] (20/11) — conjunto 120253994179060247, link /black
+| Anúncio | Ad ID | Criativo |
+|---|---|---|
+| AD60 Nativo Quem Já Escolheu | 120254000948370247 | 1147792461043637 |
+| AD61 Nativo Dizer Sim | 120254000948580247 | 1280518727630234 |

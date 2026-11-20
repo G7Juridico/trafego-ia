@@ -486,3 +486,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
   - AD08 120254000895840247 / cr 2328650924651363
   - Criativo AD03 Escuro 1089520960805983 criado mas sem anúncio.
 - 20/11: [16] ATIVADA (pedido: 'ativar 16'). Campanha ACTIVE; 4 anúncios em análise (PENDING_REVIEW). Black ≈ R$3.050/dia.
+
+## 20/11 — AD60/AD61 (/black) na [11] (pedido: 2 novos criativos; escolhido [11])
+- Imagens por URL Drive pública: AD60 4x5 b0e6a4b450425cfa5d5b93afa40bc4ce / 9x16 ad15734b3b744673f2b86e7596ae18da; AD61 4x5 b2433355f5610597ae50cb0994727367 / 9x16 744782b470540084b56ddac414abc9d3
+- Criativos: AD60 1147792461043637, AD61 1280518727630234 (copy padrão, /black, automáticos OFF). Criando anúncios no conjunto 120253994179060247.
+- Anúncios publicados na [11] (em análise): AD60 120254000948370247, AD61 120254000948580247. [11] agora com 13 anúncios.
