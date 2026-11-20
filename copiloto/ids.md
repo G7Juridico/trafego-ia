@@ -630,3 +630,14 @@ Criativos trocados em 18/11 para link https://pg.g7juridico.com.br/black-ads (ur
 | AD67 Nativo Melhor Corpo Docente V2 | 120253999985270247 | 1052106137899921 |
 | AD68 Nativo Revisão Gratuita V2 | 120253999985330247 | 2306236043492315 |
 | AD69 Carrossel Programação V2 (5 cards) | 120253999985690247 | 1873872047080261 |
+
+## [16] Aquecimento — cadastrados Black → YouTube (criada 20/11, publicada PAUSADA)
+- Campanha 120254000719000247 "[BLACK26] - [FASE02] - [AQUECIMENTO] - [16] - [CLIQUE] - [QUENTE] - CBO Cadastrados Black → YouTube" · Tráfego/cliques no link · CBO R$100
+- Conjunto 120254000725380247 · públicos 120253761230230247 + 120253993366660247 · sem sugestão · IG feed+stories · 18+
+| Anúncio | Ad ID | Criativo |
+|---|---|---|
+| AD03 A nova área do aluno está chegando (clara) | 120254000890780247 | 1572827758209105 |
+| AD06 Nativo Nova Área do Aluno | 120254000893580247 | 1881110206656747 |
+| AD07 Nativo Notificações | 120254000895020247 | 1220479977215461 |
+| AD08 Nativo Sorteios | 120254000895840247 | 2328650924651363 |
+- Criativo AD03 Escuro (sem anúncio): 1089520960805983

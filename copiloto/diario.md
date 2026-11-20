@@ -479,3 +479,9 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Conjunto 120254000725380247: público = 120253761230230247 (pixel Cadastrou Black 60D) + 120253993366660247 (lista RD cadastrados); sem sugestão; IG feed+stories; 18+; otimização cliques no link.
 - Criativos AQC AD03 (claro e escuro), AD06, AD07, AD08: pendentes (upload de imagem).
 - [16] renomeada: '[BLACK26] - [FASE02] - [AQUECIMENTO] - [16] - [CLIQUE] - [QUENTE] - CBO Cadastrados Black → YouTube'. Usuário autorizou a ferramenta genérica de upload (ads_create_upload_url/finalize_upload); criativos/anúncios em andamento (subagente).
+- [16] concluída e publicada PAUSADA (confirmado: PAUSED, R$100). Pedido: "Usaremos apenas essa 4 no aquecimento". Imagens subidas por URL pública do Drive (lh3.googleusercontent.com/d/ID=s0) após o usuário compartilhar a pasta. Anúncios em análise:
+  - AD03 (versão clara) 120254000890780247 / cr 1572827758209105
+  - AD06 120254000893580247 / cr 1881110206656747
+  - AD07 120254000895020247 / cr 1220479977215461
+  - AD08 120254000895840247 / cr 2328650924651363
+  - Criativo AD03 Escuro 1089520960805983 criado mas sem anúncio.
