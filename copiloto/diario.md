@@ -469,3 +469,5 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - [15] AD66 120253999985190247, AD67 120253999985270247
 - [15] AD68 120253999985330247, AD69 120253999985690247. Campanha publicada PAUSADA (confirmado: PAUSED, R$300); 8 anúncios publicados, em análise (IN_PROCESS). Todos → https://pg.g7juridico.com.br/black-v2.
 - [15] conjunto 120253999928470247 (pedido: 'remover sugestao... excluir lista cadastrados black 2026'): 'Usar como sugestão' desligado (targeting_relaxation_types custom_audience=0, lookalike=0), exclusão + 120253993366660247 publico-cadastrados-black26-rd.csv. Confirmado ao vivo: 185 públicos, 0 semelhantes implícitos, 2 exclusões.
+
+## 20/11 — 'pode aplicar em todas': desligar 'Usar como sugestão' + excluir lista cadastrados Black 26 (120253993366660247) em todos os conjuntos ativos da Black ([01],[02],[05],[08],[09],[10],[11],[12],[14]) — EM ANDAMENTO (subagente; progresso em scratchpad/excl-todas/progresso.tsv)
