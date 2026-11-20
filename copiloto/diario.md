@@ -492,3 +492,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Criativos: AD60 1147792461043637, AD61 1280518727630234 (copy padrão, /black, automáticos OFF). Criando anúncios no conjunto 120253994179060247.
 - Anúncios publicados na [11] (em análise): AD60 120254000948370247, AD61 120254000948580247. [11] agora com 13 anúncios.
 - 20/11: [15] orçamento R$300 → R$450 (pedido: 'pode subir a 15 para 450'). Confirmado ao vivo. Obs.: nome da campanha aparece agora como [FASE01] (alterado fora do copiloto).
+- 20/11: usuário ajustou os nomes das campanhas no Gerenciador (nomenclatura dele prevalece; ids.md mantém os IDs).
