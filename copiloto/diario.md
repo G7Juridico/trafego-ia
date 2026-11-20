@@ -459,3 +459,6 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - [CAD26] 120252356388350247 (10 anúncios), [ISC26] 120252122540150247 (12), [QUE26] 120251872401200247 (27): 49 anúncios ativos / 40 criativos.
 - materiais.g7juridico.com.br/<caminho> → pg.g7juridico.com.br/<mesmo caminho> (caderno-de-atualizacoes-juridicas-cadastro, desafiog7, pdf-questoes/cadastro). Texto, mídia, CTA e UTMs mantidos.
 - Progresso por anúncio em scratchpad/links-perenes/progresso.tsv.
+- CONCLUÍDO (20/11): 48 de 49 anúncios com link novo pg.g7juridico.com.br, verificado ao vivo (novo creative_id + link_url). CAD26 9/9, ISC26 10/11, QUE26 29/29. Nenhum erro; nenhum status/orçamento alterado. Após publicar: 16 do QUE26 em PENDING_REVIEW, demais ACTIVE/IN_PROCESS.
+- NÃO trocado: 120252855066160247 [ISC26] [AD03] - Gabarito (criativo 1676824976746549): a API não devolve a mídia do criativo; recriar sairia sem imagem. Segue ativo no link antigo — trocar à mão no Gerenciador.
+- 9 anúncios ISC26 tinham vários textos (asset_feed_spec): reenviado igual, só o link mudou.
