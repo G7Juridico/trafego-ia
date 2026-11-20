@@ -478,3 +478,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Campanha 120254000719000247 "[BLACK26] - [AQUECIMENTO] - [16] - [CLIQUE] - [QUENTE] - CBO Cadastrados Black → YouTube" · Tráfego · CBO R$100 · rascunho PAUSADA.
 - Conjunto 120254000725380247: público = 120253761230230247 (pixel Cadastrou Black 60D) + 120253993366660247 (lista RD cadastrados); sem sugestão; IG feed+stories; 18+; otimização cliques no link.
 - Criativos AQC AD03 (claro e escuro), AD06, AD07, AD08: pendentes (upload de imagem).
+- [16] renomeada: '[BLACK26] - [FASE02] - [AQUECIMENTO] - [16] - [CLIQUE] - [QUENTE] - CBO Cadastrados Black → YouTube'. Usuário autorizou a ferramenta genérica de upload (ads_create_upload_url/finalize_upload); criativos/anúncios em andamento (subagente).
