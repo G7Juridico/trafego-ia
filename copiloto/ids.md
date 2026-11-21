@@ -647,3 +647,12 @@ Criativos trocados em 18/11 para link https://pg.g7juridico.com.br/black-ads (ur
 |---|---|---|
 | AD60 Nativo Quem Já Escolheu | 120254000948370247 | 1147792461043637 |
 | AD61 Nativo Dizer Sim | 120254000948580247 | 1280518727630234 |
+
+## [17] Aquecimento ABO (21/11) — campanha 120254026022800247 (OUTCOME_TRAFFIC, ABO, R$25/conjunto, PAUSADA)
+| Ad | Conjunto | Anúncio | Criativo |
+|---|---|---|---|
+| AD01 Temos um encontro marcado | 120254026023960247 | 120254026114760247 | 1538220358411011 |
+| AD02 Ative as notificações | 120254026064020247 | 120254026213810247 | 1489728996471306 |
+| AD04 Não perca os sorteios | 120254026079170247 | 120254026317420247 | 1081276464934677 |
+| AD05 Coloque a data na sua agenda | 120254026083570247 | 120254026321930247 | 1620218766452114 |
+Público igual à [16] (Pixel 60D + Lista RD, sugestão off). Versão clara, 4x5 feed + 9x16 story. Mesmo texto da [16] (igual em todos os anúncios da [16]).
