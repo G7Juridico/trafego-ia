@@ -498,3 +498,5 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Relatório cpl-real-2026-11-20-parcial.md. Captação R$1.138 / 158 pessoas = R$7,20. [15] V2 R$3,25; [12] R$4,89; [11] R$16,51 (pior).
 - Correção: o relatório "20/11 parcial" acima era na verdade de 21/11 de manhã (gasto Meta cedo × leads até 18h22). Foi substituído por cpl-real-hoje-2026-11-21-18h.md: captação R$2.021 / 158 pessoas = R$12,79; [15] R$10,40; [11] R$10,98; [02] R$20,76; [14] R$21,44.
 - 21/11 ~18h30: relatório cpl-real-3d-2026-11-19a21.md. CPL real 3d R$14,94 (580 pessoas, R$8.664). Melhor [15] R$10,64; piores [14] R$29,90, [02] R$22,23, [09] R$20,25.
+- 21/11 ~18h40: usuário pediu pausar [14] (120253994278440247) e [02] (120253773461420247). Iniciando.
+- Feito: [14] e [02] PAUSED (confirmado effective_status PAUSED). Saem ~R$400/dia (02 R$300 + 14 R$100). Captação ativa agora ≈ R$2.700/dia. Verba não realocada (aguarda decisão).
