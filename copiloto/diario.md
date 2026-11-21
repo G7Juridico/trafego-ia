@@ -500,3 +500,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 21/11 ~18h30: relatório cpl-real-3d-2026-11-19a21.md. CPL real 3d R$14,94 (580 pessoas, R$8.664). Melhor [15] R$10,64; piores [14] R$29,90, [02] R$22,23, [09] R$20,25.
 - 21/11 ~18h40: usuário pediu pausar [14] (120253994278440247) e [02] (120253773461420247). Iniciando.
 - Feito: [14] e [02] PAUSED (confirmado effective_status PAUSED). Saem ~R$400/dia (02 R$300 + 14 R$100). Captação ativa agora ≈ R$2.700/dia. Verba não realocada (aguarda decisão).
+- 21/11: pedido — criar [17] Aquecimento ABO (cópia da [16]) com AD01/AD02/AD04/AD05, 1 conjunto por anúncio a R$25/dia, tudo PAUSADO. Delegado a subagente; progresso em scratchpad/aqc2/progresso.tsv.
