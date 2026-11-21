@@ -496,3 +496,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 
 ## 20/11 — CPL real do dia (parcial)
 - Relatório cpl-real-2026-11-20-parcial.md. Captação R$1.138 / 158 pessoas = R$7,20. [15] V2 R$3,25; [12] R$4,89; [11] R$16,51 (pior).
+- Correção: o relatório "20/11 parcial" acima era na verdade de 21/11 de manhã (gasto Meta cedo × leads até 18h22). Foi substituído por cpl-real-hoje-2026-11-21-18h.md: captação R$2.021 / 158 pessoas = R$12,79; [15] R$10,40; [11] R$10,98; [02] R$20,76; [14] R$21,44.
