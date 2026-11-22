@@ -502,3 +502,5 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Feito: [14] e [02] PAUSED (confirmado effective_status PAUSED). Saem ~R$400/dia (02 R$300 + 14 R$100). Captação ativa agora ≈ R$2.700/dia. Verba não realocada (aguarda decisão).
 - 21/11: pedido — criar [17] Aquecimento ABO (cópia da [16]) com AD01/AD02/AD04/AD05, 1 conjunto por anúncio a R$25/dia, tudo PAUSADO. Delegado a subagente; progresso em scratchpad/aqc2/progresso.tsv.
 - [17] criada e publicada PAUSADA (campanha 120254026022800247, 4 conjuntos R$25, 4 anúncios). IDs em ids.md. Nada ativado.
+- 22/11: usuário pediu 'ativar 17'. Iniciando ativação (campanha + 4 conjuntos + 4 anúncios).
+- [17] ATIVADA a pedido do usuário: campanha + 4 conjuntos + 4 anúncios com status ACTIVE (anúncios em IN_PROCESS/revisão). +R$100/dia. [16] segue ativa em paralelo (mesmo público).
