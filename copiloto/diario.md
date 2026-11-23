@@ -511,3 +511,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 23/11 09h08: CPL real hoje R$847 / 87 pessoas = R$9,74 ([05] 7,23; [01] 7,89; [15] 8,86; [12] 10,05; [11] 12,92; [08] 12,98; [10] 12,15).
 - 23/11: cpl-real-3d-2026-11-21a23.md — 3d R$7.213 / 578 = R$12,48; dia 23 parcial R$9,92.
 - 23/11: [12] orçamento 500→300/dia a pedido do usuário (confirmado live: 300, ACTIVE). Captação ativa ≈ R$2.175/dia ([01]300 [05]400 [08]75 [10]50 [11]600 [12]300 [15]450).
+- 23/11 13h10: cpl-real-hoje-2026-11-23-13h.md — R$1.394 / 138 = R$10,10. Sem UTM 73.
