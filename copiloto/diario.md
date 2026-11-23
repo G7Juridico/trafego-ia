@@ -505,3 +505,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 22/11: usuário pediu 'ativar 17'. Iniciando ativação (campanha + 4 conjuntos + 4 anúncios).
 - [17] ATIVADA a pedido do usuário: campanha + 4 conjuntos + 4 anúncios com status ACTIVE (anúncios em IN_PROCESS/revisão). +R$100/dia. [16] segue ativa em paralelo (mesmo público).
 - 23/11: relatório cpl-real-black-acumulado-2026-11-23.md — captação R$52.870 / 3.779 pessoas = R$13,99 real (pixel R$8,51).
+- 23/11: [09] Lista Alunos (120253973746080247) PAUSADA a pedido do usuário (confirmado PAUSED). Sai R$25/dia; captação ativa ≈ R$2.675/dia.
