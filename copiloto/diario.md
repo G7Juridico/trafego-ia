@@ -507,3 +507,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 23/11: relatório cpl-real-black-acumulado-2026-11-23.md — captação R$52.870 / 3.779 pessoas = R$13,99 real (pixel R$8,51).
 - 23/11: [09] Lista Alunos (120253973746080247) PAUSADA a pedido do usuário (confirmado PAUSED). Sai R$25/dia; captação ativa ≈ R$2.675/dia.
 - 23/11 09h: cpl-real-hoje-2026-11-23-09h.md — R$820 / 80 pessoas = R$10,25. [11] pior (R$15,29) e já gastou 31% do orçamento.
+- 23/11: [11] orçamento 900→600/dia a pedido do usuário (confirmado live: 600, ACTIVE). Captação ativa ≈ R$2.375/dia.
