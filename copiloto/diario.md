@@ -516,3 +516,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 23/11: cpl-novos-rd-2026-11-05a18.md — CPL novos no RD (05–18/11) R$37,27 vs R$14,31 novos Black. [02]/[06] Listas RD: 8–11% novos (CPL R$160–209). Precisa export RD novo para 19/11+.
 - 24/11 ~09h50: cpl-real-2026-11-23e24.md — 23/11 fechado R$2.645 / 243 = R$10,88; hoje parcial R$12,66. 215 sem UTM em 23/11 (~20 com fbclid).
 - 24/11: geral-black-2026-11-24.md — captação R$55.396 / 3.995 = R$13,87 real; ritmo ok (falta ≈R$2.090/dia).
+- 24/11 18h47: cpl-real-2026-11-24-19h.md — hoje R$1.423 / 112 = R$12,70 ([01] e [05] ~R$21); geral R$56.161 / 4.051 = R$13,86. AD70–72 (vídeos 4x5/9x16 + doc de copy) localizados no Drive; aguardando destino.
