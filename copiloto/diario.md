@@ -518,3 +518,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 24/11: geral-black-2026-11-24.md — captação R$55.396 / 3.995 = R$13,87 real; ritmo ok (falta ≈R$2.090/dia).
 - 24/11 18h47: cpl-real-2026-11-24-19h.md — hoje R$1.423 / 112 = R$12,70 ([01] e [05] ~R$21); geral R$56.161 / 4.051 = R$13,86. AD70–72 (vídeos 4x5/9x16 + doc de copy) localizados no Drive; aguardando destino.
 - 24/11: pedido — subir AD70/71/72 (vídeos convite) na [15], [01], [05] e [11]. Regra: publicar PAUSADOS, ativar só com pedido. Delegado a subagente; progresso em scratchpad/ad70/progresso.tsv.
+- 24/11: AD70–72 publicados PAUSADOS nas [15], [01], [05], [11] (12 anúncios, 0 erros, em revisão). Campanhas e orçamentos intactos. IDs em ids.md. Aguardando 'ativar'.
