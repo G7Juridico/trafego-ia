@@ -515,3 +515,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 23/11: pedido — CPL real só com leads NOVOS no RD Station. Sem campo no Supabase (rd_status só 'ok'). Usando export RD da lista Black (19/11, 'Data da primeira conversão'): antigo no RD = 1ª conversão < 05/11. Cruzamento por hash (sem PII no repo) para 05–18/11.
 - 23/11: cpl-novos-rd-2026-11-05a18.md — CPL novos no RD (05–18/11) R$37,27 vs R$14,31 novos Black. [02]/[06] Listas RD: 8–11% novos (CPL R$160–209). Precisa export RD novo para 19/11+.
 - 24/11 ~09h50: cpl-real-2026-11-23e24.md — 23/11 fechado R$2.645 / 243 = R$10,88; hoje parcial R$12,66. 215 sem UTM em 23/11 (~20 com fbclid).
+- 24/11: geral-black-2026-11-24.md — captação R$55.396 / 3.995 = R$13,87 real; ritmo ok (falta ≈R$2.090/dia).
