@@ -532,3 +532,10 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 25/11: novos AQC localizados no Drive: AD14 (5 dias), AD15 (4 dias), AD16 (3 dias), AD21–23 Notas. Proposta enviada ao usuário; aguardando confirmação/orçamento.
 - 25/11: usuário aprovou 'pode montar assim': [17] + 4 conjuntos (AD14 hoje→23h59 R$100; AD15 26/11 R$100; AD16 27/11 R$100; Notas AD21–23 até 30/11 R$50/dia). Montar PAUSADO. Delegado a subagente; progresso em scratchpad/ad16/progresso.tsv.
 - 25/11: usuário pediu 'ativar AD14 e Notas' (aguardando subagente terminar a montagem).
+
+## 25/11 ~17h45 — Aquecimento [17]: 4 conjuntos novos criados + ativação AD14 e Notas
+- Campanha [17] 120254026022800247. Criados 4 conjuntos (mesmo público/link/copy do AD01) e 6 anúncios (versão claro), publicados PAUSADOS.
+- AD14/AD15/AD16: orçamento **vitalício R$100** cada (Meta exige ≥24h para orçamento diário, erro 1487793). Notas: R$50/dia até 30/11.
+- Início AD14 e Notas movido para 25/11 18:00 (horário original já tinha passado).
+- Pedido "ativar AD14 e Notas": ativados conjunto AD14 + anúncio AD14, conjunto Notas + AD21, AD22, AD23. Leitura ao vivo: AD14 ACTIVE (PENDING_REVIEW), AD21–23 ACTIVE (IN_PROCESS).
+- AD15 e AD16 seguem PAUSADOS (rodar só 26/11 e 27/11 quando pedido).
