@@ -531,3 +531,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 25/11: total 2025 × 2026 adicionado ao comparativo (2026 até agora R$57,1k / 6.981 pixel / ≈4.100 pessoas).
 - 25/11: novos AQC localizados no Drive: AD14 (5 dias), AD15 (4 dias), AD16 (3 dias), AD21–23 Notas. Proposta enviada ao usuário; aguardando confirmação/orçamento.
 - 25/11: usuário aprovou 'pode montar assim': [17] + 4 conjuntos (AD14 hoje→23h59 R$100; AD15 26/11 R$100; AD16 27/11 R$100; Notas AD21–23 até 30/11 R$50/dia). Montar PAUSADO. Delegado a subagente; progresso em scratchpad/ad16/progresso.tsv.
+- 25/11: usuário pediu 'ativar AD14 e Notas' (aguardando subagente terminar a montagem).
