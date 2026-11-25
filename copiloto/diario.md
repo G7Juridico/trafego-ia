@@ -521,3 +521,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 24/11: AD70–72 publicados PAUSADOS nas [15], [01], [05], [11] (12 anúncios, 0 erros, em revisão). Campanhas e orçamentos intactos. IDs em ids.md. Aguardando 'ativar'.
 - 25/11: usuário pediu 'ativar AD70–72' (12 anúncios). Iniciando ativação um a um; progresso em scratchpad/ad70/ativacao.tsv.
 - 25/11: AD70–72 ATIVADOS (12 anúncios). Confirmado: [15], [01], [05] ACTIVE/ACTIVE; [11] ACTIVE/IN_PROCESS (processando).
+- 25/11: novo criativo AQC AD16 'Faltam 3 dias' (lembrete, rodar só 27/11 p/ inscritos, → YouTube). Arquivos localizados (claro/escuro 4x5 e 9x16). Proposta: conjunto novo na [17] com agenda 27/11. Aguardando orçamento.
