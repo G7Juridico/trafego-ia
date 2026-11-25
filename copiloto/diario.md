@@ -527,3 +527,4 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 25/11: usuário pediu pausar [12] (120253994217360247) e [05] (120253838129080247). Iniciando.
 - 25/11: [12] e [05] PAUSADAS (confirmado PAUSED). Captação ativa: [01]300 [08]75 [10]50 [11]600 [15]450 = R$1.475/dia vs ≈R$2.150 necessários (subgasto ≈R$4k até 30/11). AD70–72 da [05] param junto.
 - 25/11: cpl-novos-ativas-2026-11-25.md — CPL novos ativas: ontem 13,66 · 3d 12,14 · geral 12,99. [01] ontem 31,41.
+- 25/11: comparativo-bla25-bla26-captacao.md (até 24/11): 2026 R$56,7k / 6.941 pixel (CPL 8,17) × 2025 R$42,5k / 2.927 (14,51). CPM igual ~R$20; CTR link 0,72% × 0,78%. CPL real 2026 ≈13,9.
