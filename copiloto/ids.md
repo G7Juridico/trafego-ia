@@ -679,7 +679,7 @@ Título "Black 10 anos G7", descrição "Entre para o Grupo Oficial", LEARN_MORE
 | | | AD23 | 120254095508970247 | 2758138024641261 | | | ATIVO |
 
 ### [18] Captação — CBO Criativos Aquecimento (criada 26/11, PAUSADA)
-Campanha: 120254110989160247 — "[BLACK26] - [FASE01] - [18] - [CAPTAÇÃO] - [QUENTE] - CBO Criativos Aquecimento (Públ. Personalizados + Visitou Black)" — CBO R$500/dia — PAUSADA
+Campanha: 120254110989160247 — "[BLACK26] - [FASE01] - [18] - [CAPTAÇÃO] - [QUENTE] - CBO Criativos Aquecimento (Públ. Personalizados + Visitou Black)" — CBO R$500/dia — ATIVA desde 26/11 (sem mínimo por conjunto)
 
 | Conjunto | ID | Públicos | Mín./dia |
 |---|---|---|---|

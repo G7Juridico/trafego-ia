@@ -565,3 +565,9 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - 11 criativos de aquecimento (sem "faltam X dias") com texto/URL do AD51; 22 anúncios. Tudo publicado PAUSADO, verificado ao vivo. IDs em ids.md.
 - Desvios: 9x16 aplicado em story+reels em todos (7 originais usavam 9x16 só no IG story); AD07 com 1 texto só (original tinha 6 variações).
 - Nada ativado — aguardando pedido.
+
+## 26/11 — Campanha [18] ATIVADA (pedido do usuário)
+- Ativação dos conjuntos recusada pela Meta (erro 1885648 "mínimo maior que orçamento", apesar de 2×R$100 < R$500).
+- Usuário autorizou: removido daily_min_spend_target dos 2 conjuntos (agora 0) e ativado tudo.
+- Campanha 120254110989160247 ATIVA (R$500/dia CBO), conjuntos A e B ATIVOS, 22 anúncios ATIVOS (4 do conj. B ainda IN_PROCESS/revisão no momento da checagem).
+- Captação total passa a R$1.925/dia.
