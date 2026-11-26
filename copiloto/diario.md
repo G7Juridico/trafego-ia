@@ -547,3 +547,7 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Pedido: "pode cortar a 01 para 200". Campanha 120253760319570247 daily_budget 20000 (CBO), publicado só esse objeto. Leitura ao vivo: ACTIVE, R$200/dia.
 - Motivo: CPL de novos 31,41 (24/11), 26,80 (25/11), 17,52 em 3 dias.
 - Ativas captação agora: [01] 200, [08] 75, [10] 50, [11] 600, [15] 450 = R$1.375/dia.
+
+## 26/11 — [08] AD51 e AD45: orçamento 25 → 50
+- Pedido: "pode subir AD51 e AD45 para 50". Conjuntos 120253940836090247 (38 AD51 Tweet Sorteios) e 120253940836710247 (32 AD45 Nativo O Que Esperar) daily_budget 5000; publicados só esses 2. Leitura ao vivo: ambos ACTIVE/ACTIVE, R$50/dia. AD47 segue R$25.
+- [08] agora R$125/dia. Captação ativa: [01] 200, [08] 125, [10] 50, [11] 600, [15] 450 = R$1.425/dia.
