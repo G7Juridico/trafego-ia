@@ -551,3 +551,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 ## 26/11 — [08] AD51 e AD45: orçamento 25 → 50
 - Pedido: "pode subir AD51 e AD45 para 50". Conjuntos 120253940836090247 (38 AD51 Tweet Sorteios) e 120253940836710247 (32 AD45 Nativo O Que Esperar) daily_budget 5000; publicados só esses 2. Leitura ao vivo: ambos ACTIVE/ACTIVE, R$50/dia. AD47 segue R$25.
 - [08] agora R$125/dia. Captação ativa: [01] 200, [08] 125, [10] 50, [11] 600, [15] 450 = R$1.425/dia.
+
+## 26/11 — Nova campanha [18] captação com criativos de aquecimento (em montagem)
+- Pedido: campanha nova CBO R$500/dia; conjuntos por público (opção 1): (A) Todos os Públicos Personalizados G7 (mesma lista do [08]); (B) Visitou a página Black 60D (120253761230320247). Ambos excluem cadastrados (pixel 60D 120253761230230247 + lista RD 120253993366660247). Mínimo R$100/conjunto.
+- Criativos: os 11 de aquecimento sem "Faltam X dias" (AD01–08, AD21–23); texto do AD51, link /black, UTMs padrão. Tudo PAUSADO até pedido de ativação.
+- Obs.: na consulta de CPL real, regex de campanha precisa incluir [18].
