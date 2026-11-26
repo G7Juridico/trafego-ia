@@ -559,3 +559,9 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 
 ## 26/11 — Ativado AD15 Faltam 4 dias ([17])
 - Pedido: "ativar AD15". Conjunto 120254092390600247 e anúncio 120254092428160247 ativados. Leitura ao vivo: anúncio ACTIVE (IN_PROCESS). Vitalício R$100, até 26/11 23:59. AD16 segue pausado (27/11).
+
+## 26/11 — Campanha [18] montada (PAUSADA)
+- Campanha 120254110989160247, CBO R$500/dia, 2 conjuntos (A públicos personalizados, B visitou Black 60D), mín. R$100 cada, exclui cadastrados.
+- 11 criativos de aquecimento (sem "faltam X dias") com texto/URL do AD51; 22 anúncios. Tudo publicado PAUSADO, verificado ao vivo. IDs em ids.md.
+- Desvios: 9x16 aplicado em story+reels em todos (7 originais usavam 9x16 só no IG story); AD07 com 1 texto só (original tinha 6 variações).
+- Nada ativado — aguardando pedido.
