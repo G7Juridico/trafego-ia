@@ -542,3 +542,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 
 ## 25/11 — Notas AD21-23: término alterado
 - Pedido: "Notas AD21-23 - pode rodar até dia 30/11 ás 20:00." Conjunto 120254092411560247 end_time → 2026-11-30 20:00 (-0300). Publicado; leitura ao vivo: ACTIVE/ACTIVE, R$50/dia, 25/11 18:00 → 30/11 20:00.
+
+## 26/11 — [01] Públicos Personalizados: orçamento 300 → 200
+- Pedido: "pode cortar a 01 para 200". Campanha 120253760319570247 daily_budget 20000 (CBO), publicado só esse objeto. Leitura ao vivo: ACTIVE, R$200/dia.
+- Motivo: CPL de novos 31,41 (24/11), 26,80 (25/11), 17,52 em 3 dias.
+- Ativas captação agora: [01] 200, [08] 75, [10] 50, [11] 600, [15] 450 = R$1.375/dia.
