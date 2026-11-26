@@ -556,3 +556,6 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Pedido: campanha nova CBO R$500/dia; conjuntos por público (opção 1): (A) Todos os Públicos Personalizados G7 (mesma lista do [08]); (B) Visitou a página Black 60D (120253761230320247). Ambos excluem cadastrados (pixel 60D 120253761230230247 + lista RD 120253993366660247). Mínimo R$100/conjunto.
 - Criativos: os 11 de aquecimento sem "Faltam X dias" (AD01–08, AD21–23); texto do AD51, link /black, UTMs padrão. Tudo PAUSADO até pedido de ativação.
 - Obs.: na consulta de CPL real, regex de campanha precisa incluir [18].
+
+## 26/11 — Ativado AD15 Faltam 4 dias ([17])
+- Pedido: "ativar AD15". Conjunto 120254092390600247 e anúncio 120254092428160247 ativados. Leitura ao vivo: anúncio ACTIVE (IN_PROCESS). Vitalício R$100, até 26/11 23:59. AD16 segue pausado (27/11).
