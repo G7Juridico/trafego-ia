@@ -701,3 +701,11 @@ Exclusões (ambos): 120253761230230247, 120253993366660247
 | AD22 | 2050401055658854 | 120254111250370247 | 120254111288970247 |
 | AD23 | 1015003528330397 | 120254111254040247 | 120254111293350247 |
 Texto/URL/título do AD51; 4x5 feed, 9x16 story+reels; Advantage+ OFF.
+
+### [17] Aquecimento — AD18/AD19/AD20 programados (criados 27/11)
+| Conjunto | ID | Período | Vitalício | Anúncio | Ad ID | Criativo |
+|---|---|---|---|---|---|---|
+| AD18 É amanhã | 120254146954150247 | 29/11 00:00–23:59 | R$100 | AD18 | 120254147026280247 | 2090161982371251 |
+| AD19+AD20 É hoje | 120254146999970247 | 30/11 00:00–20:00 | R$150 | AD19 | 120254147026720247 | 997395196775474 |
+| | | | | AD20 | 120254147027170247 | 1127192353059221 |
+Todos ATIVOS com início agendado. Público/link do AD14 (Pixel 60D + Lista RD → YouTube), IG feed+story.
