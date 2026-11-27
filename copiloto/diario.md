@@ -571,3 +571,8 @@ Todos: VALUE, Purchase pixel 1250040671830251, attribution_spec 7d clique + 1d v
 - Usuário autorizou: removido daily_min_spend_target dos 2 conjuntos (agora 0) e ativado tudo.
 - Campanha 120254110989160247 ATIVA (R$500/dia CBO), conjuntos A e B ATIVOS, 22 anúncios ATIVOS (4 do conj. B ainda IN_PROCESS/revisão no momento da checagem).
 - Captação total passa a R$1.925/dia.
+
+## 27/11 — AD16 ativado + montagem AD18/19/20 programados
+- Pedido: "pode montar assim e ativar o AD16" / "deixa programado para começar".
+- AD16 Faltam 3 dias ([17]): conjunto 120254092399400247 e anúncio 120254095397750247 ATIVOS (anúncio IN_PROCESS). Vitalício R$100, 27/11 00:00–23:59.
+- Em montagem (subagente) na [17], mesmo público/link do AD14, copy do doc: AD18 É amanhã (29/11 00:00–23:59, vitalício R$100) e AD19+AD20 É hoje (30/11 00:00–20:00, vitalício R$150). Publicação ATIVA com início agendado.
